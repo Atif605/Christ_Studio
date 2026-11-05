@@ -1,0 +1,49 @@
+{
+  "compilerOptions": {
+    "target": "ES2022",
+    "experimentalDecorators": true,
+    "useDefineForClassFields": false,
+    "module": "ESNext",
+    "lib": [
+      "ES2022",
+      "DOM",
+      "DOM.Iterable"
+    ],
+    "skipLibCheck": true,
+    "moduleResolution": "bundler",
+    "isolatedModules": true,
+    "moduleDetection": "force",
+    "allowJs": true,
+    "jsx": "react-jsx",
+    
+    /* Cross-OS Case Sensitivity Integration */
+    "forceConsistentCasingInFileNames": true,
+
+    /* Updated to '6.0' to silence the deprecation warning */
+    "ignoreDeprecations": "6.0",
+    
+    /* Path Aliases Configuration */
+    "baseUrl": ".",
+    "paths": {
+      "@/*": [
+        "./src/*"
+      ]
+    },
+    
+    "allowImportingTsExtensions": true,
+    "noEmit": true,
+
+    /* Sifarish ki gayi Type-Safety Settings (Optional) */
+    "strict": true,
+    "noUnusedLocals": true,
+    "noUnusedParameters": true,
+    "noImplicitReturns": true
+  },
+  "include": [
+    "src"
+  ],
+  "exclude": [
+    "node_modules",
+    "dist"
+  ]
+}

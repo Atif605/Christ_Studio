@@ -1,0 +1,142 @@
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+
+    // Helper Utility: Check if user is authenticated
+    function isAuthenticated() {
+      return request.auth != null;
+    }
+
+    // Helper Utility: Check if user is an admin
+    function isAdmin() {
+      return isAuthenticated() && 
+        exists(/databases/$(database)/documents/users/$(request.auth.uid)) &&
+        get(/databases/$(database)/documents/users/$(request.auth.uid)).data.role == 'admin';
+    }
+
+    // 1. USERS COLLECTION (User Profiles)
+    match /users/{userId} {
+      allow read: if true;
+      allow create: if isAuthenticated() && userId == request.auth.uid;
+      allow update: if isAuthenticated() && (
+        userId == request.auth.uid ||
+        request.resource.data.diff(resource.data).affectedKeys().hasOnly(['followers', 'notifications'])
+      );
+      allow delete: if false;
+    }
+
+    // 2. USERS BY EMAIL COLLECTION (Unique Email Lookups)
+    match /users_by_email/{emailKey} {
+      allow read: if true;
+      allow create, update: if isAuthenticated();
+      allow delete: if false;
+    }
+
+    // 3. MEDIA COLLECTION (Videos, Likes, Comments, Views)
+    match /media/{videoId} {
+      allow read: if true;
+      allow create: if isAuthenticated();
+      allow delete: if isAuthenticated() && resource.data.creatorId == request.auth.uid;
+      allow update: if isAuthenticated() && (
+        resource.data.creatorId == request.auth.uid ||
+        request.resource.data.diff(resource.data).affectedKeys().hasOnly(['likes', 'dislikes', 'comments', 'views'])
+      );
+    }
+
+    // 4. PRAYERS COLLECTION (Prayer Requests, Counts, Comments)
+    match /prayers/{prayerId} {
+      allow read: if true;
+      allow create: if isAuthenticated() && request.resource.data.authorId == request.auth.uid;
+      allow delete: if isAuthenticated() && resource.data.authorId == request.auth.uid;
+      allow update: if isAuthenticated() && (
+        resource.data.authorId == request.auth.uid ||
+        request.resource.data.diff(resource.data).affectedKeys().hasOnly(['prayedBy', 'prayerCount', 'comments', 'isAnswered', 'praiseReportText'])
+      );
+    }
+
+    // 5. JOURNALS COLLECTION (Private Study Diary - Highly Secure)
+    match /journals/{journalId} {
+      allow read, delete: if isAuthenticated() && resource.data.userId == request.auth.uid;
+      allow create: if isAuthenticated() && request.resource.data.userId == request.auth.uid;
+      allow update: if false;
+    }
+
+    // 6. TRIVIA_SCORES COLLECTION (Leaderboard scores & Streaks - ANTI-CHEAT UPDATED)
+    match /trivia_scores/{scoreId} {
+      allow read: if true;
+      // Anti-Cheat: Core data must match auth, score must be 0-5, and streak cannot jump by more than +1
+      allow write: if isAuthenticated() && scoreId == request.auth.uid
+        && request.resource.data.score >= 0 
+        && request.resource.data.score <= 5
+        && request.resource.data.userId == request.auth.uid
+        && (resource == null || request.resource.data.xp >= resource.data.xp)
+        && (resource == null || request.resource.data.streak <= resource.data.streak + 1);
+    }
+
+    // 6b. TRIVIA_QUESTIONS COLLECTION (New Scalable Question Database)
+    match /trivia_questions/{questionId} {
+      // Anyone can read questions to play
+      allow read: if true;
+      // Only admins can add, update or delete questions
+      allow write, update, delete: if isAdmin();
+    }
+
+    // 7. PROMOTION_REQUESTS COLLECTION (Promotion requests)
+    match /promotion_requests/{promoId} {
+      allow read: if true;
+      allow create: if isAuthenticated() && request.resource.data.approved == false;
+      allow update: if isAdmin() || (isAuthenticated() && (
+        request.resource.data.diff(resource.data).affectedKeys().hasOnly(['clicks'])
+      ));
+      allow delete: if isAdmin();
+    }
+
+    // 8. SUPPORT_INQUIRIES COLLECTION (Help Center Support Desk messages)
+    match /support_inquiries/{inquiryId} {
+      allow create: if true;
+      allow read, update, delete: if isAdmin();
+    }
+
+    // 9. DONATION_REPORTS COLLECTION (Reports of user bank transfers/EasyPaisa)
+    match /donation_reports/{reportId} {
+      allow create: if true;
+      allow read, update, delete: if isAdmin();
+    }
+
+    // 10. PRAYER_CIRCLES COLLECTION (Real-time active prayer circles)
+    match /prayer_circles/{circleId} {
+      allow read: if true;
+      allow create: if isAuthenticated();
+      allow update: if isAuthenticated();
+      allow delete: if isAuthenticated() && (resource.data.creatorId == request.auth.uid || isAdmin());
+    }
+
+    // 11. URDU_BIBLE COLLECTION (Public Bible Text)
+    match /urdu_bible/{documentId} {
+      allow read: if true;
+      allow write: if false; // Only Admin SDK can write
+    }
+
+    // 12. THE_HOLY_BIBLE COLLECTION (Public Bible Text)
+    match /the_holy_bible/{documentId} {
+      allow read: if true;
+      allow write: if false; // Only Admin SDK can write
+    }
+
+    // Default global fallback rule (Denies any unspecified wildcard collections access)
+    match /{document=**} {
+      allow read, write: if false;
+    }
+
+    // 1. Trivia Stages: Sab log baghair login ke read kar sakte hain, par write block hai (Hacking se hifazat)
+    match /trivia_stages/{stageId} {
+      allow read: if true;
+      allow write: if false; 
+    }
+
+    // 2. Trivia Scores: Sirf wahi user apna score read/write kar sakta hai jo logged in ho
+    match /trivia_scores/{userId} {
+      allow read, write: if request.auth != null && request.auth.uid == userId;
+    }
+  }
+}

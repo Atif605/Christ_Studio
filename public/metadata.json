@@ -1,0 +1,6 @@
+{
+  "name": "Christ Studio",
+  "description": "Christ Studio is an interactive social workspace and spiritual media directory designed to connect believers worldwide with sermons, worship, vertical Reels, prayer walls, and quiet time study logs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

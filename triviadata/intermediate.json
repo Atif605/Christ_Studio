@@ -1,0 +1,1542 @@
+[
+  {
+    "dayNumber": 1,
+    "questions": [
+      {
+        "id": "int_d1_q1",
+        "question": "Which tribe was King Saul from?",
+        "urduQuestion": "بادشاہ ساؤل (شاؤل) کا تعلق کس قبیلے سے تھا؟",
+        "options": ["Judah", "Benjamin", "Levi", "Ephraim"],
+        "urduOptions": ["یہوداہ", "بنیامین", "لاوی", "افرائیم"],
+        "answerIndex": 1,
+        "explanation": "1 Samuel 9:1-2.",
+        "urduExplanation": "1 سموئیل 9:1-2"
+      },
+      {
+        "id": "int_d1_q2",
+        "question": "Who anointed Saul as the first king of Israel?",
+        "urduQuestion": "اسرائیل کے پہلے بادشاہ کے طور پر ساؤل کا مسح کس نے کیا؟",
+        "options": ["Nathan", "Samuel", "Eli", "Abner"],
+        "urduOptions": ["ناتن", "سموئیل", "عیلی", "ابنیر"],
+        "answerIndex": 1,
+        "explanation": "1 Samuel 10:1.",
+        "urduExplanation": "1 سموئیل 10:1"
+      },
+      {
+        "id": "int_d1_q3",
+        "question": "Why did God reject Saul from being king?",
+        "urduQuestion": "خدا نے ساؤل کو بادشاہی سے کیوں رد کر دیا؟",
+        "options": ["He built a golden calf", "He spared King Agag and the best livestock against God's command", "He married foreign wives", "He refused to fight the Philistines"],
+        "urduOptions": ["اُس نے سونے کا بچھڑا بنایا", "اُس نے خدا کے حکم کے خلاف بادشاہ اجاج اور بہترین مویشیوں کو بچا لیا", "اُس نے غیر ملکی عورتوں سے شادی کی", "اُس نے فلستیوں سے لڑنے سے انکار کر دیا"],
+        "answerIndex": 1,
+        "explanation": "1 Samuel 15:22-23.",
+        "urduExplanation": "1 سموئیل 15:22-23"
+      },
+      {
+        "id": "int_d1_q4",
+        "question": "Which city was David anointed in by Samuel?",
+        "urduQuestion": "سموئیل نے داؤد کا مسح کس شہر میں کیا تھا؟",
+        "options": ["Jerusalem", "Hebron", "Bethlehem", "Shiloh"],
+        "urduOptions": ["یروشلم", "حبرون", "بیت اللحم", "سیلوہ"],
+        "answerIndex": 2,
+        "explanation": "1 Samuel 16:1-13.",
+        "urduExplanation": "1 سموئیل 16:1-13"
+      },
+      {
+        "id": "int_d1_q5",
+        "question": "What instrument did David play to soothe Saul's troubled spirit?",
+        "urduQuestion": "داؤد نے ساؤل کی پریشان روح کو سکون دینے کے لیے کون سا ساز بجایا؟",
+        "options": ["Flute", "Harp (Lyre)", "Trumpet", "Tambourine"],
+        "urduOptions": ["بنسری", "بربط (ستار)", "نرسنگا", "دف"],
+        "answerIndex": 1,
+        "explanation": "1 Samuel 16:23.",
+        "urduExplanation": "1 سموئیل 16:23"
+      }
+    ]
+  },
+  {
+    "dayNumber": 2,
+    "questions": [
+      {
+        "id": "int_d2_q1",
+        "question": "Who was Jonathan's father?",
+        "urduQuestion": "یونتن کا باپ کون تھا؟",
+        "options": ["David", "Saul", "Samuel", "Jesse"],
+        "urduOptions": ["داؤد", "ساؤل", "سموئیل", "یسی"],
+        "answerIndex": 1,
+        "explanation": "1 Samuel 14:49.",
+        "urduExplanation": "1 سموئیل 14:49"
+      },
+      {
+        "id": "int_d2_q2",
+        "question": "Where did David hide from Saul in a cave?",
+        "urduQuestion": "داؤد نے ساؤل سے بچنے کے لیے کس غار میں پناہ لی؟",
+        "options": ["Adullam", "Macpelah", "Sinai", "Patmos"],
+        "urduOptions": ["عدلام", "مکفلیہ", "سنائی", "پتمس"],
+        "answerIndex": 0,
+        "explanation": "1 Samuel 22:1.",
+        "urduExplanation": "1 سموئیل 22:1"
+      },
+      {
+        "id": "int_d2_q3",
+        "question": "Who was the priest who helped David and was executed by Saul?",
+        "urduQuestion": "وہ کون سا کاہن تھا جس نے داؤد کی مدد کی اور ساؤل نے اسے قتل کروا دیا؟",
+        "options": ["Abiathar", "Ahimelech", "Zadok", "Phinehas"],
+        "urduOptions": ["ابیاتر", "اخیملیق", "صدوق", "فنحاس"],
+        "answerIndex": 1,
+        "explanation": "1 Samuel 22:11-19.",
+        "urduExplanation": "1 سموئیل 22:11-19"
+      },
+      {
+        "id": "int_d2_q4",
+        "question": "Whose wife was Abigail before she married David?",
+        "urduQuestion": "ابیجیل داؤد سے شادی کرنے سے پہلے کس کی بیوی تھی؟",
+        "options": ["Nabal", "Uriah", "Abner", "Joab"],
+        "urduOptions": ["نابال", "اوریاہ", "ابنیر", "یوآب"],
+        "answerIndex": 0,
+        "explanation": "1 Samuel 25:3.",
+        "urduExplanation": "1 سموئیل 25:3"
+      },
+      {
+        "id": "int_d2_q5",
+        "question": "On which mountain did King Saul and Jonathan die?",
+        "urduQuestion": "بادشاہ ساؤل اور یونتن کس پہاڑ پر ہلاک ہوئے؟",
+        "options": ["Mount Carmel", "Mount Gilboa", "Mount Nebo", "Mount Tabor"],
+        "urduOptions": ["کوہِ کرمل", "کوہِ جلبوعہ", "کوہِ نیبو", "کوہِ تبور"],
+        "answerIndex": 1,
+        "explanation": "1 Samuel 31:1-8.",
+        "urduExplanation": "1 سموئیل 31:1-8"
+      }
+    ]
+  },
+  {
+    "dayNumber": 3,
+    "questions": [
+      {
+        "id": "int_d3_q1",
+        "question": "Where was David first anointed king over the house of Judah?",
+        "urduQuestion": "داؤد کو پہلی بار یہوداہ کے گھرانے پر کہاں بادشاہ مسح کیا گیا تھا؟",
+        "options": ["Jerusalem", "Hebron", "Shechem", "Gibeon"],
+        "urduOptions": ["یروشلم", "حبرون", "سکم", "جبعون"],
+        "answerIndex": 1,
+        "explanation": "2 Samuel 2:4.",
+        "urduExplanation": "2 سموئیل 2:4"
+      },
+      {
+        "id": "int_d3_q2",
+        "question": "Which son of Saul reigned over Israel for two years after Saul's death?",
+        "urduQuestion": "ساؤل کی موت کے بعد اُس کے کس بیٹے نے اسرائیل پر دو سال حکومت کی؟",
+        "options": ["Mephibosheth", "Ish-bosheth", "Abner", "Armoni"],
+        "urduOptions": ["مفیبوست", "اشبوست", "ابنیر", "ارمونی"],
+        "answerIndex": 1,
+        "explanation": "2 Samuel 2:8-10.",
+        "urduExplanation": "2 سموئیل 2:8-10"
+      },
+      {
+        "id": "int_d3_q3",
+        "question": "Who was the commander of David's army?",
+        "urduQuestion": "داؤد کے لشکر کا سپہ سالار کون تھا؟",
+        "options": ["Joab", "Abner", "Benaiah", "Jonathan"],
+        "urduOptions": ["یوآب", "ابنیر", "بنایاہ", "یونتن"],
+        "answerIndex": 0,
+        "explanation": "2 Samuel 8:16.",
+        "urduExplanation": "2 سموئیل 8:16"
+      },
+      {
+        "id": "int_d3_q4",
+        "question": "Who died when he touched the Ark of the Covenant to steady it?",
+        "urduQuestion": "عہد کے صندوق کو سہارا دینے کے لیے ہاتھ لگانے پر کون ہلاک ہوا؟",
+        "options": ["Abinadab", "Uzzah", "Ahio", "Obed-edom"],
+        "urduOptions": ["ابینداب", "عُزّہ", "اخیو", "عوبید-ادوم"],
+        "answerIndex": 1,
+        "explanation": "2 Samuel 6:6-7.",
+        "urduExplanation": "2 سموئیل 6:6-7"
+      },
+      {
+        "id": "int_d3_q5",
+        "question": "Which disabled son of Jonathan did David show kindness to?",
+        "urduQuestion": "یونتن کے کس معذور بیٹے پر داؤد نے مہربانی کی؟",
+        "options": ["Mephibosheth", "Ish-bosheth", "Hanun", "Asahel"],
+        "urduOptions": ["مفیبوست", "اشبوست", "حانُون", "عساہیل"],
+        "answerIndex": 0,
+        "explanation": "2 Samuel 9:1-7.",
+        "urduExplanation": "2 سموئیل 9:1-7"
+      }
+    ]
+  },
+  {
+    "dayNumber": 4,
+    "questions": [
+      {
+        "id": "int_d4_q1",
+        "question": "Who was Uriah the Hittite's wife before David took her?",
+        "urduQuestion": "داؤد کے پاس جانے سے پہلے اوریاہ حِتی کی بیوی کون تھی؟",
+        "options": ["Abigail", "Bathsheba", "Michal", "Maacah"],
+        "urduOptions": ["ابیجیل", "بت سبع", "میکل", "معکہ"],
+        "answerIndex": 1,
+        "explanation": "2 Samuel 11:3.",
+        "urduExplanation": "2 سموئیل 11:3"
+      },
+      {
+        "id": "int_d4_q2",
+        "question": "Which prophet confronted King David about his sin with Bathsheba?",
+        "urduQuestion": "کس نبی نے بادشاہ داؤد کو بت سبع کے ساتھ گناہ پر ٹوکا؟",
+        "options": ["Samuel", "Nathan", "Gad", "Elijah"],
+        "urduOptions": ["سموئیل", "ناتن", "جاد", "ایلیاہ"],
+        "answerIndex": 1,
+        "explanation": "2 Samuel 12:1-7.",
+        "urduExplanation": "2 سموئیل 12:1-7"
+      },
+      {
+        "id": "int_d4_q3",
+        "question": "Which son of David rebelled and tried to usurp the throne?",
+        "urduQuestion": "داؤد کے کس بیٹے نے بغاوت کی اور تخت پر قبضہ کرنے کی کوشش کی؟",
+        "options": ["Amnon", "Adonijah", "Absalom", "Solomon"],
+        "urduOptions": ["امنون", "ادونیاہ", "ابشالوم", "سلیمان"],
+        "answerIndex": 2,
+        "explanation": "2 Samuel 15.",
+        "urduExplanation": "2 سموئیل 15"
+      },
+      {
+        "id": "int_d4_q4",
+        "question": "How did Absalom die during his battle against David's army?",
+        "urduQuestion": "داؤد کی فوج کے خلاف جنگ میں ابشالوم کیسے مارا گیا؟",
+        "options": ["He was struck by lightning", "His hair got caught in an oak tree and Joab speared him", "He fell off a cliff", "He was poisoned"],
+        "urduOptions": ["اُس پر بجلی گری", "اُس کے بال شاہ بلوط کے درخت میں پھنس گئے اور یوآب نے اسے نیزہ مارا", "وہ چٹان سے گر گیا", "اُسے زہر دیا گیا تھا"],
+        "answerIndex": 1,
+        "explanation": "2 Samuel 18:9-15.",
+        "urduExplanation": "2 سموئیل 18:9-15"
+      },
+      {
+        "id": "int_d4_q5",
+        "question": "Whose threshing floor did David buy to build an altar to stop a plague?",
+        "urduQuestion": "داؤد نے وبا کو روکنے کے لیے قربان گاہ بنانے کی خاطر کس کا کھلیان خریدا تھا؟",
+        "options": ["Araunah (Ornan)", "Nabal", "Hiram", "Barzillai"],
+        "urduOptions": ["اروناہ (اورنان)", "نابال", "حیرام", "برزلی"],
+        "answerIndex": 0,
+        "explanation": "2 Samuel 24:18-25.",
+        "urduExplanation": "2 سموئیل 24:18-25"
+      }
+    ]
+  },
+  {
+    "dayNumber": 5,
+    "questions": [
+      {
+        "id": "int_d5_q1",
+        "question": "Which son of David tried to make himself king when David was old, before Solomon was anointed?",
+        "urduQuestion": "داؤد کے بڑھاپے میں سلیمان سے پہلے کس بیٹے نے خود کو بادشاہ بنانے کی کوشش کی؟",
+        "options": ["Absalom", "Adonijah", "Amnon", "Chileab"],
+        "urduOptions": ["ابشالوم", "ادونیاہ", "امنون", "کلیاب"],
+        "answerIndex": 1,
+        "explanation": "1 Kings 1:5.",
+        "urduExplanation": "1 سلاطین 1:5"
+      },
+      {
+        "id": "int_d5_q2",
+        "question": "Where did God appear to Solomon in a dream and ask him what he wanted?",
+        "urduQuestion": "خدا نے سلیمان کو خواب میں کہاں دکھائی دے کر پوچھا کہ وہ کیا چاہتا ہے؟",
+        "options": ["Gibeon", "Jerusalem", "Bethel", "Hebron"],
+        "urduOptions": ["جبعون", "یروشلم", "بیت ایل", "حبرون"],
+        "answerIndex": 0,
+        "explanation": "1 Kings 3:5.",
+        "urduExplanation": "1 سلاطین 3:5"
+      },
+      {
+        "id": "int_d5_q3",
+        "question": "What did Solomon ask God for when he became king?",
+        "urduQuestion": "سلیمان نے بادشاہ بننے پر خدا سے کیا مانگا؟",
+        "options": ["Long life", "Wealth", "Wisdom and understanding", "The death of his enemies"],
+        "urduOptions": ["طویل عمر", "دولت", "حکمت اور فہم", "اپنے دشمنوں کی موت"],
+        "answerIndex": 2,
+        "explanation": "1 Kings 3:9.",
+        "urduExplanation": "1 سلاطین 3:9"
+      },
+      {
+        "id": "int_d5_q4",
+        "question": "Which king of Tyre sent cedar logs and craftsmen to help Solomon build the Temple?",
+        "urduQuestion": "صور کے کس بادشاہ نے سلیمان کو ہیکل بنانے کے لیے دیودار کی لکڑی اور کاریگر بھیجے؟",
+        "options": ["Hiram", "Cyrus", "Sennacherib", "Nebuchadnezzar"],
+        "urduOptions": ["حیرام", "خسرو", "سنحاریب", "نبوکدنضر"],
+        "answerIndex": 0,
+        "explanation": "1 Kings 5:1-10.",
+        "urduExplanation": "1 سلاطین 5:1-10"
+      },
+      {
+        "id": "int_d5_q5",
+        "question": "How many years did it take Solomon to build the Temple in Jerusalem?",
+        "urduQuestion": "سلیمان کو یروشلم میں ہیکل کی تعمیر میں کتنے سال لگے؟",
+        "options": ["7 years", "13 years", "40 years", "10 years"],
+        "urduOptions": ["7 سال", "13 سال", "40 سال", "10 سال"],
+        "answerIndex": 0,
+        "explanation": "1 Kings 6:38.",
+        "urduExplanation": "1 سلاطین 6:38"
+      }
+    ]
+  },
+  {
+    "dayNumber": 6,
+    "questions": [
+      {
+        "id": "int_d6_q1",
+        "question": "Which foreign queen visited Solomon to test him with hard questions?",
+        "urduQuestion": "سلیمان کو مشکل سوالات سے آزمانے کے لیے کس غیر ملکی ملکہ نے دورہ کیا؟",
+        "options": ["Queen of Sheba", "Queen Jezebel", "Queen Esther", "Queen Athaliah"],
+        "urduOptions": ["سبا کی ملکہ", "ملکہ ایزبل", "ملکہ آستر", "ملکہ عتلیاہ"],
+        "answerIndex": 0,
+        "explanation": "1 Kings 10:1-2.",
+        "urduExplanation": "1 سلاطین 10:1-2"
+      },
+      {
+        "id": "int_d6_q2",
+        "question": "How many wives did King Solomon have?",
+        "urduQuestion": "بادشاہ سلیمان کی کتنی بیویاں تھیں؟",
+        "options": ["300", "700", "100", "1000"],
+        "urduOptions": ["300", "700", "100", "1000"],
+        "answerIndex": 1,
+        "explanation": "1 Kings 11:3.",
+        "urduExplanation": "1 سلاطین 11:3"
+      },
+      {
+        "id": "int_d6_q3",
+        "question": "What sin did Solomon commit in his old age due to his foreign wives?",
+        "urduQuestion": "سلیمان نے اپنے بڑھاپے میں اپنی غیر ملکی بیویوں کی وجہ سے کون سا گناہ کیا؟",
+        "options": ["He stopped sacrifices", "He worshipped idols and false gods", "He sold the Temple gold", "He abandoned the Law of Moses"],
+        "urduOptions": ["اُس نے قربانیاں بند کر دیں", "اُس نے بتوں اور جھوٹے معبودوں کی پوجا کی", "اُس نے ہیکل کا سونا بیچ دیا", "اُس نے موسیٰ کی شریعت کو ترک کر دیا"],
+        "answerIndex": 1,
+        "explanation": "1 Kings 11:4-8.",
+        "urduExplanation": "1 سلاطین 11:4-8"
+      },
+      {
+        "id": "int_d6_q4",
+        "question": "Which prophet foretold Jeroboam that he would rule ten tribes of Israel?",
+        "urduQuestion": "کس نبی نے یربعام کو پیشین گوئی کی تھی کہ وہ اسرائیل کے دس قبیلوں پر حکومت کرے گا؟",
+        "options": ["Ahijah", "Shemaiah", "Nathan", "Elijah"],
+        "urduOptions": ["اخیاہ", "سمعیاہ", "ناتن", "ایلیاہ"],
+        "answerIndex": 0,
+        "explanation": "1 Kings 11:29-31.",
+        "urduExplanation": "1 سلاطین 11:29-31"
+      },
+      {
+        "id": "int_d6_q5",
+        "question": "How many years did Solomon reign over Israel?",
+        "urduQuestion": "سلیمان نے اسرائیل پر کتنے سال حکومت کی؟",
+        "options": ["20 years", "40 years", "33 years", "50 years"],
+        "urduOptions": ["20 سال", "40 سال", "33 سال", "50 سال"],
+        "answerIndex": 1,
+        "explanation": "1 Kings 11:42.",
+        "urduExplanation": "1 سلاطین 11:42"
+      }
+    ]
+  },
+  {
+    "dayNumber": 7,
+    "questions": [
+      {
+        "id": "int_d7_q1",
+        "question": "Who succeeded Solomon and caused the kingdom to split?",
+        "urduQuestion": "سلیمان کا جانشین کون بنا جس کی وجہ سے سلطنت تقسیم ہو گئی؟",
+        "options": ["Jeroboam", "Rehoboam", "Abijah", "Asa"],
+        "urduOptions": ["یربعام", "رحبعام", "ابیاہ", "آسا"],
+        "answerIndex": 1,
+        "explanation": "1 Kings 12:1-16.",
+        "urduExplanation": "1 سلاطین 12:1-16"
+      },
+      {
+        "id": "int_d7_q2",
+        "question": "Which kingdom did Jeroboam rule after the division?",
+        "urduQuestion": "تقسیم کے بعد یربعام نے کس سلطنت پر حکومت کی؟",
+        "options": ["Judah", "Northern Kingdom of Israel", "Edom", "Moab"],
+        "urduOptions": ["یہوداہ", "شمالی سلطنتِ اسرائیل", "ادوم", "مواب"],
+        "answerIndex": 1,
+        "explanation": "1 Kings 12:20.",
+        "urduExplanation": "1 سلاطین 12:20"
+      },
+      {
+        "id": "int_d7_q3",
+        "question": "What false worship did Jeroboam set up in Dan and Bethel?",
+        "urduQuestion": "یربعام نے دان اور بیت ایل میں کون سی جھوٹی عبادت قائم کی؟",
+        "options": ["Asherah poles", "Golden calves", "Baal altars", "Bronze serpent"],
+        "urduOptions": ["یسیرت کے ستون", "سونے کے بچھڑے", "بعل کی قربان گاہیں", "تانبے کا سانپ"],
+        "answerIndex": 1,
+        "explanation": "1 Kings 12:28-29.",
+        "urduExplanation": "1 سلاطین 12:28-29"
+      },
+      {
+        "id": "int_d7_q4",
+        "question": "Which capital city did King Omri establish for the Northern Kingdom of Israel?",
+        "urduQuestion": "بادشاہ عمری نے شمالی سلطنتِ اسرائیل کے لیے کون سا دارالحکومت قائم کیا؟",
+        "options": ["Samaria", "Shechem", "Jezreel", "Tirzah"],
+        "urduOptions": ["سامریہ", "سکم", "یزرعیل", "ترزہ"],
+        "answerIndex": 0,
+        "explanation": "1 Kings 16:24.",
+        "urduExplanation": "1 سلاطین 16:24"
+      },
+      {
+        "id": "int_d7_q5",
+        "question": "Which wicked king of Israel married Jezebel and promoted Baal worship?",
+        "urduQuestion": "اسرائیل کے کس شریر بادشاہ نے ایزبل سے شادی کی اور بعل کی پوجا کو فروغ دیا؟",
+        "options": ["Ahab", "Jeroboam II", "Jehu", "Hoshea"],
+        "urduOptions": ["اخیاب", "یربعام دوم", "یاہو", "ہوسیع"],
+        "answerIndex": 0,
+        "explanation": "1 Kings 16:30-31.",
+        "urduExplanation": "1 سلاطین 16:30-31"
+      }
+    ]
+  },
+  {
+    "dayNumber": 8,
+    "questions": [
+      {
+        "id": "int_d8_q1",
+        "question": "Which godly king of Judah initiated major religious reforms and smashed idols?",
+        "urduQuestion": "یہوداہ کے کس نیک بادشاہ نے بڑے پیمانے پر مذہبی اصلاحات کیں اور بتوں کو پاش پاش کیا؟",
+        "options": ["Asa", "Rehoboam", "Jehoram", "Ahaziah"],
+        "urduOptions": ["آسا", "رحبعام", "یہورام", "اخزیاہ"],
+        "answerIndex": 0,
+        "explanation": "1 Kings 15:11-14.",
+        "urduExplanation": "1 سلاطین 15:11-14"
+      },
+      {
+        "id": "int_d8_q2",
+        "question": "Who was the daughter of Ahab and Jezebel who ruled Judah and killed the royal family?",
+        "urduQuestion": "اخیاب اور ایزبل کی وہ بیٹی کون تھی جس نے یہوداہ پر حکومت کی اور شاہی خاندان کو قتل کیا؟",
+        "options": ["Athaliah", "Jehosheba", "Ruth", "Michal"],
+        "urduOptions": ["عتلیاہ", "یہوسبع", "روت", "میکل"],
+        "answerIndex": 0,
+        "explanation": "2 Kings 11:1-3.",
+        "urduExplanation": "2 سلاطین 11:1-3"
+      },
+      {
+        "id": "int_d8_q3",
+        "question": "Which young king of Judah was hidden in the Temple for six years before taking the throne?",
+        "urduQuestion": "یہوداہ کا وہ کون سا نوجوان بادشاہ تھا جسے تخت نشین ہونے سے پہلے چھ سال تک ہیکل میں چھپا کر رکھا گیا تھا؟",
+        "options": ["Joash (Jehoash)", "Josiah", "Hezekiah", "Uzziah"],
+        "urduOptions": ["یوآس", "یوسیاہ", "حزقیاہ", "عزیاہ"],
+        "answerIndex": 0,
+        "explanation": "2 Kings 11:2-4.",
+        "urduExplanation": "2 سلاطین 11:2-4"
+      },
+      {
+        "id": "int_d8_q4",
+        "question": "Which king of Judah became proud and was struck with leprosy for burning incense in the Temple?",
+        "urduQuestion": "یہوداہ کا وہ کون سا بادشاہ تھا جو مغرور ہو گیا اور ہیکل میں بخور جلانے پر کوڑھ کی بیماری میں مبتلا ہوا؟",
+        "options": ["Uzziah (Azariah)", "Hezekiah", "Ahaz", "Manasseh"],
+        "urduOptions": ["عزیاہ (عزریاہ)", "حزقیاہ", "آخز", "منسی"],
+        "answerIndex": 0,
+        "explanation": "2 Chronicles 26:16-21.",
+        "urduExplanation": "2 تواریخ 26:16-21"
+      },
+      {
+        "id": "int_d8_q5",
+        "question": "Who was the high priest who led the revolt against Queen Athaliah and restored Joash?",
+        "urduQuestion": "وہ کون سا سردار کاہن تھا جس نے ملکہ عتلیاہ کے خلاف بغاوت کی قیادت کی اور یوآس کو بحال کیا؟",
+        "options": ["Jehoiada", "Hilkiah", "Zadok", "Azariah"],
+        "urduOptions": ["یہویدع", "حلقیاہ", "صدوق", "عزریاہ"],
+        "answerIndex": 0,
+        "explanation": "2 Kings 11:4-17.",
+        "urduExplanation": "2 سلاطین 11:4-17"
+      }
+    ]
+  },
+  {
+    "dayNumber": 9,
+    "questions": [
+      {
+        "id": "int_d9_q1",
+        "question": "Which godly king of Judah prayed, and saw God destroy 185,000 Assyrian soldiers?",
+        "urduQuestion": "یہوداہ کے کس نیک بادشاہ نے دعا کی، اور خدا نے 185,000 اسوری فوجیوں کو تباہ کر دیا؟",
+        "options": ["Hezekiah", "Josiah", "Ahaz", "Manasseh"],
+        "urduOptions": ["حزقیاہ", "یوسیاہ", "آخز", "منسی"],
+        "answerIndex": 0,
+        "explanation": "2 Kings 19:35.",
+        "urduExplanation": "2 سلاطین 19:35"
+      },
+      {
+        "id": "int_d9_q2",
+        "question": "How many extra years did God add to Hezekiah's life after his tearful prayer?",
+        "urduQuestion": "حزقیاہ کی روتے ہوئے کی گئی دعا کے بعد خدا نے اُس کی زندگی میں کتنے سال کا اضافہ کیا؟",
+        "options": ["15 years", "10 years", "5 years", "20 years"],
+        "urduOptions": ["15 سال", "10 سال", "5 سال", "20 سال"],
+        "answerIndex": 0,
+        "explanation": "2 Kings 20:5-6.",
+        "urduExplanation": "2 سلاطین 20:5-6"
+      },
+      {
+        "id": "int_d9_q3",
+        "question": "Which prophet warned Hezekiah of his impending death but then brought God's promise of healing?",
+        "urduQuestion": "کس نبی نے حزقیاہ کو اُس کی آنے والی موت سے خبردار کیا لیکن پھر شفا کا وعدہ لائے؟",
+        "options": ["Isaiah", "Jeremiah", "Micah", "Hosea"],
+        "urduOptions": ["یسعیاہ", "یرمیاہ", "میکاہ", "ہوسیع"],
+        "answerIndex": 0,
+        "explanation": "2 Kings 20:1-5.",
+        "urduExplanation": "2 سلاطین 20:1-5"
+      },
+      {
+        "id": "int_d9_q4",
+        "question": "Who was Hezekiah's son, known as one of the most wicked kings who later repented?",
+        "urduQuestion": "حزقیاہ کا بیٹا کون تھا، جو بدترین شریر بادشاہوں میں شمار ہوتا تھا لیکن بعد میں توبہ کی؟",
+        "options": ["Manasseh", "Amon", "Josiah", "Jehoahaz"],
+        "urduOptions": ["منسی", "امون", "یوسیاہ", "یہوآخز"],
+        "answerIndex": 0,
+        "explanation": "2 Chronicles 33:1-13.",
+        "urduExplanation": "2 تواریخ 33:1-13"
+      },
+      {
+        "id": "int_d9_q5",
+        "question": "Which Assyrian king threatened Jerusalem during Hezekiah's reign?",
+        "urduQuestion": "حزقیاہ کے دورِ حکومت میں اسور کے کس بادشاہ نے یروشلم کو دھمکی دی تھی؟",
+        "options": ["Sennacherib", "Tiglath-Pileser", "Sargon", "Shalmaneser"],
+        "urduOptions": ["سنحاریب", "تگلت-پلاسر", "سرگون", "شلمنسر"],
+        "answerIndex": 0,
+        "explanation": "2 Kings 18:13.",
+        "urduExplanation": "2 سلاطین 18:13"
+      }
+    ]
+  },
+  {
+    "dayNumber": 10,
+    "questions": [
+      {
+        "id": "int_10_q1",
+        "question": "How old was Josiah when he became king of Judah?",
+        "urduQuestion": "یوسیاہ جب یہوداہ کا بادشاہ بنا تو اُس کی عمر کتنی تھی؟",
+        "options": ["8 years old", "12 years old", "16 years old", "20 years old"],
+        "urduOptions": ["8 سال", "12 سال", "16 سال", "20 سال"],
+        "answerIndex": 0,
+        "explanation": "2 Kings 22:1.",
+        "urduExplanation": "2 سلاطین 22:1"
+      },
+      {
+        "id": "int_10_q2",
+        "question": "What did Hilkiah the high priest find in the Temple during Josiah's reign?",
+        "urduQuestion": "یوسیاہ کے دور میں سردار کاہن حلقیاہ کو ہیکل میں سے کیا ملا؟",
+        "options": ["The Book of the Law", "The Ark of the Covenant", "A jar of Manna", "Aaron's rod"],
+        "urduOptions": ["شریعت کی کتاب", "عہد کا صندوق", "من کا مرتبان", "ہارون کا عصا"],
+        "answerIndex": 0,
+        "explanation": "2 Kings 22:8.",
+        "urduExplanation": "2 سلاطین 22:8"
+      },
+      {
+        "id": "int_10_q3",
+        "question": "Which female prophet confirmed the authenticity of the Book of the Law found by Hilkiah?",
+        "urduQuestion": "کس خاتون نبیہ نے حلقیاہ کو ملنے والی شریعت کی کتاب کی تصدیق کی؟",
+        "options": ["Huldah", "Deborah", "Miriam", "Anna"],
+        "urduOptions": ["خلدہ", "دبورہ", "مریم", "انا"],
+        "answerIndex": 0,
+        "explanation": "2 Kings 22:14-20.",
+        "urduExplanation": "2 سلاطین 22:14-20"
+      },
+      {
+        "id": "int_10_q4",
+        "question": "Where did King Josiah die in battle against Pharaoh Necho of Egypt?",
+        "urduQuestion": "بادشاہ یوسیاہ مصر کے فرعون نکاہ کے خلاف جنگ میں کہاں ہلاک ہوا؟",
+        "options": ["Megiddo", "Jericho", "Gaza", "Carchemish"],
+        "urduOptions": ["مجدو", "یریحو", "غزہ", "کرکمیس"],
+        "answerIndex": 0,
+        "explanation": "2 Kings 23:29.",
+        "urduExplanation": "2 سلاطین 23:29"
+      },
+      {
+        "id": "int_10_q5",
+        "question": "Who was the last king of Judah before the Babylonian captivity?",
+        "urduQuestion": "بابل کی اسیری سے پہلے یہوداہ کا آخری بادشاہ کون تھا؟",
+        "options": ["Zedekiah", "Jehoiachin", "Jehoiakim", "Jehoahaz"],
+        "urduOptions": ["صدقیاہ", "یہویاکین", "یہویاقیم", "یہوآخز"],
+        "answerIndex": 0,
+        "explanation": "2 Kings 24:18-20.",
+        "urduExplanation": "2 سلاطین 24:18-20"
+      }
+    ]
+  },
+  {
+    "dayNumber": 11,
+    "questions": [
+      {
+        "id": "int_11_q1",
+        "question": "How did God feed Elijah while he hid at the Kerith Ravine?",
+        "urduQuestion": "جب ایلیاہ وادیِ کریت میں چھپے ہوئے تھے تو خدا نے انھیں کیسے کھانا کھلایا؟",
+        "options": ["Ravens brought him bread and meat", "An angel cooked for him daily", "Manna fell from heaven", "A widow brought him food daily"],
+        "urduOptions": ["پہاڑی کوے اُس کے لیے روٹی اور گوشت لاتے تھے", "ایک فرشتہ روزانہ اُس کے لیے کھانا پکاتا تھا", "آسمان سے من برسا", "ایک بیوہ روزانہ اُس کے لیے کھانا لاتی تھی"],
+        "answerIndex": 0,
+        "explanation": "1 Kings 17:4-6.",
+        "urduExplanation": "1 سلاطین 17:4-6"
+      },
+      {
+        "id": "int_11_q2",
+        "question": "Where did Elijah challenge the 450 prophets of Baal to a contest of fire?",
+        "urduQuestion": "ایلیاہ نے بعل کے 450 نبیوں کو آگ برسانے کے مقابلے کا چیلنج کہاں دیا تھا؟",
+        "options": ["Mount Carmel", "Mount Sinai", "Mount Horeb", "Mount Nebo"],
+        "urduOptions": ["کوہِ کرمل", "کوہِ سینا", "کوہِ حوریب", "کوہِ نیبو"],
+        "answerIndex": 0,
+        "explanation": "1 Kings 18:19-24.",
+        "urduExplanation": "1 سلاطین 18:19-24"
+      },
+      {
+        "id": "int_11_q3",
+        "question": "How did God reveal His presence to Elijah at Mount Horeb?",
+        "urduQuestion": "خدا نے کوہِ حوریب پر ایلیاہ پر اپنی موجودگی کیسے ظاہر کی؟",
+        "options": ["In a roaring wind", "In a powerful earthquake", "In a raging fire", "In a gentle whisper (still small voice)"],
+        "urduOptions": ["تیز آندھی میں", "شدید زلزلے میں", "بھڑکتی ہوئی آگ میں", "ایک دھیمی اور ہلکی آواز میں"],
+        "answerIndex": 3,
+        "explanation": "1 Kings 19:11-12.",
+        "urduExplanation": "1 سلاطین 19:11-12"
+      },
+      {
+        "id": "int_11_q4",
+        "question": "Who was chosen by God to succeed Elijah as prophet?",
+        "urduQuestion": "خدا نے ایلیاہ کے بعد کس کو نبی منتخب کیا؟",
+        "options": ["Elisha", "Gehazi", "Obadiah", "Micaiah"],
+        "urduOptions": ["الیشع", "جیازی", "عبدیاہ", "میکایاہ"],
+        "answerIndex": 0,
+        "explanation": "1 Kings 19:16-19.",
+        "urduExplanation": "1 سلاطین 19:16-19"
+      },
+      {
+        "id": "int_11_q5",
+        "question": "Whose vineyard did Ahab and Jezebel steal, leading to Elijah's prophecy of their doom?",
+        "urduQuestion": "اخیاب اور ایزبل نے کس کا انگور کا باغ چھینا تھا جس پر ایلیاہ نے ان کی تباہی کی پیشین گوئی کی تھی؟",
+        "options": ["Naboth", "Uriah", "Nabal", "Hiram"],
+        "urduOptions": ["نبوت", "اوریاہ", "نابال", "حیرام"],
+        "answerIndex": 0,
+        "explanation": "1 Kings 21.",
+        "urduExplanation": "1 سلاطین 21"
+      }
+    ]
+  },
+  {
+    "dayNumber": 12,
+    "questions": [
+      {
+        "id": "int_12_q1",
+        "question": "How was Elijah taken up to heaven?",
+        "urduQuestion": "ایلیاہ کو آسمان پر کیسے اٹھایا گیا؟",
+        "options": ["By a chariot of fire in a whirlwind", "On the wings of angels", "In a thick cloud", "He died and was buried by God"],
+        "urduOptions": ["ایک بگولے میں آگ کے رتھ کے ذریعے", "فرشتوں کے پروں پر", "ایک گہرے بادل میں", "وہ وفات پا گئے اور خدا نے انہیں دفن کیا"],
+        "answerIndex": 0,
+        "explanation": "2 Kings 2:11.",
+        "urduExplanation": "2 سلاطین 2:11"
+      },
+      {
+        "id": "int_12_q2",
+        "question": "What did Elisha request from Elijah before Elijah was taken away?",
+        "urduQuestion": "ایلیاہ کے جانے سے پہلے الیشع نے ان سے کس چیز کی درخواست کی تھی؟",
+        "options": ["A double portion of his spirit", "His prophetic staff", "The chariot of fire", "Wealth and long life"],
+        "urduOptions": ["اُن کی روح کا دوگنا حصہ", "اُن کا نبوتی عصا", "آگ کا رتھ", "دولت اور طویل عمر"],
+        "answerIndex": 0,
+        "explanation": "2 Kings 2:9.",
+        "urduExplanation": "2 سلاطین 2:9"
+      },
+      {
+        "id": "int_12_q3",
+        "question": "Which Syrian army commander was healed of leprosy by Elisha?",
+        "urduQuestion": "شام کے لشکر کے کس سپہ سالار کو الیشع کے ذریعے کوڑھ سے شفا ملی؟",
+        "options": ["Naaman", "Hazael", "Ben-Hadad", "Rezin"],
+        "urduOptions": ["نعمان", "حزائیل", "بن ہدد", "رضین"],
+        "answerIndex": 0,
+        "explanation": "2 Kings 5:1-14.",
+        "urduExplanation": "2 سلاطین 5:1-14"
+      },
+      {
+        "id": "int_12_q4",
+        "question": "What did Elisha tell Naaman to do to be healed of his leprosy?",
+        "urduQuestion": "الیشع نے نعمان کو کوڑھ سے شفا پانے کے لیے کیا کرنے کو کہا؟",
+        "options": ["Wash seven times in the Jordan River", "Offer a burnt sacrifice", "Touch the hem of his cloak", "Fast for forty days"],
+        "urduOptions": ["دریائے یردن میں سات بار غوطہ لگائیں", "سوختنی قربانی چڑھائیں", "اُن کے چوغے کے پلو کو چھوئیں", "چالیس دن کا روزہ رکھیں"],
+        "answerIndex": 0,
+        "explanation": "2 Kings 5:10.",
+        "urduExplanation": "2 سلاطین 5:10"
+      },
+      {
+        "id": "int_12_q5",
+        "question": "Who was Elisha's greedy servant who was struck with Naaman's leprosy?",
+        "urduQuestion": "الیشع کا وہ لالچی خادم کون تھا جو نعمان کے کوڑھ کا شکار ہوا؟",
+        "options": ["Gehazi", "Obadiah", "Baruch", "Elishama"],
+        "urduOptions": ["جیازی", "عبدیاہ", "باروک", "الیشمع"],
+        "answerIndex": 0,
+        "explanation": "2 Kings 5:20-27.",
+        "urduExplanation": "2 سلاطین 5:20-27"
+      }
+    ]
+  },
+  {
+    "dayNumber": 13,
+    "questions": [
+      {
+        "id": "int_13_q1",
+        "question": "Which miracle did Elisha perform for a poor widow whose sons were to be sold as slaves?",
+        "urduQuestion": "الیشع نے ایک غریب بیوہ کے لیے کون سا معجزہ دکھایا جس کے بیٹوں کو غلام بنا کر بیچا جانے والا تھا؟",
+        "options": ["He multiplied her jar of oil", "He turned water into wine", "He multiplied loaves of barley", "He gave her gold from the Temple"],
+        "urduOptions": ["اُس نے اُس کے تیل کے برتن کو کثرت دی", "اُس نے پانی کو مے میں بدل دیا", "اُس نے جو کی روٹیوں کو بڑھا دیا", "اُس نے ہیکل سے سونا لا کر دیا"],
+        "answerIndex": 0,
+        "explanation": "2 Kings 4:1-7.",
+        "urduExplanation": "2 سلاطین 4:1-7"
+      },
+      {
+        "id": "int_13_q2",
+        "question": "How did Elisha recover an iron axe head that had fallen into the water?",
+        "urduQuestion": "الیشع نے پانی میں گرے ہوئے لوہے کے کلہاڑے کے پھل کو کیسے واپس نکالا؟",
+        "options": ["He made the iron float by throwing a stick", "He dove in and retrieved it", "He parted the water", "An angel brought it up"],
+        "urduOptions": ["اُس نے لکڑی پھینک کر لوہے کو پانی پر تیرایا", "اُس نے غوطہ لگا کر اسے نکالا", "اُس نے پانی کو دو حصوں میں تقسیم کیا", "ایک فرشتہ اسے اوپر لایا"],
+        "answerIndex": 0,
+        "explanation": "2 Kings 6:5-7.",
+        "urduExplanation": "2 سلاطین 6:5-7"
+      },
+      {
+        "id": "int_13_q3",
+        "question": "What happened when a dead man's body touched the bones of Elisha in his tomb?",
+        "urduQuestion": "جب ایک مردہ آدمی کا جسم قبر میں الیشع کی ہڈیوں سے چھو گیا تو کیا ہوا؟",
+        "options": ["The man came back to life", "The bones turned to dust", "The tomb was filled with light", "Nothing happened"],
+        "urduOptions": ["وہ آدمی دوبارہ زندہ ہو گیا", "ہڈیاں مٹی بن گئیں", "قبر نور سے بھر گئی", "کچھ نہیں ہوا"],
+        "answerIndex": 0,
+        "explanation": "2 Kings 13:21.",
+        "urduExplanation": "2 سلاطین 13:21"
+      },
+      {
+        "id": "int_13_q4",
+        "question": "Who was the wild chariot-driving king anointed to destroy the house of Ahab?",
+        "urduQuestion": "اخیاب کے گھرانے کو تباہ کرنے کے لیے کس تیز رتھ چلانے والے بادشاہ کو مسح کیا گیا تھا؟",
+        "options": ["Jehu", "Joram", "Hazael", "Pekah"],
+        "urduOptions": ["یاہو", "یورام", "حزائیل", "فقح"],
+        "answerIndex": 0,
+        "explanation": "2 Kings 9:1-7.",
+        "urduExplanation": "2 سلاطین 9:1-7"
+      },
+      {
+        "id": "int_13_q5",
+        "question": "How did Queen Jezebel die?",
+        "urduQuestion": "ملکہ ایزبل کی موت کیسے واقع ہوئی؟",
+        "options": ["She was thrown from a window and trampled by horses", "She died of a disease", "She was burned inside her palace", "She was executed by the sword"],
+        "urduOptions": ["اُسے کھڑکی سے نیچے پھینک دیا گیا اور گھوڑوں نے کچل دیا", "وہ ایک بیماری سے مری", "وہ اپنے ہی محل میں جل مری", "اُسے تلوار سے قتل کیا گیا"],
+        "answerIndex": 0,
+        "explanation": "2 Kings 9:30-33.",
+        "urduExplanation": "2 سلاطین 9:30-33"
+      }
+    ]
+  },
+  {
+    "dayNumber": 14,
+    "questions": [
+      {
+        "id": "int_14_q1",
+        "question": "Which prophet saw a vision of the Lord on a high and exalted throne in the year King Uzziah died?",
+        "urduQuestion": "کس نبی نے بادشاہ عزیاہ کی موت کے سال خداوند کو ایک اونچے اور بلند تخت پر جلوہ افروز دیکھا؟",
+        "options": ["Isaiah", "Jeremiah", "Ezekiel", "Daniel"],
+        "urduOptions": ["یسعیاہ", "یرمیاہ", "حزقی ایل", "دانی ایل"],
+        "answerIndex": 0,
+        "explanation": "Isaiah 6:1.",
+        "urduExplanation": "یسعیاہ 6:1"
+      },
+      {
+        "id": "int_14_q2",
+        "question": "How was Isaiah's mouth purified in his vision?",
+        "urduQuestion": "یسعیاہ کے رویا میں اُس کا منہ کس طرح پاک کیا گیا تھا؟",
+        "options": ["With a burning coal touched to his lips by a seraph", "With holy water", "With a burning torch", "With a scroll he had to eat"],
+        "urduOptions": ["ایک سرافیم کے ذریعے جلتا ہوا کوئلہ اُس کے ہونٹوں سے چھوا کر", "مقدس پانی سے", "ایک جلتی ہوئی مشعل سے", "ایک طومار سے جو اُسے کھانا پڑا"],
+        "answerIndex": 0,
+        "explanation": "Isaiah 6:6-7.",
+        "urduExplanation": "یسعیاہ 6:6-7"
+      },
+      {
+        "id": "int_14_q3",
+        "question": "Which prophet prophesied that a virgin would conceive and bear a son named Immanuel?",
+        "urduQuestion": "کس نبی نے پیشین گوئی کی تھی کہ ایک کنواری حاملہ ہوگی اور بیٹا جنے گی جس کا نام عمانوایل ہوگا؟",
+        "options": ["Isaiah", "Jeremiah", "Hosea", "Micah"],
+        "urduOptions": ["یسعیاہ", "یرمیاہ", "ہوسیع", "میکاہ"],
+        "answerIndex": 0,
+        "explanation": "Isaiah 7:14.",
+        "urduExplanation": "یسعیاہ 7:14"
+      },
+      {
+        "id": "int_14_q4",
+        "question": "Which book contains the prophecy of the 'Suffering Servant' who was pierced for our transgressions?",
+        "urduQuestion": "کس کتاب میں 'دکھ اٹھانے والے خادم' کی پیشین گوئی ہے جو ہماری خطاؤں کے لیے زخمی کیا گیا؟",
+        "options": ["Isaiah", "Jeremiah", "Psalms", "Daniel"],
+        "urduOptions": ["یسعیاہ", "یرمیاہ", "زبور", "دانی ایل"],
+        "answerIndex": 0,
+        "explanation": "Isaiah 53:5.",
+        "urduExplanation": "یسعیاہ 53:5"
+      },
+      {
+        "id": "int_14_q5",
+        "question": "Which foreign king did Isaiah prophesy by name would rebuild Jerusalem, long before his birth?",
+        "urduQuestion": "یسعیاہ نے اپنی پیدائش سے بہت پہلے کس غیر ملکی بادشاہ کا نام لے کر پیشین گوئی کی تھی کہ وہ یروشلم کو دوبارہ تعمیر کرے گا؟",
+        "options": ["Cyrus", "Darius", "Nebuchadnezzar", "Xerxes"],
+        "urduOptions": ["خسرو (سائرس)", "دارا", "نبوکدنضر", "ارتخشستا"],
+        "answerIndex": 0,
+        "explanation": "Isaiah 44:28.",
+        "urduExplanation": "یسعیاہ 44:28"
+      }
+    ]
+  },
+  {
+    "dayNumber": 15,
+    "questions": [
+      {
+        "id": "int_15_q1",
+        "question": "Who is often referred to as the 'Weeping Prophet'?",
+        "urduQuestion": "کس کو اکثر 'روتا ہوا نبی' کہا جاتا ہے؟",
+        "options": ["Jeremiah", "Ezekiel", "Daniel", "Amos"],
+        "urduOptions": ["یرمیاہ", "حزقی ایل", "دانی ایل", "عاموس"],
+        "answerIndex": 0,
+        "explanation": "Jeremiah 9:1.",
+        "urduExplanation": "یرمیاہ 9:1"
+      },
+      {
+        "id": "int_15_q2",
+        "question": "What did God show Jeremiah at the potter's house to explain His sovereignty over Israel?",
+        "urduQuestion": "خدا نے اسرائیل پر اپنی حاکمیت واضح کرنے کے لیے کمہار کے گھر میں یرمیاہ کو کیا دکھایا؟",
+        "options": ["A clay jar reshaped by the potter", "A broken wheel", "A kiln in flames", "A pile of useless mud"],
+        "urduOptions": ["کمہار کے ہاتھوں مٹی کے برتن کا دوبارہ بننا", "ایک ٹوٹا ہوا پہیہ", "ایک دہکتا ہوا آوا", "بیکار مٹی کا ڈھیر"],
+        "answerIndex": 0,
+        "explanation": "Jeremiah 18:1-6.",
+        "urduExplanation": "یرمیاہ 18:1-6"
+      },
+      {
+        "id": "int_15_q3",
+        "question": "Which king of Judah threw Jeremiah into a muddy cistern for preaching surrender to Babylon?",
+        "urduQuestion": "یہوداہ کے کس بادشاہ نے بابل کے سامنے ہتھیار ڈالنے کا پرچار کرنے پر یرمیاہ کو مٹی سے بھرے حوض میں پھینک دیا تھا؟",
+        "options": ["Zedekiah", "Jehoiakim", "Jehoiachin", "Manasseh"],
+        "urduOptions": ["صدقیاہ", "یہویاقیم", "یہویاکین", "منسی"],
+        "answerIndex": 0,
+        "explanation": "Jeremiah 38:6.",
+        "urduExplanation": "یرمیاہ 38:6"
+      },
+      {
+        "id": "int_15_q4",
+        "question": "Who was Jeremiah's scribe who wrote down his prophecies?",
+        "urduQuestion": "یرمیاہ کا کاتب کون تھا جس نے ان کی پیشین گوئیوں کو لکھا؟",
+        "options": ["Baruch", "Elishama", "Seraiah", "Gedaliah"],
+        "urduOptions": ["باروک", "الیشمع", "سراہیاہ", "جدلیاہ"],
+        "answerIndex": 0,
+        "explanation": "Jeremiah 36:4.",
+        "urduExplanation": "یرمیاہ 36:4"
+      },
+      {
+        "id": "int_15_q5",
+        "question": "Which book of the Old Testament, also attributed to Jeremiah, laments the fall of Jerusalem?",
+        "urduQuestion": "عہدِ عتیق کی کون سی کتاب، جو یرمیاہ سے منسوب ہے، یروشلم کی تباہی پر نوحہ کرتی ہے؟",
+        "options": ["Lamentations", "Ezekiel", "Hosea", "Daniel"],
+        "urduOptions": ["نوحہ", "حزقی ایل", "ہوسیع", "دانی ایل"],
+        "answerIndex": 0,
+        "explanation": "Book of Lamentations.",
+        "urduExplanation": "نوحہ کی کتاب"
+      }
+    ]
+  },
+  {
+    "dayNumber": 16,
+    "questions": [
+      {
+        "id": "int_16_q1",
+        "question": "Where was Ezekiel when he received his prophetic visions from God?",
+        "urduQuestion": "جب حزقی ایل کو خدا کی طرف سے نبوتی رویا حاصل ہوئیں تو وہ کہاں تھے؟",
+        "options": ["By the Kebar River in Babylon", "In the Temple of Jerusalem", "At Mount Sinai", "In the wilderness of Judea"],
+        "urduOptions": ["بابل میں نہرِ کبار کے کنارے", "یروشلم کے ہیکل میں", "کوہِ سینا پر", "یہودیہ کے بیابان میں"],
+        "answerIndex": 0,
+        "explanation": "Ezekiel 1:1.",
+        "urduExplanation": "حزقی ایل 1:1"
+      },
+      {
+        "id": "int_16_q2",
+        "question": "In Ezekiel's vision of God's chariot, what was distinctive about the wheels?",
+        "urduQuestion": "خدا کے رتھ کی حزقی ایل کی رویا میں، پہیوں کی کیا خاص بات تھی؟",
+        "options": ["They were full of eyes", "They were made of solid gold", "They burned with green fire", "They had wings like eagles"],
+        "urduOptions": ["وہ آنکھوں سے بھرے ہوئے تھے", "وہ خالص سونے کے بنے ہوئے تھے", "وہ سبز آگ سے جل رہے تھے", "اُن کے عقاب جیسے پر تھے"],
+        "answerIndex": 0,
+        "explanation": "Ezekiel 1:18.",
+        "urduExplanation": "حزقی ایل 1:18"
+      },
+      {
+        "id": "int_16_q3",
+        "question": "What did God command Ezekiel to eat as a symbol of absorbing His message?",
+        "urduQuestion": "خدا نے حزقی ایل کو اپنے پیغام کو جذب کرنے کی علامت کے طور پر کیا کھانے کا حکم دیا؟",
+        "options": ["A scroll", "Unleavened bread", "Wild honey", "Bitter herbs"],
+        "urduOptions": ["ایک طومار", "فطیری روٹی", "جنگلی شہد", "کڑوی جڑی بوٹیاں"],
+        "answerIndex": 0,
+        "explanation": "Ezekiel 3:1-3.",
+        "urduExplanation": "حزقی ایل 3:1-3"
+      },
+      {
+        "id": "int_16_q4",
+        "question": "What famous vision did Ezekiel see of restored life to the nation of Israel?",
+        "urduQuestion": "حزقی ایل نے اسرائیل کی بحالی کی کون سی مشہور رویا دیکھی تھی؟",
+        "options": ["The Valley of Dry Bones", "The Burning Bush", "The Ladder to Heaven", "The Tree of Life"],
+        "urduOptions": ["سوکھی ہڈیوں کی وادی", "جلتی ہوئی جھاڑی", "آسمان کی سیڑھی", "زندگی کا درخت"],
+        "answerIndex": 0,
+        "explanation": "Ezekiel 37.",
+        "urduExplanation": "حزقی ایل 37"
+      },
+      {
+        "id": "int_16_q5",
+        "question": "Who did Ezekiel prophesy was set as a 'watchman' for the house of Israel?",
+        "urduQuestion": "حزقی ایل نے کس کے بارے میں پیشین گوئی کی تھی کہ اسے اسرائیل کے گھرانے کے لیے 'نگہبان' مقرر کیا گیا ہے؟",
+        "options": ["Ezekiel himself", "Jeremiah", "Daniel", "The High Priest"],
+        "urduOptions": ["خود حزقی ایل", "یرمیاہ", "دانی ایل", "سردار کاہن"],
+        "answerIndex": 0,
+        "explanation": "Ezekiel 3:17.",
+        "urduExplanation": "حزقی ایل 3:17"
+      }
+    ]
+  },
+  {
+    "dayNumber": 17,
+    "questions": [
+      {
+        "id": "int_17_q1",
+        "question": "Which Babylonian king captured Jerusalem and took Daniel and his friends into exile?",
+        "urduQuestion": "بابل کے کس بادشاہ نے یروشلم پر قبضہ کیا اور دانی ایل اور اس کے دوستوں کو اسیر کر کے لے گیا؟",
+        "options": ["Nebuchadnezzar", "Belshazzar", "Darius", "Cyrus"],
+        "urduOptions": ["نبوکدنضر", "بیلشضر", "دارا", "خسرو"],
+        "answerIndex": 0,
+        "explanation": "Daniel 1:1-2.",
+        "urduExplanation": "دانی ایل 1:1-2"
+      },
+      {
+        "id": "int_17_q2",
+        "question": "What Hebrew names were given to Shadrach, Meshach, and Abednego?",
+        "urduQuestion": "شدرک، میسک اور عبدنغو کے عبرانی نام کیا تھے؟",
+        "options": ["Hananiah, Mishael, and Azariah", "Hosea, Joel, and Amos", "Eli, Phinehas, and Hophni", "Shem, Ham, and Japheth"],
+        "urduOptions": ["حننیاہ، میساایل اور عزریاہ", "ہوسیع، یوایل اور عاموس", "عیلی، فنحاس اور حفنی", "سام، حام اور یافث"],
+        "answerIndex": 0,
+        "explanation": "Daniel 1:7.",
+        "urduExplanation": "دانی ایل 1:7"
+      },
+      {
+        "id": "int_17_q3",
+        "question": "Why did Daniel's three friends refuse to bow to King Nebuchadnezzar's golden statue?",
+        "urduQuestion": "دانی ایل کے تین دوستوں نے بادشاہ نبوکدنضر کے سونے کے مجسمے کے آگے سجدہ کرنے سے کیوں انکار کیا؟",
+        "options": ["Because they worshipped only the True God of Israel", "Because they did not like the gold", "Because Daniel told them not to", "Because they were from Judah"],
+        "urduOptions": ["کیونکہ وہ صرف اسرائیل کے سچے خدا کی عبادت کرتے تھے", "کیونکہ انہیں سونا پسند نہیں تھا", "کیونکہ دانی ایل نے انہیں منع کیا تھا", "کیونکہ ان کا تعلق یہوداہ سے تھا"],
+        "answerIndex": 0,
+        "explanation": "Daniel 3:16-18.",
+        "urduExplanation": "دانی ایل 3:16-18"
+      },
+      {
+        "id": "int_17_q4",
+        "question": "Who was seen walking with the three Hebrew youths in the fiery furnace?",
+        "urduQuestion": "دہکتی ہوئی بھٹی میں تین عبرانی نوجوانوں کے ساتھ چوتھا شخص کون چلتا ہوا دیکھا گیا؟",
+        "options": ["A fourth figure like a son of the gods", "Daniel", "Moses", "Elijah"],
+        "urduOptions": ["چوتھا شخص جو الٰہی وجود جیسا تھا", "دانی ایل", "موسیٰ", "ایلیاہ"],
+        "answerIndex": 0,
+        "explanation": "Daniel 3:25.",
+        "urduExplanation": "دانی ایل 3:25"
+      },
+      {
+        "id": "int_17_q5",
+        "question": "What animal's mind was given to Nebuchadnezzar during his seven years of madness?",
+        "urduQuestion": "نبوکدنضر کو اُس کے سات سال کے پاگل پن کے دوران کس جانور کا ذہن دیا گیا تھا؟",
+        "options": ["An ox", "A lion", "An eagle", "A wolf"],
+        "urduOptions": ["بیل", "ببر شیر", "عقاب", "بھیڑیا"],
+        "answerIndex": 0,
+        "explanation": "Daniel 4:32-33.",
+        "urduExplanation": "دانی ایل 4:32-33"
+      }
+    ]
+  },
+  {
+    "dayNumber": 18,
+    "questions": [
+      {
+        "id": "int_18_q1",
+        "question": "Who was the Babylonian king who saw the handwriting on the wall during a feast?",
+        "urduQuestion": "بابل کا وہ کون سا بادشاہ تھا جس نے ضیافت کے دوران دیوار پر لکھی ہوئی تحریر دیکھی؟",
+        "options": ["Belshazzar", "Nebuchadnezzar", "Evil-Merodach", "Darius"],
+        "urduOptions": ["بیلشضر", "نبوکدنضر", "ایول-مرودک", "دارا"],
+        "answerIndex": 0,
+        "explanation": "Daniel 5:1-5.",
+        "urduExplanation": "دانی ایل 5:1-5"
+      },
+      {
+        "id": "int_18_q2",
+        "question": "What did the words 'Mene, Mene, Tekel, Parsin' mean to Belshazzar's kingdom?",
+        "urduQuestion": "بیلشضر کی سلطنت کے لیے 'منے، منے، تکل، فرسین' کے الفاظ کا کیا مطلب تھا؟",
+        "options": ["His reign was numbered, weighed, found wanting, and divided", "He would receive great wealth", "His kingdom would last forever", "He was forgiven of his sins"],
+        "urduOptions": ["اُس کی بادشاہی کے دن گنے گئے، تولی گئی، کم پائی گئی، اور تقسیم کر دی گئی", "اُسے بڑی دولت ملے گی", "اُس کی سلطنت ہمیشہ رہے گی", "اُس کے گناہ معاف کر دیے گئے ہیں"],
+        "answerIndex": 0,
+        "explanation": "Daniel 5:25-28.",
+        "urduExplanation": "دانی ایل 5:25-28"
+      },
+      {
+        "id": "int_18_q3",
+        "question": "Under which Persian ruler was Daniel thrown into the lions' den?",
+        "urduQuestion": "کس فارسی حکمران کے دور میں دانی ایل کو شیروں کی مانند میں پھینکا گیا تھا؟",
+        "options": ["Darius", "Cyrus", "Artaxerxes", "Xerxes"],
+        "urduOptions": ["دارا", "خسرو", "ارتخشستا", "خشایارشا"],
+        "answerIndex": 0,
+        "explanation": "Daniel 6:1-16.",
+        "urduExplanation": "دانی ایل 6:1-16"
+      },
+      {
+        "id": "int_18_q4",
+        "question": "Why was Daniel thrown into the lions' den?",
+        "urduQuestion": "دانی ایل کو شیروں کی مانند میں کیوں پھینکا گیا؟",
+        "options": ["He prayed to God instead of the king", "He refused to eat the king's food", "He stole from the treasury", "He predicted the king's death"],
+        "urduOptions": ["اُس نے بادشاہ کے بجائے سچے خدا سے دعا کی تھی", "اُس نے بادشاہ کا شاہی کھانا کھانے سے انکار کیا", "اُس نے شاہی خزانے سے چوری کی تھی", "اُس نے بادشاہ کی موت کی پیشین گوئی کی تھی"],
+        "answerIndex": 0,
+        "explanation": "Daniel 6:10-16.",
+        "urduExplanation": "دانی ایل 6:10-16"
+      },
+      {
+        "id": "int_18_q5",
+        "question": "How did Daniel survive the lions' den?",
+        "urduQuestion": "دانی ایل شیروں کی مانند میں کیسے محفوظ رہے؟",
+        "options": ["God sent an angel to shut the lions' mouths", "He fought and killed the lions", "The lions were not hungry", "He hid in a corner"],
+        "urduOptions": ["خدا نے اپنے فرشتے کو بھیج کر شیروں کے منہ بند کر دیے", "اُس نے شیروں سے لڑ کر انہیں مار ڈالا", "شیروں کو بھوک نہیں تھی", "وہ ایک کونے میں چھپ گیا"],
+        "answerIndex": 0,
+        "explanation": "Daniel 6:22.",
+        "urduExplanation": "دانی ایل 6:22"
+      }
+    ]
+  },
+  {
+    "dayNumber": 19,
+    "questions": [
+      {
+        "id": "int_19_q1",
+        "question": "Which prophet was commanded by God to marry an unfaithful woman named Gomer?",
+        "urduQuestion": "خدا نے کس نبی کو گومر نامی ایک بے وفا عورت سے شادی کرنے کا حکم دیا تھا؟",
+        "options": ["Hosea", "Amos", "Joel", "Micah"],
+        "urduOptions": ["ہوسیع", "عاموس", "یوایل", "میکاہ"],
+        "answerIndex": 0,
+        "explanation": "Hosea 1:2-3.",
+        "urduExplanation": "ہوسیع 1:2-3"
+      },
+      {
+        "id": "int_19_q2",
+        "question": "What did Hosea's marriage to Gomer symbolize?",
+        "urduQuestion": "ہوسیع کی گومر سے شادی کس چیز کی علامت تھی؟",
+        "options": ["God's faithful love for unfaithful Israel", "The destruction of Samaria", "The end of the priesthood", "The wealth of the kingdom"],
+        "urduOptions": ["بے وفا اسرائیل کے لیے خدا کی وفادار محبت", "سامریہ کی تباہی", "کاہنیت کا خاتمہ", "سلطنت کی دولت"],
+        "answerIndex": 0,
+        "explanation": "Hosea 3:1-5.",
+        "urduExplanation": "ہوسیع 3:1-5"
+      },
+      {
+        "id": "int_19_q3",
+        "question": "Which prophet predicted a devastating plague of locusts as a warning of the Day of the Lord?",
+        "urduQuestion": "کس نبی نے خداوند کے دن کے انتباہ کے طور پر ٹڈیوں کے تباہ کن حملے کی پیشین گوئی کی تھی؟",
+        "options": ["Joel", "Amos", "Obadiah", "Jonah"],
+        "urduOptions": ["یوایل", "عاموس", "عبدیاہ", "یونس"],
+        "answerIndex": 0,
+        "explanation": "Joel 1:2-4.",
+        "urduExplanation": "یوایل 1:2-4"
+      },
+      {
+        "id": "int_19_q4",
+        "question": "Which prophet was a shepherd and a gatherer of sycamore fruit before being called by God?",
+        "urduQuestion": "خدا کی طرف سے بلائے جانے سے پہلے کون سا نبی چرواہا اور گلر کاٹنے والا تھا؟",
+        "options": ["Amos", "Hosea", "Micah", "Zephaniah"],
+        "urduOptions": ["عاموس", "ہوسیع", "میکاہ", "صفنیاہ"],
+        "answerIndex": 0,
+        "explanation": "Amos 7:14-15.",
+        "urduExplanation": "عاموس 7:14-15"
+      },
+      {
+        "id": "int_19_q5",
+        "question": "Which short book of prophecy is directed entirely against the nation of Edom?",
+        "urduQuestion": "پیشین گوئی کی کون سی مختصر کتاب پوری طرح سے ادوم کی قوم کے خلاف ہے؟",
+        "options": ["Obadiah", "Joel", "Jonah", "Nahum"],
+        "urduOptions": ["عبدیاہ", "یوایل", "یونس", "نحوم"],
+        "answerIndex": 0,
+        "explanation": "Book of Obadiah.",
+        "urduExplanation": "عبدیاہ کی کتاب"
+      }
+    ]
+  },
+  {
+    "dayNumber": 20,
+    "questions": [
+      {
+        "id": "int_20_q1",
+        "question": "Which city was Jonah commanded to go and preach against?",
+        "urduQuestion": "یونس کو کس شہر میں جا کر توبہ کی منادی کرنے کا حکم دیا گیا تھا؟",
+        "options": ["Nineveh", "Tarshish", "Babylon", "Tyre"],
+        "urduOptions": ["نینوہ", "ترسیس", "بابل", "صور"],
+        "answerIndex": 0,
+        "explanation": "Jonah 1:2.",
+        "urduExplanation": "یونس 1:2"
+      },
+      {
+        "id": "int_20_q2",
+        "question": "How did the sailors discover that Jonah was the cause of the violent storm?",
+        "urduQuestion": "ملاحوں کو کیسے معلوم ہوا کہ یونس ہی اس شدید طوفان کا سبب ہے؟",
+        "options": ["They cast lots", "Jonah told them immediately", "An angel appeared", "A voice spoke from heaven"],
+        "urduOptions": ["انہوں نے قرعہ ڈالا", "یونس نے انہیں فوراً بتا دیا", "ایک فرشتہ ظاہر ہوا", "آسمان سے ایک آواز آئی"],
+        "answerIndex": 0,
+        "explanation": "Jonah 1:7.",
+        "urduExplanation": "یونس 1:7"
+      },
+      {
+        "id": "int_20_q3",
+        "question": "How long was Jonah inside the belly of the great fish?",
+        "urduQuestion": "یونس کتنے دن تک بڑی مچھلی کے پیٹ میں رہے؟",
+        "options": ["3 days and 3 nights", "7 days and 7 nights", "40 days", "1 day"],
+        "urduOptions": ["3 دن اور 3 راتیں", "7 دن اور 7 راتیں", "40 دن", "1 دن"],
+        "answerIndex": 0,
+        "explanation": "Jonah 1:17.",
+        "urduExplanation": "یونس 1:17"
+      },
+      {
+        "id": "int_20_q4",
+        "question": "Which prophet prophesied that the Messiah would be born in Bethlehem Ephrathah?",
+        "urduQuestion": "کس نبی نے پیشین گوئی کی تھی کہ مسیح بیت اللحم افراتاہ میں پیدا ہوگا؟",
+        "options": ["Micah", "Malachi", "Zechariah", "Haggai"],
+        "urduOptions": ["میکاہ", "ملاکی", "زکریاہ", "حجّی"],
+        "answerIndex": 0,
+        "explanation": "Micah 5:2.",
+        "urduExplanation": "میکاہ 5:2"
+      },
+      {
+        "id": "int_20_q5",
+        "question": "Which prophet's book ends with the promise of the return of Elijah before the Day of the Lord?",
+        "urduQuestion": "کس نبی کی کتاب کا خاتمہ خداوند کے دن سے پہلے ایلیاہ کی واپسی کے وعدے پر ہوتا ہے؟",
+        "options": ["Malachi", "Zechariah", "Haggai", "Zephaniah"],
+        "urduOptions": ["ملاکی", "زکریاہ", "حجّی", "صفنیاہ"],
+        "answerIndex": 0,
+        "explanation": "Malachi 4:5.",
+        "urduExplanation": "ملاکی 4:5"
+      }
+    ]
+  },
+  {
+    "dayNumber": 21,
+    "questions": [
+      {
+        "id": "int_21_q1",
+        "question": "What is the primary theme of the Book of Acts?",
+        "urduQuestion": "اعمال کی کتاب کا بنیادی موضوع کیا ہے؟",
+        "options": ["The history and spread of the early Church through the Holy Spirit", "The life of Jesus", "The fall of Jerusalem", "Prophecies about the end times"],
+        "urduOptions": ["روح القدس کے ذریعے ابتدائی کلیسیا کی تاریخ اور پھیلاؤ", "یسوع کی زندگی", "یروشلم کی تباہی", "آخری وقت کے بارے میں پیشین گوئیاں"],
+        "answerIndex": 0,
+        "explanation": "Acts 1:8.",
+        "urduExplanation": "اعمال 1:8"
+      },
+      {
+        "id": "int_21_q2",
+        "question": "Who was chosen to replace Judas Iscariot as one of the twelve apostles?",
+        "urduQuestion": "یہوداہ اسکریوتی کی جگہ بارہ رسولوں میں سے کس کو منتخب کیا گیا؟",
+        "options": ["Matthias", "Barnabas", "Stephen", "Paul"],
+        "urduOptions": ["متیاہ", "برنباس", "ستفنس", "پولس"],
+        "answerIndex": 0,
+        "explanation": "Acts 1:26.",
+        "urduExplanation": "اعمال 1:26"
+      },
+      {
+        "id": "int_21_q3",
+        "question": "What miraculous sign accompanied the outpouring of the Holy Spirit on Pentecost?",
+        "urduQuestion": "عیدِ پنطیکوست پر روح القدس کے نزول کے ساتھ کون سا معجزاتی نشان ظاہر ہوا؟",
+        "options": ["Tongues of fire and speaking in other languages", "An earthquake", "A solar eclipse", "The temple veil tearing"],
+        "urduOptions": ["آگ کی مانند پھٹتی ہوئی زبانیں اور غیر زبانیں بولنا", "زلزلہ", "سورج گرہن", "ہیکل کے پردے کا پھٹنا"],
+        "answerIndex": 0,
+        "explanation": "Acts 2:1-4.",
+        "urduExplanation": "اعمال 2:1-4"
+      },
+      {
+        "id": "int_21_q4",
+        "question": "Which Old Testament prophet did Peter quote on Pentecost to explain the Holy Spirit's outpouring?",
+        "urduQuestion": "پطرس نے پنطیکوست پر روح القدس کے نزول کی وضاحت کے لیے کس عہدِ عتیق کے نبی کا حوالہ دیا؟",
+        "options": ["Joel", "Isaiah", "Jeremiah", "Ezekiel"],
+        "urduOptions": ["یوایل", "یسعیاہ", "یرمیاہ", "حزقی ایل"],
+        "answerIndex": 0,
+        "explanation": "Acts 2:16-21.",
+        "urduExplanation": "اعمال 2:16-21"
+      },
+      {
+        "id": "int_21_q5",
+        "question": "Which couple died after lying to the Holy Spirit about the sale price of their land?",
+        "urduQuestion": "کون سا میاں بیوی اپنی زمین کی فروخت کی قیمت کے بارے میں روح القدس سے جھوٹ بولنے پر ہلاک ہوئے؟",
+        "options": ["Ananias and Sapphira", "Aquila and Priscilla", "Felix and Drusilla", "Elkanah and Hannah"],
+        "urduOptions": ["حننیاہ اور سفیرہ", "اکولا اور پرسکلہ", "فلکس اور درسیلہ", "الکانہ اور حنا"],
+        "answerIndex": 0,
+        "explanation": "Acts 5:1-10.",
+        "urduExplanation": "اعمال 5:1-10"
+      }
+    ]
+  },
+  {
+    "dayNumber": 22,
+    "questions": [
+      {
+        "id": "int_22_q1",
+        "question": "Who was the first Christian martyr, stoned to death after defending his faith?",
+        "urduQuestion": "پہلا مسیحی شہید کون تھا، جسے ایمان کے دفاع کے بعد سنگسار کر دیا گیا تھا؟",
+        "options": ["Stephen", "Philip", "James", "Peter"],
+        "urduOptions": ["ستفنس", "فلپس", "یعقوب", "پطرس"],
+        "answerIndex": 0,
+        "explanation": "Acts 7:54-60.",
+        "urduExplanation": "اعمال 7:54-60"
+      },
+      {
+        "id": "int_22_q2",
+        "question": "Whose feet did the executioners lay their coats at during Stephen's stoning?",
+        "urduQuestion": "ستفنس کے سنگسار کیے جانے کے دوران قاتلوں نے اپنے چوغے کس کے قدموں میں رکھے تھے؟",
+        "options": ["Saul (Paul)", "Barnabas", "Peter", "Caiaphas"],
+        "urduOptions": ["ساؤل (پولس)", "برنباس", "پطرس", "قیافا"],
+        "answerIndex": 0,
+        "explanation": "Acts 7:58.",
+        "urduExplanation": "اعمال 7:58"
+      },
+      {
+        "id": "int_22_q3",
+        "question": "Which deacon preached to and baptized an Ethiopian eunuch on the road to Gaza?",
+        "urduQuestion": "کس شماس (ڈیکن) نے غزہ کی راہ پر ایتھوپیا کے خواجہ سرا کو منادی کی اور اسے بپتسمہ دیا؟",
+        "options": ["Philip", "Stephen", "Nicanor", "Prochorus"],
+        "urduOptions": ["فلپس", "ستفنس", "نکانور", "پروخورس"],
+        "answerIndex": 0,
+        "explanation": "Acts 8:26-38.",
+        "urduExplanation": "اعمال 8:26-38"
+      },
+      {
+        "id": "int_22_q4",
+        "question": "What scripture passage was the Ethiopian eunuch reading when Philip found him?",
+        "urduQuestion": "جب فلپس نے ایتھوپیا کے خواجہ سرا کو پایا تو وہ صحیفے کا کون سا حصہ پڑھ رہا تھا؟",
+        "options": ["Isaiah 53", "Genesis 12", "Daniel 7", "Psalm 23"],
+        "urduOptions": ["یسعیاہ 53", "پیدائش 12", "دانی ایل 7", "زبور 23"],
+        "answerIndex": 0,
+        "explanation": "Acts 8:32-33.",
+        "urduExplanation": "اعمال 8:32-33"
+      },
+      {
+        "id": "int_22_q5",
+        "question": "Who attempted to buy the power of the Holy Spirit with money in Samaria?",
+        "urduQuestion": "سامریہ میں کس نے پیسوں کے ذریعے روح القدس کی قدرت کو خریدنے کی کوشش کی تھی؟",
+        "options": ["Simon the Sorcerer", "Elymas", "Bar-Jesus", "Theudas"],
+        "urduOptions": ["شمعون جادوگر", "علیمیاس", "برجیسوع", "تیوداس"],
+        "answerIndex": 0,
+        "explanation": "Acts 8:18-20.",
+        "urduExplanation": "اعمال 8:18-20"
+      }
+    ]
+  },
+  {
+    "dayNumber": 23,
+    "questions": [
+      {
+        "id": "int_23_q1",
+        "question": "On which road did Saul experience his dramatic conversion after seeing a bright light?",
+        "urduQuestion": "ساؤل نے ایک روشن روشنی دیکھنے کے بعد کس سڑک پر ڈرامائی تبدیلی کا تجربہ کیا؟",
+        "options": ["Road to Damascus", "Road to Jerusalem", "Road to Jericho", "Road to Emmaus"],
+        "urduOptions": ["دمشق کی راہ پر", "یروشلم کی راہ پر", "یریحو کی راہ پر", "عمواس کی راہ پر"],
+        "answerIndex": 0,
+        "explanation": "Acts 9:3.",
+        "urduExplanation": "اعمال 9:3"
+      },
+      {
+        "id": "int_23_q2",
+        "question": "Who was sent by God to lay hands on Saul in Damascus and restore his sight?",
+        "urduQuestion": "خدا نے دمشق میں ساؤل پر ہاتھ رکھنے اور اُس کی بینائی بحال کرنے کے لیے کس کو بھیجا تھا؟",
+        "options": ["Ananias", "Barnabas", "Peter", "Cornelius"],
+        "urduOptions": ["حننیاہ", "برنباس", "پطرس", "کرنیلیوس"],
+        "answerIndex": 0,
+        "explanation": "Acts 9:10-17.",
+        "urduExplanation": "اعمال 9:10-17"
+      },
+      {
+        "id": "int_23_q3",
+        "question": "How did Saul escape from Damascus when Jews plotted to kill him?",
+        "urduQuestion": "جب یہودیوں نے ساؤل کو قتل کرنے کی سازش کی تو وہ دمشق سے کیسے فرار ہوا؟",
+        "options": ["Believers lowered him in a basket through an opening in the city wall", "He disguised himself as a Roman soldier", "He escaped through a tunnel", "An angel made him invisible"],
+        "urduOptions": ["ایمانداروں نے اُسے ٹوکرے میں رکھ کر شہر کی فصیل کے سوراخ سے نیچے اتارا", "اُس نے ایک رومی فوجی کا بھیس بدل لیا", "وہ ایک سرنگ کے ذریعے فرار ہو گیا", "ایک فرشتے نے اُسے غائب کر دیا"],
+        "answerIndex": 0,
+        "explanation": "Acts 9:25.",
+        "urduExplanation": "اعمال 9:25"
+      },
+      {
+        "id": "int_23_q4",
+        "question": "Which believer defended Saul and introduced him to the apostles in Jerusalem?",
+        "urduQuestion": "کس ایماندار نے ساؤل کا دفاع کیا اور یروشلم میں رسولوں سے اُس کا تعارف کرایا؟",
+        "options": ["Barnabas", "Mark", "Stephen", "Silas"],
+        "urduOptions": ["برنباس", "مرقس", "ستفنس", "سیلاس"],
+        "answerIndex": 0,
+        "explanation": "Acts 9:27.",
+        "urduExplanation": "اعمال 9:27"
+      },
+      {
+        "id": "int_23_q5",
+        "question": "What was the name of the godly woman in Joppa whom Peter raised from the dead?",
+        "urduQuestion": "یافا کی اُس نیک خاتون کا نام کیا تھا جسے پطرس نے مردوں میں سے زندہ کیا؟",
+        "options": ["Tabitha (Dorcas)", "Lydia", "Priscilla", "Rhoda"],
+        "urduOptions": ["طبیتا (ہرنی)", "لدیہ", "پرسکلہ", "رودا"],
+        "answerIndex": 0,
+        "explanation": "Acts 9:36-40.",
+        "urduExplanation": "اعمال 9:36-40"
+      }
+    ]
+  },
+  {
+    "dayNumber": 24,
+    "questions": [
+      {
+        "id": "int_24_q1",
+        "question": "Who was the Roman centurion in Caesarea who received a vision to send for Peter?",
+        "urduQuestion": "قیصریہ کا وہ رومی صوبہ دار کون تھا جسے پطرس کو بلانے کے لیے رویا ملی تھی؟",
+        "options": ["Cornelius", "Julius", "Festus", "Felix"],
+        "urduOptions": ["کرنیلیوس", "جولیس", "فستوس", "فلکس"],
+        "answerIndex": 0,
+        "explanation": "Acts 10:1-5.",
+        "urduExplanation": "اعمال 10:1-5"
+      },
+      {
+        "id": "int_24_q2",
+        "question": "What did Peter see in his vision on the rooftop in Joppa?",
+        "urduQuestion": "پطرس نے یافا میں چھت پر رویا میں کیا دیکھا؟",
+        "options": ["A sheet containing clean and unclean animals", "A golden altar", "A ladder with angels", "The conversion of Saul"],
+        "urduOptions": ["ایک چادر جس میں حلال اور حرام جانور تھے", "ایک سونے کی قربان گاہ", "فرشتوں کے ساتھ ایک سیڑھی", "ساؤل کا ایمان لانا"],
+        "answerIndex": 0,
+        "explanation": "Acts 10:11-12.",
+        "urduExplanation": "اعمال 10:11-12"
+      },
+      {
+        "id": "int_24_q3",
+        "question": "What was the meaning of Peter's vision of the sheet?",
+        "urduQuestion": "پطرس کی چادر والی رویا کا کیا مطلب تھا؟",
+        "options": ["That Gentiles should not be called unclean and the Gospel is for them", "That Christians must follow Jewish food laws", "That he should go to Egypt", "That Jerusalem would fall"],
+        "urduOptions": ["کہ غیر قوموں کو ناپاک نہیں کہنا چاہیے اور انجیل ان کے لیے بھی ہے", "کہ مسیحیوں کو یہودیوں کے کھانے کے قوانین پر عمل کرنا چاہیے", "کہ اسے مصر جانا چاہیے", "کہ یروشلم تباہ ہو جائے گا"],
+        "answerIndex": 0,
+        "explanation": "Acts 10:28-35.",
+        "urduExplanation": "اعمال 10:28-35"
+      },
+      {
+        "id": "int_24_q4",
+        "question": "In which city were the disciples first called 'Christians'?",
+        "urduQuestion": "کس شہر میں شاگردوں کو پہلی بار 'مسیحی' کہا گیا؟",
+        "options": ["Antioch", "Jerusalem", "Ephesus", "Rome"],
+        "urduOptions": ["انطاکیہ", "یروشلم", "افسس", "روم"],
+        "answerIndex": 0,
+        "explanation": "Acts 11:26.",
+        "urduExplanation": "اعمال 11:26"
+      },
+      {
+        "id": "int_24_q5",
+        "question": "Which apostle was executed by Herod Agrippa I with the sword?",
+        "urduQuestion": "ہیرودیس اگرپا اول نے کس رسول کو تلوار سے قتل کروایا؟",
+        "options": ["James the brother of John", "Peter", "Andrew", "Thomas"],
+        "urduOptions": ["یعقوب، یوحنا کا بھائی", "پطرس", "اندریاس", "توما"],
+        "answerIndex": 0,
+        "explanation": "Acts 12:2.",
+        "urduExplanation": "اعمال 12:2"
+      }
+    ]
+  },
+  {
+    "dayNumber": 25,
+    "questions": [
+      {
+        "id": "int_25_q1",
+        "question": "How did Peter escape from prison after being arrested by Herod?",
+        "urduQuestion": "ہیرودیس کی طرف سے گرفتار کیے جانے کے بعد پطرس قید خانے سے کیسے فرار ہوئے؟",
+        "options": ["An angel led him out of the prison", "The guards slept because of a drug", "The believers paid a ransom", "There was an earthquake"],
+        "urduOptions": ["ایک فرشتہ انہیں قید خانے سے باہر لے آیا", "محافظ نشے کی وجہ سے سو گئے", "ایمانداروں نے تاوان ادا کیا", "ایک زلزلہ آیا تھا"],
+        "answerIndex": 0,
+        "explanation": "Acts 12:7-10.",
+        "urduExplanation": "اعمال 12:7-10"
+      },
+      {
+        "id": "int_25_q2",
+        "question": "What was the name of the servant girl who was too excited to open the door when Peter knocked?",
+        "urduQuestion": "اُس خادمہ کا نام کیا تھا جو پطرس کے دستک دینے پر اتنی خوش ہوئی کہ دروازہ کھولنا ہی بھول گئی؟",
+        "options": ["Rhoda", "Tabitha", "Lydia", "Damaris"],
+        "urduOptions": ["رودا", "طبیتا", "لدیہ", "دیمرس"],
+        "answerIndex": 0,
+        "explanation": "Acts 12:13-14.",
+        "urduExplanation": "اعمال 12:13-14"
+      },
+      {
+        "id": "int_25_q3",
+        "question": "Who was Paul's primary companion on his first missionary journey?",
+        "urduQuestion": "پولس کے پہلے تبلیغی سفر میں اُن کا بنیادی ساتھی کون تھا؟",
+        "options": ["Barnabas", "Silas", "Timothy", "Luke"],
+        "urduOptions": ["برنباس", "سیلاس", "تیمتھیس", "لوقا"],
+        "answerIndex": 0,
+        "explanation": "Acts 13:2-3.",
+        "urduExplanation": "اعمال 13:2-3"
+      },
+      {
+        "id": "int_25_q4",
+        "question": "Which magician was blinded by Paul on the island of Cyprus?",
+        "urduQuestion": "جزیرہ قبرص پر پولس نے کس جادوگر کو اندھا کر دیا تھا؟",
+        "options": ["Elymas (Bar-Jesus)", "Simon", "Theudas", "Demetrius"],
+        "urduOptions": ["علیمیاس (برجیسوع)", "شمعون", "تیوداس", "دیمیتریس"],
+        "answerIndex": 0,
+        "explanation": "Acts 13:8-11.",
+        "urduExplanation": "اعمال 13:8-11"
+      },
+      {
+        "id": "int_25_q5",
+        "question": "Who abandoned Paul and Barnabas mid-way through their first missionary journey?",
+        "urduQuestion": "پولس اور برنباس کے پہلے تبلیغی سفر کے دوران کس نے انہیں بیچ راستے میں چھوڑ دیا تھا؟",
+        "options": ["John Mark", "Silas", "Timothy", "Titus"],
+        "urduOptions": ["یوحنا مرقس", "سیلاس", "تیمتھیس", "ططس"],
+        "answerIndex": 0,
+        "explanation": "Acts 13:13.",
+        "urduExplanation": "اعمال 13:13"
+      }
+    ]
+  },
+  {
+    "dayNumber": 26,
+    "questions": [
+      {
+        "id": "int_26_q1",
+        "question": "What major issue was debated at the Council of Jerusalem?",
+        "urduQuestion": "یروشلم کی مجلس میں کس اہم مسئلے پر بحث کی گئی تھی؟",
+        "options": ["Whether Gentile believers must be circumcised and follow the Law of Moses", "Who would succeed Peter", "The date of Easter", "How to distribute food to widows"],
+        "urduOptions": ["آیا غیر قوم کے ایمانداروں کا ختنہ ہونا اور موسیٰ کی شریعت پر عمل کرنا ضروری ہے", "پطرس کا جانشین کون ہوگا", "ایسٹر کی تاریخ", "بیواؤں کو کھانا کیسے تقسیم کیا جائے"],
+        "answerIndex": 0,
+        "explanation": "Acts 15:1-5.",
+        "urduExplanation": "اعمال 15:1-5"
+      },
+      {
+        "id": "int_26_q2",
+        "question": "Who was the leader of the Jerusalem church who gave the final judgment at the Council?",
+        "urduQuestion": "یروشلم کی کلیسیا کا رہنما کون تھا جس نے مجلس میں حتمی فیصلہ سنایا؟",
+        "options": ["James (the brother of Jesus)", "Peter", "John", "Paul"],
+        "urduOptions": ["یعقوب (یسوع کا بھائی)", "پطرس", "یوحنا", "پولس"],
+        "answerIndex": 0,
+        "explanation": "Acts 15:13-19.",
+        "urduExplanation": "اعمال 15:13-19"
+      },
+      {
+        "id": "int_26_q3",
+        "question": "Why did Paul and Barnabas split before the second missionary journey?",
+        "urduQuestion": "دوسرے تبلیغی سفر سے پہلے پولس اور برنباس کیوں الگ ہو گئے؟",
+        "options": ["They disagreed over whether to take John Mark with them", "They had a theological dispute about food", "Barnabas wanted to stay in Jerusalem", "They disagreed on where to go"],
+        "urduOptions": ["ان کے درمیان اختلاف تھا کہ یوحنا مرقس کو ساتھ لے جانا چاہیے یا نہیں", "کھانے کے بارے میں ان کا ایک مذہبی اختلاف تھا", "برنباس یروشلم میں رہنا چاہتے تھے", "وہ اس بات پر متفق نہیں تھے کہ کہاں جانا ہے"],
+        "answerIndex": 0,
+        "explanation": "Acts 15:37-40.",
+        "urduExplanation": "اعمال 15:37-40"
+      },
+      {
+        "id": "int_26_q4",
+        "question": "Who became Paul's main companion on the second missionary journey?",
+        "urduQuestion": "دوسرے تبلیغی سفر میں پولس کا بنیادی ساتھی کون بنا؟",
+        "options": ["Silas", "Barnabas", "Mark", "Luke"],
+        "urduOptions": ["سیلاس", "برنباس", "مرقس", "لوقا"],
+        "answerIndex": 0,
+        "explanation": "Acts 15:40.",
+        "urduExplanation": "اعمال 15:40"
+      },
+      {
+        "id": "int_26_q5",
+        "question": "Where did Timothy join Paul and Silas on their journey?",
+        "urduQuestion": "تیمتھیس سفر کے دوران پولس اور سیلاس کے ساتھ کہاں شامل ہوا؟",
+        "options": ["Lystra", "Antioch", "Ephesus", "Philippi"],
+        "urduOptions": ["لسترہ", "انطاکیہ", "افسس", "فلپی"],
+        "answerIndex": 0,
+        "explanation": "Acts 16:1-3.",
+        "urduExplanation": "اعمال 16:1-3"
+      }
+    ]
+  },
+  {
+    "dayNumber": 27,
+    "questions": [
+      {
+        "id": "int_27_q1",
+        "question": "What vision led Paul to cross over into Europe (Macedonia)?",
+        "urduQuestion": "کس رویا نے پولس کو یورپ (مکدونیہ) جانے کی ترغیب دی؟",
+        "options": ["A vision of a man of Macedonia begging him, 'Come over and help us'", "An angel appearing in a dream", "The sheet of clean and unclean animals", "A burning bush"],
+        "urduOptions": ["مکدونیہ کے ایک آدمی کی رویا جو التجا کر رہا تھا، 'پار آ کر ہماری مدد کر'", "خواب میں ایک فرشتے کا ظاہر ہونا", "حلال اور حرام جانوروں کی چادر", "ایک جلتی ہوئی جھاڑی"],
+        "answerIndex": 0,
+        "explanation": "Acts 16:9-10.",
+        "urduExplanation": "اعمال 16:9-10"
+      },
+      {
+        "id": "int_27_q2",
+        "question": "Who was the seller of purple goods from Thyatira who was baptized in Philippi?",
+        "urduQuestion": "تھواتیرہ کی ارغوانی رنگ بیچنے والی وہ کون سی خاتون تھی جس نے فلپی میں بپتسمہ لیا؟",
+        "options": ["Lydia", "Priscilla", "Phoebe", "Damaris"],
+        "urduOptions": ["لدیہ", "پرسکلہ", "فیبی", "دیمرس"],
+        "answerIndex": 0,
+        "explanation": "Acts 16:14-15.",
+        "urduExplanation": "اعمال 16:14-15"
+      },
+      {
+        "id": "int_27_q3",
+        "question": "What happened while Paul and Silas were singing hymns in the Philippian jail?",
+        "urduQuestion": "جب پولس اور سیلاس فلپی کے قید خانے میں حمد و ثنا گا رہے تھے تو کیا ہوا؟",
+        "options": ["A violent earthquake opened all the prison doors", "The jailer executed them", "An angel flew them out silently", "The guards joined in singing"],
+        "urduOptions": ["ایک شدید زلزلے نے قید خانے کے تمام دروازے کھول دیے", "داروغہ نے انہیں موت کے گھاٹ اتار دیا", "ایک فرشتہ خاموشی سے انہیں باہر لے گیا", "محافظ بھی ان کے ساتھ گانے لگے"],
+        "answerIndex": 0,
+        "explanation": "Acts 16:25-26.",
+        "urduExplanation": "اعمال 16:25-26"
+      },
+      {
+        "id": "int_27_q4",
+        "question": "Why were the believers in Berea commended by Luke in Acts?",
+        "urduQuestion": "اعمال میں لوقا نے بیریہ کے ایمانداروں کی کیوں تعریف کی؟",
+        "options": ["They examined the Scriptures daily to see if what Paul said was true", "They sent money to Jerusalem", "They built a large church building", "They performed many miracles"],
+        "urduOptions": ["وہ روزانہ کلامِ مقدس کی جانچ کرتے تھے کہ جو کچھ پولس نے کہا وہ سچ ہے یا نہیں", "انہوں نے یروشلم رقم بھیجی", "انہوں نے کلیسیا کی ایک بڑی عمارت بنائی", "انہوں نے بہت سے معجزات دکھائے"],
+        "answerIndex": 0,
+        "explanation": "Acts 17:11.",
+        "urduExplanation": "اعمال 17:11"
+      },
+      {
+        "id": "int_27_q5",
+        "question": "Where in Athens did Paul deliver his famous sermon about the 'Unknown God'?",
+        "urduQuestion": "ایتھنز میں پولس نے 'نامعلوم خدا' کے بارے میں اپنا مشہور وعظ کہاں دیا تھا؟",
+        "options": ["The Areopagus (Mars Hill)", "The Temple of Zeus", "The Parthenon", "The Roman Forum"],
+        "urduOptions": ["اریوپگس (مارس ہل)", "زیوس کا ہیکل", "پارتھینون", "رومی چوک"],
+        "answerIndex": 0,
+        "explanation": "Acts 17:22-23.",
+        "urduExplanation": "اعمال 17:22-23"
+      }
+    ]
+  },
+  {
+    "dayNumber": 28,
+    "questions": [
+      {
+        "id": "int_28_q1",
+        "question": "Which Jewish couple, tentmakers like Paul, became his close companions in Corinth?",
+        "urduQuestion": "کون سا یہودی جوڑا، جو پولس کی طرح خیمہ دوز تھے، کرنتھس میں اُن کا قریبی ساتھی بنا؟",
+        "options": ["Aquila and Priscilla", "Ananias and Sapphira", "Andronicus and Junia", "Philemon and Apphia"],
+        "urduOptions": ["اکولا اور پرسکلہ", "حننیاہ اور سفیرہ", "اندرو نِکُس اور جونیہ", "فلیمون اور افیہ"],
+        "answerIndex": 0,
+        "explanation": "Acts 18:2-3.",
+        "urduExplanation": "اعمال 18:2-3"
+      },
+      {
+        "id": "int_28_q2",
+        "question": "Who was the eloquent Jewish preacher from Alexandria whom Priscilla and Aquila instructed more accurately in the faith?",
+        "urduQuestion": "اسکندریہ کا وہ فصیح و بلیغ یہودی مبلغ کون تھا جسے پرسکلہ اور اکولا نے ایمان کی زیادہ درست تعلیم دی؟",
+        "options": ["Apollos", "Barnabas", "Timothy", "Silas"],
+        "urduOptions": ["اپلوّس", "برنباس", "تیمتھیس", "سیلاس"],
+        "answerIndex": 0,
+        "explanation": "Acts 18:24-26.",
+        "urduExplanation": "اعمال 18:24-26"
+      },
+      {
+        "id": "int_28_q3",
+        "question": "What caused a riot in Ephesus led by Demetrius the silversmith?",
+        "urduQuestion": "افسس میں دیمیتریس سنار کی قیادت میں ہنگامہ آرائی کس وجہ سے ہوئی؟",
+        "options": ["Paul's preaching against the goddess Artemis threatened the silversmiths' idol business", "The Romans imposed heavy taxes", "A food shortage", "A dispute over the Jewish temple"],
+        "urduOptions": ["ارتمیس دیوی کے خلاف پولس کی منادی نے سناروں کے بتوں کے کاروبار کو خطرے میں ڈال دیا تھا", "رومیوں نے بھاری ٹیکس عائد کیے تھے", "خوراک کی کمی", "یہودی ہیکل پر جھگڑا"],
+        "answerIndex": 0,
+        "explanation": "Acts 19:23-27.",
+        "urduExplanation": "اعمال 19:23-27"
+      },
+      {
+        "id": "int_28_q4",
+        "question": "Which young man fell asleep during Paul's long sermon in Troas, fell from a third-story window, and was restored to life?",
+        "urduQuestion": "تروآس میں پولس کے طویل وعظ کے دوران کون سا نوجوان سو گیا اور تیسری منزل کی کھڑکی سے نیچے گر پڑا، جسے بعد میں زندگی مل گئی؟",
+        "options": ["Eutychus", "Timothy", "Tychicus", "Artemas"],
+        "urduOptions": ["یوتیخس", "تیمتھیس", "تخِکُس", "ارتماس"],
+        "answerIndex": 0,
+        "explanation": "Acts 20:9-12.",
+        "urduExplanation": "اعمال 20:9-12"
+      },
+      {
+        "id": "int_28_q5",
+        "question": "How did Paul assert his rights when arrested and threatened with flogging in Jerusalem?",
+        "urduQuestion": "یروشلم میں گرفتاری اور کوڑے مارے جانے کی دھمکی کے دوران پولس نے اپنے حقوق کا دعویٰ کیسے کیا؟",
+        "options": ["He declared that he was a Roman citizen", "He paid a bribe", "He escaped with the help of Timothy", "He called for an armed rescue"],
+        "urduOptions": ["اُس نے اعلان کیا کہ وہ رومی شہری ہے", "اُس نے رشوت دی", "وہ تیمتھیس کی مدد سے فرار ہو گیا", "اُس نے مسلح بچاؤ کی اپیل کی"],
+        "answerIndex": 0,
+        "explanation": "Acts 22:25-29.",
+        "urduExplanation": "اعمال 22:25-29"
+      }
+    ]
+  }
+]

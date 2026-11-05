@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://christ-studio-hub.web.app/sitemap.xml

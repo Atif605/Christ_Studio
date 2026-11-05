@@ -1,0 +1,125 @@
+{
+  "entities": {
+    "User": {
+      "title": "User",
+      "description": "User profile representation",
+      "type": "object",
+      "properties": {
+        "uid": { "type": "string" },
+        "name": { "type": "string" },
+        "email": { "type": "string" },
+        "phone": { "type": "string" },
+        "youtubeChannelHandle": { "type": "string" },
+        "verifiedCreator": { "type": "boolean" },
+        "avatarUrl": { "type": "string" },
+        "createdAt": { "type": "string" }
+      },
+      "required": ["uid", "name", "email"]
+    },
+    "UserByEmail": {
+      "title": "UserByEmail",
+      "description": "Index of email to user UID",
+      "type": "object",
+      "properties": {
+        "uid": { "type": "string" }
+      },
+      "required": ["uid"]
+    },
+    "Media": {
+      "title": "Media",
+      "description": "Video media publication representation",
+      "type": "object",
+      "properties": {
+        "id": { "type": "string" },
+        "title": { "type": "string" },
+        "description": { "type": "string" },
+        "creatorName": { "type": "string" },
+        "creatorAvatar": { "type": "string" },
+        "creatorId": { "type": "string" },
+        "videoUrl": { "type": "string" },
+        "thumbnailUrl": { "type": "string" },
+        "category": { "type": "string" },
+        "isShort": { "type": "boolean" },
+        "views": { "type": "number" },
+        "likes": { "type": "array" },
+        "dislikes": { "type": "array" },
+        "comments": { "type": "array" },
+        "createdAt": { "type": "string" }
+      },
+      "required": ["id", "title", "videoUrl"]
+    },
+    "Prayer": {
+      "title": "Prayer",
+      "description": "Prayer request representation",
+      "type": "object",
+      "properties": {
+        "id": { "type": "string" },
+        "authorName": { "type": "string" },
+        "authorAvatar": { "type": "string" },
+        "authorId": { "type": "string" },
+        "requestText": { "type": "string" },
+        "category": { "type": "string" },
+        "prayerCount": { "type": "number" },
+        "prayedBy": { "type": "array" },
+        "comments": { "type": "array" },
+        "isAnswered": { "type": "boolean" },
+        "praiseReportText": { "type": "string" },
+        "createdAt": { "type": "string" }
+      },
+      "required": ["id", "authorId", "requestText"]
+    },
+    "Journal": {
+      "title": "Journal",
+      "description": "Journal diary entry representation",
+      "type": "object",
+      "properties": {
+        "id": { "type": "string" },
+        "userId": { "type": "string" },
+        "verseRef": { "type": "string" },
+        "verseText": { "type": "string" },
+        "note": { "type": "string" },
+        "date": { "type": "string" }
+      },
+      "required": ["id", "userId", "note"]
+    },
+    "TriviaScore": {
+      "title": "TriviaScore",
+      "description": "Trivia leaderboard score entry",
+      "type": "object",
+      "properties": {
+        "userId": { "type": "string" },
+        "name": { "type": "string" },
+        "score": { "type": "number" },
+        "streak": { "type": "number" },
+        "avatarUrl": { "type": "string" }
+      },
+      "required": ["userId", "name", "score"]
+    }
+  },
+  "firestore": {
+    "users": {
+      "schema": "User",
+      "description": "User profiles"
+    },
+    "users_by_email": {
+      "schema": "UserByEmail",
+      "description": "Email-to-UID index mapping"
+    },
+    "media": {
+      "schema": "Media",
+      "description": "Shared video clips and preaching media"
+    },
+    "prayers": {
+      "schema": "Prayer",
+      "description": "Prayer circle requests"
+    },
+    "journals": {
+      "schema": "Journal",
+      "description": "Study diaries"
+    },
+    "trivia_scores": {
+      "schema": "TriviaScore",
+      "description": "Bible quiz leaderboard scores"
+    }
+  }
+}

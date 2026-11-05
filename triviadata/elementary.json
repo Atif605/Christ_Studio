@@ -1,0 +1,1542 @@
+[
+  {
+    "dayNumber": 1,
+    "questions": [
+      {
+        "id": "elem_d1_q1",
+        "question": "On which mountain did Moses receive the Ten Commandments from God?",
+        "urduQuestion": "موسیٰ نے خدا سے دس احکام کس پہاڑ پر حاصل کیے؟",
+        "options": ["Mount Nebo", "Mount Sinai", "Mount Ararat", "Mount Carmel"],
+        "urduOptions": ["کوہِ نیبو", "کوہِ سینا", "کوہِ ارارات", "کوہِ کرمل"],
+        "answerIndex": 1,
+        "explanation": "Moses went up Mount Sinai where the Lord delivered the Ten Commandments (Exodus 19:20).",
+        "urduExplanation": "موسیٰ کوہِ سینا پر گئے جہاں خدا نے آگ کے شعلوں میں اتر کر بنی اسرائیل کو احکام دیے (خروج 19:20)۔"
+      },
+      {
+        "id": "elem_d1_q2",
+        "question": "What was the very first plague brought upon Egypt when Pharaoh hardened his heart?",
+        "urduQuestion": "جب فرعون نے اپنا دل سخت کیا تو مصر پر سب سے پہلی کون سی آفت لائی گئی؟",
+        "options": ["Plague of Frogs", "Plague of Darkness", "Water turned to Blood", "Plague of Locusts"],
+        "urduOptions": ["مینڈکوں کی آفت", "تاریکی کی آفت", "پانی کا خون بن جانا", "ٹڈی دل کی آفت"],
+        "answerIndex": 2,
+        "explanation": "In Exodus 7:20, Moses and Aaron turned all the water in the Nile into blood as the first plague.",
+        "urduExplanation": "خروج 7:20 کے مطابق، جب فرعون نے بنی اسرائیل کو جانے نہ دیا تو خدا کے حکم سے نیل کا سارا پانی خون میں تبدیل ہو گیا۔"
+      },
+      {
+        "id": "elem_d1_q3",
+        "question": "How did God feed the Israelites in the wilderness daily, besides giving them quail?",
+        "urduQuestion": "خدا نے بنی اسرائیل کو بٹیروں کے علاوہ بیابان میں روزانہ کون سی خوراک کھلائی؟",
+        "options": ["Bread from Egypt", "Manna", "Figs", "Honeycombs"],
+        "urduOptions": ["مصر کی روٹی", "من (Manna)", "انجیر", "شہد کے چھتے"],
+        "answerIndex": 1,
+        "explanation": "Exodus 16:14-15 describes Manna, a fine, flake-like thing that lay on the ground like frost.",
+        "urduExplanation": "خروج 16:14-15 میں 'من' کا ذکر ہے، جو شبنم کی طرح زمین پر گرتا تھا اور بنی اسرائیل اسے پکا کر کھاتے تھے۔"
+      },
+      {
+        "id": "elem_d1_q4",
+        "question": "Which sea did God part through Moses to allow the Israelites to escape from Egypt?",
+        "urduQuestion": "خدا نے موسیٰ کے ذریعے کس سمندر کو دو حصوں میں تقسیم کیا تاکہ بنی اسرائیل مصر سے فرار ہو سکیں؟",
+        "options": ["The Dead Sea", "The Mediterranean Sea", "The Red Sea", "The Sea of Galilee"],
+        "urduOptions": ["بحرِ مردار", "بحرِ روم", "بحرِ احمر (Red Sea)", "گلیل کی جھیل"],
+        "answerIndex": 2,
+        "explanation": "Exodus 14 records God parting the Red Sea with a strong east wind, allowing the Israelites to cross on dry ground.",
+        "urduExplanation": "خروج 14 کے مطابق خدا نے بحرِ احمر کو تقسیم کیا جس سے بنی اسرائیل خشک زمین پر چل کر عبور کر گئے۔"
+      },
+      {
+        "id": "elem_d1_q5",
+        "question": "Who was Moses' sister who took a tambourine and led the women in victory praise?",
+        "urduQuestion": "موسیٰ کی بہن کون تھی جس نے دف ہاتھ میں لیا اور خواتین کی فتح کے جشن کے گیت میں رہنمائی کی؟",
+        "options": ["Miriam", "Deborah", "Ruth", "Sarah"],
+        "urduOptions": ["مریم", "دبورہ", "روت", "سارہ"],
+        "answerIndex": 0,
+        "explanation": "Exodus 15:20 describes Miriam the prophetess, Aaron's sister, leading the women with tambourines and dancing.",
+        "urduExplanation": "خروج 15:20 کے مطابق، ہارون اور موسیٰ کی بہن مریم نبیہ نے دف بجا کر خدا کی حمد و ثنا کی رہنمائی کی تھی۔"
+      }
+    ]
+  },
+  {
+    "dayNumber": 2,
+    "questions": [
+      {
+        "id": "elem_d2_q1",
+        "question": "Where did Moses' mother place him to hide him from Pharaoh's decree to kill Hebrew baby boys?",
+        "urduQuestion": "موسیٰ کی والدہ نے عبرانی لڑکوں کو قتل کرنے کے فرعون کے حکم سے بچانے کے لیے انہیں کہاں رکھا تھا؟",
+        "options": ["In a cave on Mt. Sinai", "In a basket in the Nile River", "In the Egyptian palace", "In a secret Goshen cellar"],
+        "urduOptions": ["کوہِ سینا کے ایک غار میں", "دریائے نیل میں سرکنڈوں کے درمیان ٹوکری میں", "شاہی محل کے اندر", "جوشن کے ایک خفیہ تہہ خانے میں"],
+        "answerIndex": 1,
+        "explanation": "Exodus 2:3 states she made a papyrus basket, coated it with tar, and placed him in the reeds of the Nile.",
+        "urduExplanation": "خروج 2:3 کے مطابق، جب وہ اسے مزید نہ چھپا سکی تو اس نے پپائرس کی ٹوکری بنائی اور اسے نیل کے سرکنڈوں میں رکھ دیا۔"
+      },
+      {
+        "id": "elem_d2_q2",
+        "question": "How did God first appear and speak to Moses in the wilderness of Midian?",
+        "urduQuestion": "مدیان کے بیابان میں خدا پہلی بار موسیٰ پر کس طرح ظاہر ہوا اور اس سے کلام کیا؟",
+        "options": ["In a roaring thunder", "Through a burning bush that was not consumed", "Through an angel on a horse", "In a dream at night"],
+        "urduOptions": ["گرج چمک کے ساتھ", "ایک جلتی ہوئی جھاڑی کے ذریعے جو بھسم نہیں ہوتی تھی", "گھوڑے پر سوار فرشتے کے ذریعے", "رات کو ایک خواب کے ذریعے"],
+        "answerIndex": 1,
+        "explanation": "Exodus 3:2 says the angel of the Lord appeared to him in flames of fire from within a bush.",
+        "urduExplanation": "خروج 3:2 کے مطابق، خداوند کا فرشتہ جھاڑی کے درمیان آگ کے شعلے میں نمودار ہوا، جھاڑی جلتی تھی پر خاکستر نہیں ہوتی تھی۔"
+      },
+      {
+        "id": "elem_d2_q3",
+        "question": "Who was appointed by God to be Moses' spokesperson because Moses claimed to be slow of speech?",
+        "urduQuestion": "موسیٰ کی زبان میں لکنت (آہستہ بولنے) کی وجہ سے خدا نے کسے ان کا ترجمان مقرر کیا تھا؟",
+        "options": ["Joshua", "Caleb", "Aaron", "Jethro"],
+        "urduOptions": ["یشوع", "کالیب", "ہارون", "یترو"],
+        "answerIndex": 2,
+        "explanation": "Exodus 4:14 records God appointing Moses' brother Aaron to speak on his behalf.",
+        "urduExplanation": "خروج 4:14 کے مطابق، خدا نے موسیٰ کے بھائی ہارون کو ان کا ترجمان مقرر کیا کیونکہ وہ فصیح الکلام تھا۔"
+      },
+      {
+        "id": "elem_d2_q4",
+        "question": "What did Aaron's staff turn into when he threw it down before Pharaoh?",
+        "urduQuestion": "جب ہارون نے فرعون کے سامنے اپنی لاٹھی پھینکی تو وہ کس چیز میں تبدیل ہو گئی؟",
+        "options": ["A scorpion", "A crocodile", "A serpent", "A bronze chain"],
+        "urduOptions": ["ایک بچھو", "ایک مگرمچھ", "ایک سانپ (اژدہا)", "ایک کانسی کی زنجیر"],
+        "answerIndex": 2,
+        "explanation": "Exodus 7:10 states that Aaron cast down his staff before Pharaoh and his officials, and it became a serpent.",
+        "urduExplanation": "خروج 7:10 میں درج ہے کہ جب ہارون نے فرعون اور اس کے خادموں کے سامنے اپنی لاٹھی ڈالی تو وہ اژدہا بن گئی۔"
+      },
+      {
+        "id": "elem_d2_q5",
+        "question": "What did the Israelites paint on their doorframes to protect their firstborn from the plague of the death angel?",
+        "urduQuestion": "موت کے فرشتے سے اپنے پہلوٹھوں کو بچانے کے لیے بنی اسرائیل نے اپنے دروازوں پر کیا لگایا تھا؟",
+        "options": ["Anointing oil", "Lamb's blood", "Ash from the altar", "Crushed herbs"],
+        "urduOptions": ["مسح کا تیل", "برے کا خون (Lamb's blood)", "قربان گاہ کی راکھ", "کچلی ہوئی جڑی بوٹیاں"],
+        "answerIndex": 1,
+        "explanation": "Exodus 12:7 instructs them to take some of the lamb's blood and put it on the sides and tops of the doorframes.",
+        "urduExplanation": "خروج 12:7 میں خدا نے بنی اسرائیل کو حکم دیا کہ وہ برے کا خون لے کر اپنے دروازوں کے بازوؤں اور چولٹھوں پر لگائیں۔"
+      }
+    ]
+  },
+  {
+    "dayNumber": 3,
+    "questions": [
+      {
+        "id": "elem_d3_q1",
+        "question": "How did God guide the Israelites through the wilderness during the day?",
+        "urduQuestion": "خدا نے دن کے وقت بیابان میں بنی اسرائیل کی رہنمائی کس طرح کی؟",
+        "options": ["By a flying eagle", "By a pillar of cloud", "By a trumpet sound", "By Moses' glowing staff"],
+        "urduOptions": ["ایک اڑتے ہوئے عقاب سے", "ابر (بادل) کے ستون کے ذریعے", "نر سنگھے کی آواز سے", "موسیٰ کے چمکتے ہوئے عصا سے"],
+        "answerIndex": 1,
+        "explanation": "Exodus 13:21 states that by day the Lord went ahead of them in a pillar of cloud to guide them on their way.",
+        "urduExplanation": "خروج 13:21 کے مطابق، خداوند دن کو بادل کے ستون میں ہو کر ان کے آگے آگے چلتا تھا تاکہ انہیں راستہ دکھائے۔"
+      },
+      {
+        "id": "elem_d3_q2",
+        "question": "What happened to the bitter waters of Marah to make them drinkable for the Israelites?",
+        "urduQuestion": "مارہ کے کڑوے پانیوں کے ساتھ کیا ہوا کہ وہ بنی اسرائیل کے پینے کے قابل بن گئے؟",
+        "options": ["Moses struck them with his rod", "Moses threw in a piece of wood shown by God", "God sent a heavy rain", "They filtered it through sand"],
+        "urduOptions": ["موسیٰ نے ان پر اپنی لاٹھی ماری", "موسیٰ نے اس میں لکڑی کا ٹکڑا ڈالا جو خدا نے دکھایا تھا", "خدا نے تیز بارش بھیجی", "انہوں نے اسے ریت سے چھانا"],
+        "answerIndex": 1,
+        "explanation": "In Exodus 15:25, Moses cried out to the Lord, and the Lord pointed out a piece of wood, which made the water sweet.",
+        "urduExplanation": "خروج 15:25 کے مطابق، خدا نے موسیٰ کو ایک درخت (لکڑی کا ٹکڑا) دکھایا جسے پانی میں ڈالتے ہی وہ میٹھا ہو گیا۔"
+      },
+      {
+        "id": "elem_d3_q3",
+        "question": "For how many years did the Israelites wander in the wilderness before entering Canaan?",
+        "urduQuestion": "کنعان میں داخل ہونے سے پہلے بنی اسرائیل نے کتنے سال بیابان میں آوارہ گردی کی؟",
+        "options": ["40 years", "70 years", "12 years", "120 years"],
+        "urduOptions": ["40 سال (40 years)", "70 سال", "12 سال", "120 سال"],
+        "answerIndex": 0,
+        "explanation": "Numbers 14:34 records God declaring they would suffer for their unfaithfulness by wandering for forty years.",
+        "urduExplanation": "گنتی 14:34 کے مطابق، ان کی نافرمانی اور بے ایمانی کے سبب خدا نے انہیں چالیس سال تک بیابان میں رہنے کی سزا دی۔"
+      },
+      {
+        "id": "elem_d3_q4",
+        "question": "What was the name of the high priest, Moses' brother, who made the Golden Calf?",
+        "urduQuestion": "موسیٰ کے بھائی اور پہلے سردار کاہن کا نام کیا تھا جنہوں نے سونے کا بچھڑا بنایا تھا؟",
+        "options": ["Eleazar", "Phinehas", "Aaron", "Nadab"],
+        "urduOptions": ["الیعزر", "فنحاس", "ہارون (Aaron)", "ندب"],
+        "answerIndex": 2,
+        "explanation": "Exodus 32 details Aaron yielding to the pressure of the people and crafting a golden calf for worship.",
+        "urduExplanation": "خروج 32 کے مطابق، ہارون نے لوگوں کے دباؤ میں آ کر ان کے زیورات پگھلائے اور سونے کا بچھڑا بنایا۔"
+      },
+      {
+        "id": "elem_d3_q5",
+        "question": "Where did Moses die and get buried by God, without anyone knowing his exact grave?",
+        "urduQuestion": "موسیٰ نے کس پہاڑ پر وفات پائی اور خدا نے انہیں دفن کیا، جس کی قبر کا نشان آج تک کوئی نہیں جانتا؟",
+        "options": ["Mount Sinai", "Mount Hor", "Mount Nebo", "Mount Ararat"],
+        "urduOptions": ["کوہِ سینا", "کوہِ ہور", "کوہِ نیبو (Mount Nebo)", "کوہِ ارارات"],
+        "answerIndex": 2,
+        "explanation": "Deuteronomy 34:1-6 records Moses climbing Mount Nebo to view the Promised Land, dying there, and being buried by God in Moab.",
+        "urduExplanation": "استثنا 34:1-6 کے مطابق، موسیٰ کوہِ نیبو کی چوٹی پر چڑھے، وعدہ کی زمین دیکھی اور وہیں موآب میں وفات پائی۔"
+      }
+    ]
+  },
+  {
+    "dayNumber": 4,
+    "questions": [
+      {
+        "id": "elem_d4_q1",
+        "question": "Who succeeded Moses as the leader of the Israelites to lead them into Canaan?",
+        "urduQuestion": "موسیٰ کے بعد اسرائیل کا جانشین کون بنا جو انہیں کنعان کی زمین میں لے کر گیا؟",
+        "options": ["Caleb", "Joshua", "Eleazar", "Gideon"],
+        "urduOptions": ["کالیب", "یشوع (Joshua)", "الیعزر", "جدعون"],
+        "answerIndex": 1,
+        "explanation": "Numbers 27:18-23 and Joshua 1 confirm Joshua, son of Nun, succeeded Moses as Israel's leader.",
+        "urduExplanation": "یشوع 1 کے مطابق، نون کا بیٹا یشوع، جو موسیٰ کا خادم تھا، موسیٰ کی وفات کے بعد بنی اسرائیل کا قائد مقرر ہوا۔"
+      },
+      {
+        "id": "elem_d4_q2",
+        "question": "How did the Israelites cross the Jordan River to enter the Promised Land?",
+        "urduQuestion": "وعدہ کی زمین میں داخل ہونے کے لیے بنی اسرائیل نے دریائے یردن کو کس طرح عبور کیا؟",
+        "options": ["They built a wooden bridge", "The water stopped flowing when the priests carrying the Ark stepped in", "They crossed on boats", "The river dried up during a drought"],
+        "urduOptions": ["انہوں نے لکڑی کا پل بنایا", "جیسے ہی عہد کا صندوق اٹھانے والے کاہنوں کے قدم پانی میں پڑے، بہتا ہوا پانی رک گیا", "وہ کشتیوں کے ذریعے پار ہوئے", "خشک سالی کی وجہ سے دریا سوکھ گیا تھا"],
+        "answerIndex": 1,
+        "explanation": "Joshua 3:15-17 states that as soon as the priests' feet touched the water, the Jordan stopped flowing and dried up.",
+        "urduExplanation": "یشوع 3:15-17 کے مطابق، جیسے ہی عہد کا صندوق اٹھانے والے کاہنوں کے پاؤں یردن کے پانی میں پڑے، اوپر سے بہتا ہوا پانی رک گیا۔"
+      },
+      {
+        "id": "elem_d4_q3",
+        "question": "Who hid the two Israelite spies in Jericho and was saved when the city walls collapsed?",
+        "urduQuestion": "اریحا میں دو اسرائیلی جاسوسوں کو کس نے چھپایا تھا اور شہر کی فصیل گرنے پر اس کا خاندان محفوظ رہا؟",
+        "options": ["Deborah", "Rahab the harlot", "Ruth", "Jael"],
+        "urduOptions": ["دبورہ", "راحاب فاحشہ (Rahab)", "روت", "یاعل"],
+        "answerIndex": 1,
+        "explanation": "Joshua 2 details Rahab harboring the spies on her roof and Joshua 6 confirms her family's salvation.",
+        "urduExplanation": "یشوع 2 کے مطابق، راحاب نے جاسوسوں کو اپنے گھر کی چھت پر چھپایا تھا، جس کے بدلے اس کے خاندان کو بچا لیا گیا۔"
+      },
+      {
+        "id": "elem_d4_q4",
+        "question": "What did Rahab place in her window as a sign so her house would be spared during the attack on Jericho?",
+        "urduQuestion": "راحاب نے اپنے گھر کی کھڑکی میں کون سا نشان لگایا تھا تاکہ اریحا پر حملے کے وقت اس کا گھر محفوظ رہے؟",
+        "options": ["A white flag", "A scarlet cord", "A bronze shield", "A wooden cross"],
+        "urduOptions": ["ایک سفید جھنڈا", "ایک سرخ رنگ کی ڈوری (Scarlet cord)", "ایک کانسی کی ڈھال", "ایک لکڑی کی صلیب"],
+        "answerIndex": 1,
+        "explanation": "In Joshua 2:18, the spies instructed Rahab to tie a scarlet cord in the window through which she let them down.",
+        "urduExplanation": "یشوع 2:18 میں جاسوسوں نے راحاب کو تاکید کی تھی کہ وہ اسی کھڑکی میں لال رنگ کی ڈوری باندھ کر رکھے جس سے اس نے انہیں اتارا تھا۔"
+      },
+      {
+        "id": "elem_d4_q5",
+        "question": "How many times did the Israelites march around Jericho on the final (seventh) day of the siege?",
+        "urduQuestion": "محاصرے کے آخری (ساتویں) دن بنی اسرائیل نے اریحا کے گرد کتنے چکر لگائے تھے؟",
+        "options": ["Once", "Three times", "Seven times", "Twelve times"],
+        "urduOptions": ["ایک بار", "تین بار", "سات بار (Seven times)", "بارہ بار"],
+        "answerIndex": 2,
+        "explanation": "Joshua 6:15 records that on the seventh day, they got up at daybreak and marched around the city seven times.",
+        "urduExplanation": "یشوع 6:15 کے مطابق، ساتویں دن وہ صبح سویرے اٹھے اور اسی ترتیب سے شہر کے گرد سات بار چکر لگائے۔"
+      }
+    ]
+  },
+  {
+    "dayNumber": 5,
+    "questions": [
+      {
+        "id": "elem_d5_q1",
+        "question": "What happened to the walls of Jericho when the priests blew the trumpets and the people shouted?",
+        "urduQuestion": "جب کاہنوں نے نرسنگے پھونکے اور لوگوں نے اونچی آواز سے نعرہ لگایا تو اریحا کی فصیل کے ساتھ کیا ہوا؟",
+        "options": ["An earthquake destroyed them", "The walls collapsed/fell flat", "The gates opened on their own", "Fire from heaven burned them"],
+        "urduOptions": ["زلزلے نے انہیں تباہ کر دیا", "دیواریں زمین بوس ہو گئیں (Collapsed)", "پھاٹک خود بخود کھل گئے", "آسمان سے آگ نے انہیں جلا دیا"],
+        "answerIndex": 1,
+        "explanation": "Joshua 6:20 states that when the people heard the trumpet sound, they gave a loud shout, and the wall collapsed.",
+        "urduExplanation": "یشوع 6:20 کے مطابق، جیسے ہی لوگوں نے نرسنگے کی آواز سنی اور بڑا نعرہ مارا، شہر کی فصیل بالکل گر گئی۔"
+      },
+      {
+        "id": "elem_d5_q2",
+        "question": "Who was the female judge of Israel who sat under a palm tree and led Barak into battle?",
+        "urduQuestion": "اسرائیل کی وہ کون سی واحد خاتون قاضی (منصف) تھیں جو کھجور کے درخت کے نیچے بیٹھتی تھیں اور باراق کو جنگ میں لے کر گئیں؟",
+        "options": ["Jael", "Deborah", "Ruth", "Jephthah's daughter"],
+        "urduOptions": ["یاعل", "دبورہ (Deborah)", "روت", "یفتح کی بیٹی"],
+        "answerIndex": 1,
+        "explanation": "Judges 4 describes Deborah, a prophetess and judge, holding court under the Palm of Deborah and summoning Barak.",
+        "urduExplanation": "قضاۃ 4 میں لکھا ہے کہ دبورہ نبیہ افراہیم کے پہاڑی ملک میں دبورہ کے کھجور کے درخت کے نیچے عدالت کرتی تھی۔"
+      },
+      {
+        "id": "elem_d5_q3",
+        "question": "Who killed the Canaanite general Sisera by driving a tent peg through his temple while he slept?",
+        "urduQuestion": "کنعانی سپہ سالار سیسرا کو نیند کی حالت میں اس کی کنپٹی پر خیمے کی میخ مار کر کس نے قتل کیا تھا؟",
+        "options": ["Deborah", "Delilah", "Jael", "Naomi"],
+        "urduOptions": ["دبورہ", "دلیلہ", "یاعل (Jael)", "نعومی"],
+        "answerIndex": 2,
+        "explanation": "Judges 4:21 records Jael, Heber's wife, taking a tent peg and hammer and driving it through Sisera's temple.",
+        "urduExplanation": "قضاۃ 4:21 کے مطابق، حبر کی بیوی یاعل نے خیمے کی میخ لی اور ہتھوڑا ہاتھ میں لے کر سیسرا کی کنپٹی میں ٹھونک دی۔"
+      },
+      {
+        "id": "elem_d5_q4",
+        "question": "How did Gideon test God's call using a fleece of wool on the threshing floor?",
+        "urduQuestion": "جدعون نے کھلیان پر اون کی کھال (Fleece) کا استعمال کرتے ہوئے خدا کے بلاوے کو کس طرح آزمایا تھا؟",
+        "options": ["By burning the wool", "By asking for dew on the fleece only, then only on the dry ground", "By asking the fleece to turn into gold", "By casting lots on the wool"],
+        "urduOptions": ["اون کو جلا کر", "پہلی بار صرف اون پر شبنم اور زمین خشک رہنے، اور دوسری بار زمین پر شبنم اور اون خشک رہنے کی التجا کر کے", "اون کو سونے میں تبدیل کرنے کی التجا کر کے", "اون پر قرعہ ڈال کر"],
+        "answerIndex": 1,
+        "explanation": "In Judges 6:36-40, Gideon put a wool fleece on the floor; God made only the fleece wet, and the next night only the ground wet.",
+        "urduExplanation": "قضاۃ 6:36-40 کے مطابق، جدعون نے اون کی کھال رکھی؛ خدا نے پہلے صرف اون کو تر کیا اور دوسری رات صرف زمین کو تر کیا۔"
+      },
+      {
+        "id": "elem_d5_q5",
+        "question": "How many men did God choose for Gideon's army to defeat the Midianites, based on how they lapped water?",
+        "urduQuestion": "پانی پینے کے طریقے کی بنیاد پر، خدا نے مدیانیوں کو شکست دینے کے لیے جدعون کے لشکر میں سے کتنے مردوں کو چنا تھا؟",
+        "options": ["300 men", "1,000 men", "10,000 men", "22,000 men"],
+        "urduOptions": ["300 مرد (300 men)", "1,000 مرد", "10,000 مرد", "22,000  مرد"],
+        "answerIndex": 0,
+        "explanation": "In Judges 7, God reduced Gideon's army to 300 men who lapped water like dogs, to show that victory belongs to God.",
+        "urduExplanation": "قضاۃ 7 کے مطابق، خدا نے ان 300 جری مردوں کو چنا جنہوں نے اپنے ہاتھوں سے کتے کی طرح چاٹ کر پانی پیا تھا۔"
+      }
+    ]
+  },
+  {
+    "dayNumber": 6,
+    "questions": [
+      {
+        "id": "elem_d6_q1",
+        "question": "What three items did Gideon's 300 men carry to startle the Midianite army in the dark?",
+        "urduQuestion": "جدعون کے 300 مردوں نے اندھیرے میں مدیانی لشکر کو ڈرانے کے لیے کون سی تین چیزیں ہاتھ میں لے رکھی تھیں؟",
+        "options": ["Swords, spears, and shields", "Trumpets, empty jars, and torches inside the jars", "Bows, arrows, and banners", "Slings, stones, and bronze helmets"],
+        "urduOptions": ["تلواریں، بھالے اور ڈھالیں", "نرسنگے، خالی گھڑے اور مٹکوں کے اندر جلتی ہوئی مشعلیں", "کمانیں، تیر اور جھنڈے", "غلیلیں، پتھر اور پیتل کے خود"],
+        "answerIndex": 1,
+        "explanation": "Judges 7:16 states Gideon divided the men into three companies, giving each man a trumpet and an empty jar with a torch inside.",
+        "urduExplanation": "قضاۃ 7:16 کے مطابق، اس نے ان سب کے ہاتھوں میں نرسنگے اور خالی مٹکے اور مٹکوں کے اندر جلتی مشعلیں دیں۔"
+      },
+      {
+        "id": "elem_d6_q2",
+        "question": "What made Samson lose his incredible, God-given strength?",
+        "urduQuestion": "شمسون کی وہ کون سی غلطی تھی جس کی وجہ سے اس کی الٰہی اور غیر معمولی طاقت ختم ہو گئی؟",
+        "options": ["Drinking wine", "Cutting his seven braids of hair", "Touching a dead animal", "Marrying a Philistine woman"],
+        "urduOptions": ["مے (شراب) پینا", "اپنے سر کی سات لٹوں (بالوں) کو کٹوانا", "کسی مردہ جانور کو چھونا", "فلستی عورت سے شادی کرنا"],
+        "answerIndex": 1,
+        "explanation": "Judges 16 records that because Samson was a Nazirite dedicated to God, cutting his hair broke his vow, and his strength left him.",
+        "urduExplanation": "قضاۃ 16 کے مطابق، شمسون خدا کا نذیر تھا؛ جیسے ہی دلیلہ نے اس کے سر کی سات لٹیں مینڈھیں، خدا کا روح اس سے رخصت ہو گیا اور طاقت چلی گئی۔"
+      },
+      {
+        "id": "elem_d6_q3",
+        "question": "Who was the Philistine woman who enticed Samson and betrayed him to her rulers for silver?",
+        "urduQuestion": "اس فلستی عورت کا نام کیا تھا جس نے شمسون کو ورغلایا اور چاندی کے عوض اسے اپنے سرداروں کے حوالے کر دیا؟",
+        "options": ["Ruth", "Delilah", "Orpah", "Jezebel"],
+        "urduOptions": ["روت", "دلیلہ (Delilah)", "عرفہ", "یزابل"],
+        "answerIndex": 1,
+        "explanation": "Judges 16 details Delilah repeatedly coaxing Samson to reveal the secret of his strength until he told her.",
+        "urduExplanation": "قضاۃ 16 کے مطابق، دلیلہ نے شمسون پر روزانہ دباؤ ڈالا یہاں تک کہ اس نے تنگ آ کر اپنے دل کا راز اس پر کھول دیا۔"
+      },
+      {
+        "id": "elem_d6_q4",
+        "question": "How did Samson die while being mocked in the Philistine temple of Dagon?",
+        "urduQuestion": "فلستیوں کے معبد (داجون کے مندر) میں تمسخر اڑائے جانے کے دوران شمسون کی موت کس طرح واقع ہوئی؟",
+        "options": ["He was executed by a sword", "He pulled down the two main pillars of the temple, crushing everyone", "He was poisoned in prison", "He died of old age"],
+        "urduOptions": ["تلوار کے ذریعے اس کا سر قلم کیا گیا", "اس نے ہیکل کے دو درمیانی ستونوں کو گرا دیا، جس سے سب ہلاک ہو گئے", "اسے قید خانے میں زہر دیا گیا تھا", "وہ بڑھاپے کی وجہ سے فوت ہوا"],
+        "answerIndex": 1,
+        "explanation": "In Judges 16:29-30, Samson prayed for strength one last time, pushed the pillars, and brought down the temple on the rulers and people.",
+        "urduExplanation": "قضاۃ 16:29-30 کے مطابق، شمسون نے آخری بار دعا کر کے دونوں ستونوں کو اپنی پوری طاقت سے دھکیلا اور وہ معبد سب لوگوں پر گر گیا۔"
+      },
+      {
+        "id": "elem_d6_q5",
+        "question": "What is the famous declaration of loyalty Ruth made to her mother-in-law Naomi?",
+        "urduQuestion": "روت نے اپنی ساس نعومی سے وفاداری کا جو مشہور اقرار کیا تھا، وہ کیا تھا؟",
+        "options": ["'I must return to Moab'", "'Where you go I will go, and where you stay I will stay. Your people will be my people and your God my God.'", "'I will find a new husband in Bethlehem'", "'Please pray for my future'"],
+        "urduOptions": ["'مجھے موآب واپس چلے جانا چاہیے'", "'جہاں تو جائے گی میں جاؤں گا اور جہاں تو رہے گی میں رہوں گا۔ تیرے لوگ میرے لوگ اور تیرا خدا میرا خدا ہوگا۔'", "'میں بیت اللحم میں نیا شوہر تلاش کروں گی'", "'براہِ کرم میرے مستقبل کے لیے دعا کریں'"],
+        "answerIndex": 1,
+        "explanation": "In Ruth 1:16, Ruth refuses to leave Naomi, declaring her absolute devotion to Naomi, her people, and her God.",
+        "urduExplanation": "روت 1:16 میں روت نے نعومی کو چھوڑنے سے انکار کرتے ہوئے کہا: 'جہاں تو جائے گی میں جاؤں گا... تیرے لوگ میرے لوگ اور تیرا خدا میرا خدا ہوگا۔'"
+      }
+    ]
+  },
+  {
+    "dayNumber": 7,
+    "questions": [
+      {
+        "id": "elem_d7_q1",
+        "question": "Whose field did Ruth glean in during the barley harvest in Bethlehem?",
+        "urduQuestion": "بیت اللحم میں جو کی کٹائی کے دوران روت نے کس کے کھیت میں سے صلہ جمع کیا (سٹے چنے) تھے؟",
+        "options": ["Elimelech's field", "Boaz's field", "Jesse's field", "Saul's field"],
+        "urduOptions": ["الیملک کے کھیت میں", "بوعز کے کھیت میں (Boaz's field)", "یسی کے کھیت میں", "ساؤل کے کھیت میں"],
+        "answerIndex": 1,
+        "explanation": "Ruth 2:3 states she went out, entered a field and began to glean behind the harvesters, finding herself in a field belonging to Boaz.",
+        "urduExplanation": "روت 2:3 کے مطابق، وہ بوعز کے کھیت میں پہنچی جو نعومی کے شوہر الیملک کے خاندان سے تھا اور بڑا ہی نیک اور سخی تھا۔"
+      },
+      {
+        "id": "elem_d7_q2",
+        "question": "Who was the mother of the prophet Samuel, who prayed desperately for a son in Shiloh?",
+        "urduQuestion": "سموئیل نبی کی والدہ کا نام کیا تھا، جنہوں نے سیلو (Shiloh) میں گریہ و زاری کے ساتھ بیٹے کے لیے دعا کی تھی؟",
+        "options": ["Peninnah", "Hannah", "Elizabeth", "Sarah"],
+        "urduOptions": ["فننہ", "حنا (Hannah)", "الیشبع", "سارہ"],
+        "answerIndex": 1,
+        "explanation": "1 Samuel 1 records Hannah praying in deep anguish for a child, promising to dedicate him to the Lord as a Nazirite.",
+        "urduExplanation": "1 سموئیل 1 کے مطابق، حنا نے رو رو کر دعا کی اور منت مانی کہ اگر خدا اسے بیٹا بخشے گا تو وہ اسے عمر بھر کے لیے نذیر بنائے گی۔"
+      },
+      {
+        "id": "elem_d7_q3",
+        "question": "What did the young boy Samuel say when he realized God was calling his name in the temple?",
+        "urduQuestion": "جب ننھے سموئیل کو ہیکل میں خدا کی آواز سنائی دی تو انہوں نے کیا جواب دیا؟",
+        "options": ["'Speak, Lord, for your servant is listening'", "'Here I am, Eli'", "'I am afraid, Lord'", "'Send someone else'"],
+        "urduOptions": ["'فرما، کیونکہ تیرا بندہ سنتا ہے' (Speak, for your servant is listening)", "'اے عالی، میں یہاں ہوں'", "'اے خداوند، میں ڈرتا ہوں'", "'کسی اور کو بھیج دیں'"],
+        "answerIndex": 0,
+        "explanation": "Following High Priest Eli's instruction, Samuel answered, 'Speak, for your servant is listening' (1 Samuel 3:10).",
+        "urduExplanation": "1 سموئیل 3:10 کے مطابق، کاہن عالی کی ہدایت پر سموئیل نے چوتھی بار پکارے جانے پر جواب دیا: 'فرما، کیونکہ تیرا بندہ سنتا ہے۔'"
+      },
+      {
+        "id": "elem_d7_q4",
+        "question": "Who was the first king anointed by Samuel to rule over Israel?",
+        "urduQuestion": "اسرائیل پر حکومت کرنے کے لیے سموئیل نے سب سے پہلے کس بادشاہ کا مسح کیا تھا؟",
+        "options": ["David", "Saul", "Solomon", "Jonathan"],
+        "urduOptions": ["داؤد", "ساؤل (Saul)", "سلیمان", "یونتن"],
+        "answerIndex": 1,
+        "explanation": "1 Samuel 10:1 records Samuel pouring oil on Saul's head, kissng him and declaring the Lord anointed him leader.",
+        "urduExplanation": "1 سموئیل 10:1 کے مطابق، سموئیل نے تیل کی کپی لے کر ساؤل کے سر پر تیل ڈالا اور اسے چوم کر اسرائیل کا پہلا بادشاہ مقرر کیا۔"
+      },
+      {
+        "id": "elem_d7_q5",
+        "question": "Why did David refuse to wear Saul's armor when going to fight Goliath?",
+        "urduQuestion": "جالوت سے لڑنے کے لیے جاتے وقت داؤد نے ساؤل کے جنگی ہتھیار اور بکتر پہننے سے کیوں انکار کر دیا تھا؟",
+        "options": ["They were too small for him", "He was not used to them/had not tested them", "It was against God's law", "Saul's armor was made of cheap bronze"],
+        "urduOptions": ["وہ اس کے لیے بہت چھوٹے تھے", "وہ ان کا عادی نہیں تھا / اس نے انہیں آزمایا نہیں تھا", "یہ خدا کی شریعت کے خلاف تھا", "ساؤل کا بکتر سستے کانسی کا تھا"],
+        "answerIndex": 1,
+        "explanation": "1 Samuel 17:38-39 records David trying on the armor but telling Saul, 'I cannot go in these, because I am not used to them.'",
+        "urduExplanation": "1 سموئیل 17:38-39 کے مطابق، داؤد نے ساؤل کی تلوار اپنی پوشاک پر باندھ کر چلنے کی کوشش کی پر چل نہ سکا کیونکہ وہ ان کا عادی نہ تھا۔"
+      }
+    ]
+  },
+  {
+    "dayNumber": 8,
+    "questions": [
+      {
+        "id": "elem_d8_q1",
+        "question": "Who was David's best friend, Saul's son, who loved him as his own soul?",
+        "urduQuestion": "ساؤل کا وہ بیٹا اور داؤد کا سب سے گہرا دوست کون تھا جو داؤد سے اپنی جان کی طرح محبت کرتا تھا؟",
+        "options": ["Absalom", "Jonathan", "Abner", "Ishbosheth"],
+        "urduOptions": ["ابشالوم", "یونتن (Jonathan)", "اب نیر", "اسبوست ک"],
+        "answerIndex": 1,
+        "explanation": "1 Samuel 18:1 states that the soul of Jonathan was knit to the soul of David, and Jonathan loved him as himself.",
+        "urduExplanation": "1 سموئیل 18:1 کے مطابق، یونتن کا دل داؤد کے دل کے ساتھ ایسا مل گیا کہ یونتن اس سے اپنی جان کی برابر محبت کرنے لگا۔"
+      },
+      {
+        "id": "elem_d8_q2",
+        "question": "How did David spare King Saul's life in the cave of En Gedi?",
+        "urduQuestion": "عین جدی (En Gedi) کے غار میں داؤد نے بادشاہ ساؤل کو مارنے کے بجائے کس طرح اس کی جان بخشی کی؟",
+        "options": ["By stealing his golden crown", "By cutting off a corner of Saul's robe while he slept", "By hiding Saul's spear", "By waking him up with a warning"],
+        "urduOptions": ["اس کا شاہی تاج چوری کر کے", "خاموشی سے ساؤل کے چغے کا پلو کاٹ کر", "ساؤل کا بھالا چھپا کر", "اسے خبردار کر کے بیدار کر کے"],
+        "answerIndex": 1,
+        "explanation": "1 Samuel 24 records David quietly cutting off a corner of Saul's robe instead of harming him, showing his respect for God's anointed.",
+        "urduExplanation": "1 سموئیل 24 کے مطابق، غار کے اندر داؤد نے ساؤل کے چغے کا پلو چپکے سے کاٹ لیا لیکن اس پر ہاتھ نہ اٹھایا کیونکہ وہ خدا کا مسح کیا ہوا تھا۔"
+      },
+      {
+        "id": "elem_d8_q3",
+        "question": "Which prophet confronted King David regarding his sin with Bathsheba?",
+        "urduQuestion": "کس نبی نے بادشاہ داؤد کو بت سبع کے ساتھ کیے گئے اس کے گناہ پر ٹوکا تھا؟",
+        "options": ["Samuel", "Elijah", "Nathan", "Elisha"],
+        "urduOptions": ["سموئیل", "ایلیاہ", "ناتن (Nathan)", "الیسع"],
+        "answerIndex": 2,
+        "explanation": "2 Samuel 12 details Nathan confronting David using a parable about a rich man stealing a poor man's single ewe lamb.",
+        "urduExplanation": "2 سموئیل 12 کے مطابق، ناتن نبی نے ایک غریب آدمی کی بھیڑ کی تمثیل کے ذریعے داؤد کو اس کے گناہ کا احساس دلایا۔"
+      },
+      {
+        "id": "elem_d8_q4",
+        "question": "Who was Solomon's mother?",
+        "urduQuestion": "سلیمان بادشاہ کی والدہ کا نام کیا تھا؟",
+        "options": ["Michal", "Abigail", "Bathsheba", "Maakah"],
+        "urduOptions": ["میکل", "ابیجیل", "بت سبع (Bathsheba)", "معکہ"],
+        "answerIndex": 2,
+        "explanation": "2 Samuel 12:24 states that David comforted his wife Bathsheba, and she gave birth to a son, whom he named Solomon.",
+        "urduExplanation": "2 سموئیل 12:24 کے مطابق، بت سبع سے داؤد کے بیٹا پیدا ہوا جس کا نام سلیمان رکھا گیا اور خدا نے اسے پیار کیا۔"
+      },
+      {
+        "id": "elem_d8_q5",
+        "question": "What did Solomon ask God for when God offered to give him anything he desired?",
+        "urduQuestion": "جب خدا نے سلیمان سے فرمایا کہ جو چاہے مانگے، تو سلیمان نے خدا سے کیا مانگا تھا؟",
+        "options": ["Long life", "Wealth and riches", "Victory over his enemies", "Wisdom and understanding to govern"],
+        "urduOptions": ["لمبی عمر", "امارت اور دولت", "دشمنوں پر فتح", "عوام پر حکومت کرنے کے لیے حکمت اور سمجھ (Wisdom)"],
+        "answerIndex": 3,
+        "explanation": "In 1 Kings 3:5-9, Solomon asked for an understanding heart to judge God's people and discern between good and evil.",
+        "urduExplanation": "1 سلاطین 3:5-9 کے مطابق، سلیمان نے خدا سے کہا کہ اپنے بندے کو سمجھنے والا دل بخش تاکہ وہ تیری قوم کا انصاف کر سکے۔"
+      }
+    ]
+  },
+  {
+    "dayNumber": 9,
+    "questions": [
+      {
+        "id": "elem_d9_q1",
+        "question": "How did Solomon solve the dispute between two mothers claiming the same baby?",
+        "urduQuestion": "سلیمان نے ایک ہی بچے پر دعویٰ کرنے والی دو ماؤں کے جھگڑے کو کس طرح حل کیا تھا؟",
+        "options": ["By casting lots", "By ordering the baby to be cut in half, revealing the true mother's compassion", "By giving the baby to the oldest mother", "By sending the baby to Egypt"],
+        "urduOptions": ["قرعہ ڈال کر", "بچے کو تلوار سے دو حصے کرنے کا حکم دے کر، جس سے سچی ماں کی ممتا ظاہر ہو گئی", "بچہ بڑی عمر کی عورت کو دے کر", "بچے کو مصر بھیج کر"],
+        "answerIndex": 1,
+        "explanation": "In 1 Kings 3:16-28, Solomon ordered the baby cut in half; the real mother begged to spare the baby, proving her maternity.",
+        "urduExplanation": "1 سلاطین 3:16-28 کے مطابق، سلیمان نے جیسے ہی تلوار لانے کا حکم دیا، سچی ماں تڑپ اٹھی اور کہنے لگی کہ بچہ دوسری کو دے دیں پر ماریں مت۔"
+      },
+      {
+        "id": "elem_d9_q2",
+        "question": "What grand building did King Solomon construct in Jerusalem, which his father David had desired to build?",
+        "urduQuestion": "بادشاہ سلیمان نے یروشلم میں کون سی عظیم الشان عمارت تعمیر کی تھی، جسے بنانے کی خواہش ان کے والد داؤد نے کی تھی؟",
+        "options": ["A royal palace", "The Temple of the Lord", "A fortress of Zion", "The City of David gate"],
+        "urduOptions": ["شاہی محل", "خداوند کا ہیکل (The Temple)", "صیہون کا قلعہ", "شہرِ داؤد کا پھاٹک"],
+        "answerIndex": 1,
+        "explanation": "Solomon built the First Temple in Jerusalem to house the Ark of the Covenant, using materials David gathered (1 Kings 6).",
+        "urduExplanation": "1 سلاطین 6 کے مطابق، سلیمان نے یروشلم میں خداوند کے نام کا ہیکل تعمیر کروایا جس میں عہد کا صندوق رکھا گیا۔"
+      },
+      {
+        "id": "elem_d9_q3",
+        "question": "Which queen traveled from a distant land to test Solomon's wisdom with hard questions?",
+        "urduQuestion": "وہ کون سی ملکہ تھیں جنہوں نے سلیمان کی حکمت کو مشکل سوالات سے آزمانے کے لیے دور دراز ملک سے سفر کیا تھا؟",
+        "options": ["Queen of Egypt", "Queen of Sheba", "Queen Jezebel", "Queen Esther"],
+        "urduOptions": ["مصر کی ملکہ", "سبا کی ملکہ (Queen of Sheba)", "ملکہ یزابل", "ملکہ ایستر"],
+        "answerIndex": 1,
+        "explanation": "1 Kings 10:1-2 states that the Queen of Sheba heard of Solomon's fame and came to Jerusalem with a very great caravan.",
+        "urduExplanation": "1 سلاطین 10:1-2 کے مطابق، جب سبا کی ملکہ نے سلیمان کی شہرت سنی تو وہ بہت سے تحائف کے ساتھ اس کی حکمت آزمانے آئی۔"
+      },
+      {
+        "id": "elem_d9_q4",
+        "question": "What miracle did Elijah perform for the poor widow of Zarephath during the drought?",
+        "urduQuestion": "خشک سالی کے دوران ایلیاہ نے صارپت کی غریب بیوہ کے لیے کون سا معجزہ دکھایا تھا؟",
+        "options": ["He turned her water into oil", "Her jar of flour and jug of oil did not run out", "He multiplied her silver coins", "He gave her fields of wheat"],
+        "urduOptions": ["اس کے پانی کو مسح کے تیل میں بدلا", "اس کے مٹکے کا آٹا اور کپی کا تیل کٹائی تک ختم نہیں ہوا", "اس کے چاندی کے سکوں میں برکت دی", "اسے گندم کے کھیت بخشے"],
+        "answerIndex": 1,
+        "explanation": "In 1 Kings 17:14-16, Elijah prophesied that her jar of flour and jug of oil would not be spent until rain fell, which was fulfilled.",
+        "urduExplanation": "1 سلاطین 17:14-16 کے مطابق، ایلیاہ نے فرمایا کہ جب تک خدا مینہ نہ برسائے مٹکے کا آٹا اور کپی کا تیل ختم نہ ہوگا، اور ایسا ہی ہوا۔"
+      },
+      {
+        "id": "elem_d9_q5",
+        "question": "How did God answer Elijah's prayer on Mount Carmel to prove He was the true God?",
+        "urduQuestion": "کوہِ کرمل پر ایلیاہ کی دعا کا خدا نے کیا جواب دیا جس سے ثابت ہوا کہ وہی سچا خدا ہے؟",
+        "options": ["By sending a massive rainstorm", "By sending fire from heaven to consume the wet sacrifice", "By spliting the mountain in half", "By an audible voice from the clouds"],
+        "urduOptions": ["ایک بڑا بارش کا طوفان بھیج کر", "آسمان سے آگ بھیج کر گیلی قربانی اور لکڑیوں کو بھسم کر کے", "پہاڑ کو دو حصوں میں تقسیم کر کے", "بادلوں میں سے اونچی آواز سنا کر"],
+        "answerIndex": 1,
+        "explanation": "In 1 Kings 18:38, the fire of the Lord fell and burned up the sacrifice, the wood, the stones, the soil, and licked up the water.",
+        "urduExplanation": "1 سلاطین 18:38 کے مطابق، خداوند کی آگ نازل ہوئی اور اس نے سوختنی قربانی، لکڑیوں، پتھروں اور پانی کو چاٹ لیا۔"
+      }
+    ]
+  },
+  {
+    "dayNumber": 10,
+    "questions": [
+      {
+        "id": "elem_d10_q1",
+        "question": "How was Elijah taken up to heaven at the end of his earthly ministry?",
+        "urduQuestion": "زمین پر اپنی خدمت کے اختتام پر ایلیاہ کس طرح آسمان پر اٹھا لیا گیا تھا؟",
+        "options": ["He died peacefully of old age", "He ascended on a cloud", "In a whirlwind with a chariot of fire", "He walked up Mount Sinai and disappeared"],
+        "urduOptions": ["وہ بڑھاپے میں پرسکون موت فوت ہوا", "وہ بادل پر سوار ہو کر گیا", "بگولے میں آگ کے رتھ اور گھوڑوں کے ساتھ (In a whirlwind)", "وہ کوہِ سینا پر گیا اور غائب ہو گیا"],
+        "answerIndex": 2,
+        "explanation": "2 Kings 2:11 records that as Elijah and Elisha walked, a chariot of fire and horses of fire appeared, and Elijah went up in a whirlwind.",
+        "urduExplanation": "دوسرا سلاطین 2:11 کے مطابق، جب وہ دونوں باتیں کرتے جا رہے تھے تو ناگہاں ایک ناری رتھ اور ناری گھوڑے نمودار ہوئے اور ایلیاہ بگولے میں آسمان پر چلا گیا۔"
+      },
+      {
+        "id": "elem_d10_q2",
+        "question": "Who succeeded Elijah and received a double portion of his prophetic spirit?",
+        "urduQuestion": "ایلیاہ کا جانشین کون بنا جسے اس کی روح کا دوگنا حصہ ملا؟",
+        "options": ["Elisha", "Samuel", "Isaiah", "Jonah"],
+        "urduOptions": ["الیسع (Elisha)", "سموئیل", "یسعیاہ", "یونس"],
+        "answerIndex": 0,
+        "explanation": "Elisha asked for a double portion of Elijah's spirit and succeeded him, picking up Elijah's fallen cloak (2 Kings 2:9-14).",
+        "urduExplanation": "دوسرا سلاطین 2:9-14 کے مطابق، الیسع نے ایلیاہ سے اس کی روح کا دوگنا حصہ مانگا اور اس کے بعد معجزات کی خدمت سنبھالی۔"
+      },
+      {
+        "id": "elem_d10_q3",
+        "question": "Which Syrian general was healed of leprosy after Elisha told him to wash seven times in the Jordan River?",
+        "urduQuestion": "ملکِ شام کے اس کوڑھی سپہ سالار کا نام کیا تھا جو الیسع کے کہنے پر دریائے یردن میں سات بار غسل کر کے شفا یاب ہوا؟",
+        "options": ["Ben-Hadad", "Hazael", "Naaman", "Eglon"],
+        "urduOptions": ["بن ہدد", "حزائیل", "نعمان (Naaman)", "عجلون"],
+        "answerIndex": 2,
+        "explanation": "2 Kings 5 details Naaman, commander of the Syrian army, being cleansed of his leprosy after obeying Elisha's instruction.",
+        "urduExplanation": "دوسرا سلاطین 5 کے مطابق، شامی فوج کا سپہ سالار نعمان کوڑھی تھا، جس نے یردن میں سات بار غوطہ مارا تو اس کا جسم پاک صاف ہو گیا۔"
+      },
+      {
+        "id": "elem_d10_q4",
+        "question": "How did Jesus heal a paralyzed man who was let down through the roof by his friends?",
+        "urduQuestion": "یسوع نے اس مفلوج شخص کو کس طرح شفا دی تھی جسے اس کے دوستوں نے چھت کھول کر نیچے اتارا تھا؟",
+        "options": ["By rebuking his friends' faith", "By forgiving his sins and telling him to get up and carry his mat", "By sending him to wash in the pool", "By praying for him overnight"],
+        "urduOptions": ["اس کے دوستوں کے ایمان کو جھڑک کر", "اس کے گناہ معاف کر کے اور اسے اٹھنے اور اپنا بستر اٹھا کر چلنے کا حکم دے کر", "اسے حوض میں نہانے کے لیے بھیج کر", "رات بھر اس کے لیے دعا کر کے"],
+        "answerIndex": 1,
+        "explanation": "In Luke 5:17-26, Jesus saw their faith, declared the man's sins forgiven, and healed him, demonstrating His authority.",
+        "urduExplanation": "لوقا 5:17-26 کے مطابق، یسوع نے ان کا ایمان دیکھ کر مفلوج سے کہا: 'اے میاں، تیرے گناہ معاف ہوئے... اٹھ، اپنا بستر اٹھا اور چل۔'"
+      },
+      {
+        "id": "elem_d10_q5",
+        "question": "What miracle did Jesus perform on the Sabbath that angered the Pharisees in the synagogue?",
+        "urduQuestion": "یسوع نے سبت کے دن کون سا معجزہ دکھایا تھا جس سے عبادت خانے میں موجود فریسی ناراض ہوئے؟",
+        "options": ["He turned water into wine", "He healed a man with a withered hand", "He multiplied loaves of bread", "He raised Lazarus"],
+        "urduOptions": ["انہوں نے پانی کو مے میں بدلا", "انہوں نے ایک سوکھے ہاتھ والے شخص کو شفا دی (Withered hand)", "انہوں نے روٹیوں میں برکت دی", "انہوں نے لازر کو زندہ کیا"],
+        "answerIndex": 1,
+        "explanation": "In Luke 6:6-11, Jesus healed a man's withered hand on the Sabbath, challenging the Pharisees' legalistic rules.",
+        "urduExplanation": "لوقا 6:6-11 کے مطابق، سبت کے دن یسوع نے عبادت خانے میں ایک سوکھے ہاتھ والے سے ہاتھ پھیلانے کو کہا اور اس کا ہاتھ شفا پا گیا۔"
+      }
+    ]
+  },
+  {
+    "dayNumber": 11,
+    "questions": [
+      {
+        "id": "elem_d11_q1",
+        "question": "Whose daughter did Jesus raise from the dead, telling the father, 'Don't be afraid; just believe'?",
+        "urduQuestion": "یسوع نے کس کی بیٹی کو موت سے دوبارہ زندگی بخشی اور اس کے باپ سے فرمایا: 'خوف نہ کھا، صرف ایمان رکھ'؟",
+        "options": ["Jairus' daughter", "The Centurion's daughter", "The widow of Nain's daughter", "Herodias' daughter"],
+        "urduOptions": ["یائر کی بیٹی (Jairus' daughter)", "صوبہ دار کی بیٹی", "نائن کی بیوہ کی بیٹی", "ہیرودیاس کی بیٹی"],
+        "answerIndex": 0,
+        "explanation": "In Luke 8:41-56, Jairus, a synagogue leader, pleaded with Jesus to heal his dying daughter. Though she died, Jesus raised her.",
+        "urduExplanation": "لوقا 8:41-56 کے مطابق، عبادت خانے کے سردار یائر کی بیٹی دم توڑ چکی تھی، یسوع نے اس کے گھر جا کر لڑکی کا ہاتھ پکڑا اور اسے جلایا۔"
+      },
+      {
+        "id": "elem_d11_q2",
+        "question": "Who was the woman who had seven demons cast out of her and became a devoted follower of Jesus?",
+        "urduQuestion": "اس خاتون کا نام کیا تھا جن میں سے سات بدروحیں نکالی گئی تھیں اور وہ یسوع کی ایک وفادار پیروکار بنی تھیں؟",
+        "options": ["Martha", "Mary Magdalene", "Salome", "Mary of Bethany"],
+        "urduOptions": ["مرتھا", "مریم مگدلینی (Mary Magdalene)", "سلومی", "بیت عنیاہ کی مریم"],
+        "answerIndex": 1,
+        "explanation": "Luke 8:2 mentions Mary, called Magdalene, from whom seven demons had come out, following Jesus.",
+        "urduExplanation": "لوقا 8:2 کے مطابق، مریم جو مگدلینی کہلاتی تھی اور جس میں سے سات بدروحیں نکلی تھیں، یسوع کی خدمت کرتی تھی۔"
+      },
+      {
+        "id": "elem_d11_q3",
+        "question": "How did Jesus miraculously feed a crowd of 4,000 people on a separate occasion from the 5,000?",
+        "urduQuestion": "پانچ ہزار کے علاوہ، ایک اور موقع پر یسوع نے چار ہزار لوگوں کے ہجوم کو کس معجزے سے کھانا کھلایا تھا؟",
+        "options": ["With 5 loaves and 2 fish", "With 7 loaves and a few small fish", "By sending manna", "With fresh grapes and honey"],
+        "urduOptions": ["5 روٹیوں اور 2 مچھلیوں سے", "7 روٹیوں اور چند چھوٹی مچھلیوں سے (7 loaves & fish)", "آسمان سے من اتار کر", "تازہ انگوروں اور شہد سے"],
+        "answerIndex": 1,
+        "explanation": "In Matthew 15:32-39, Jesus fed 4,000 men (besides women and children) using seven loaves and a few small fish.",
+        "urduExplanation": "متی 15:32-39 کے مطابق، یسوع نے اپنے شاگردوں سے سات روٹیاں اور چند مچھلیاں لیں اور چار ہزار لوگوں کو کھانا کھلایا اور سات ٹوکرے بھر کر اٹھائے۔"
+      },
+      {
+        "id": "elem_d11_q4",
+        "question": "Which of the four soils in the Parable of the Sower represents a person who hears the word, understands it, and produces fruit?",
+        "urduQuestion": "بونے والے کی تمثیل میں، چار قسم کی زمینوں میں سے کون سی زمین اس شخص کی نمائندگی کرتی ہے جو کلام سنتا ہے، سمجھتا ہے اور پھل لاتا ہے؟",
+        "options": ["The path", "The rocky ground", "The thorny ground", "The good soil"],
+        "urduOptions": ["راہ کا کنارہ", "پتھریلی زمین", "جھاڑیوں والی زمین", "اچھی زمین (The good soil)"],
+        "answerIndex": 3,
+        "explanation": "In Matthew 13:23, Jesus explains that the seed sown on good soil refers to those who hear, understand, and yield a great harvest.",
+        "urduExplanation": "متی 13:23 میں یسوع فرماتے ہیں کہ اچھی زمین میں بونے کا مطلب یہ ہے کہ کلام سنتا اور سمجھتا ہے اور پھل لاتا ہے۔"
+      },
+      {
+        "id": "elem_d11_q5",
+        "question": "In the Parable of the Wheat and the Weeds, what does the enemy represent who sowed the weeds?",
+        "urduQuestion": "گیہوں اور کڑوے دانوں (جنگلی گھاس) کی تمثیل میں، جنگلی گھاس بونے والا دشمن کس کی نمائندگی کرتا ہے؟",
+        "options": ["A Roman soldier", "The devil", "A false prophet", "The world"],
+        "urduOptions": ["رومی سپاہی", "ابلیس (The devil)", "جھوٹا نبی", "دنیا"],
+        "answerIndex": 1,
+        "explanation": "In Matthew 13:39, Jesus explains that the enemy who sowed the weeds is the devil.",
+        "urduExplanation": "متی 13:39 کے مطابق، یسوع فرماتے ہیں کہ جس دشمن نے کڑوے دانے بوئے وہ ابلیس ہے۔"
+      }
+    ]
+  },
+  {
+    "dayNumber": 12,
+    "questions": [
+      {
+        "id": "elem_d12_q1",
+        "question": "In the Parable of the Good Samaritan, why did the Samaritan help the wounded Jewish man?",
+        "urduQuestion": "رحم دل سامری کی تمثیل میں، سامری نے زخمی یہودی کی مدد کیوں کی جب کہ یہودی اور سامری دشمن تھے؟",
+        "options": ["The man was his relative", "He was filled with compassion", "He wanted a reward", "The soldiers forced him"],
+        "urduOptions": ["وہ زخمی شخص اس کا رشتہ دار تھا", "اس نے اس پر ترس کھایا (Filled with compassion)", "وہ انعام چاہتا تھا", "سپاہیوں نے اسے مجبور کیا تھا"],
+        "answerIndex": 1,
+        "explanation": "Luke 10:33 records that when the Samaritan saw the wounded man, he took pity on him (was filled with compassion).",
+        "urduExplanation": "لوقا 10:33 کے مطابق، جب سامری مسافر وہاں سے گزرا تو اسے دیکھ کر اس نے ترس کھایا اور زخموں پر تیل ملا۔"
+      },
+      {
+        "id": "elem_d12_q2",
+        "question": "What is the main lesson of the Parable of the Lost Sheep?",
+        "urduQuestion": "کھوئی ہوئی بھیڑ کی تمثیل کا بنیادی سبق کیا ہے؟",
+        "options": ["Shepherds should be careful in the wild", "There is great joy in heaven over one sinner who repents", "Wolves are dangerous animals", "Sheep should not wander alone"],
+        "urduOptions": ["چرواہوں کو جنگل میں محتاط رہنا چاہیے", "توبہ کرنے والے ایک گنہگار کے سبب آسمان پر بڑی خوشی ہوتی ہے", "بھیڑیے خطرناک جانور ہیں", "بھیڑوں کو اکیلے نہیں گھومنا چاہیے"],
+        "answerIndex": 1,
+        "explanation": "In Luke 15:7, Jesus teaches that there is more rejoicing in heaven over one sinner who repents than over ninety-nine righteous persons.",
+        "urduExplanation": "لوقا 15:7 میں یسوع فرماتے ہیں کہ اسی طرح ایک توبہ کرنے والے گنہگار کے باعث آسمان پر اتنی خوشی ہوگی جو نینانوے راستبازوں کے باعث نہیں ہوتی۔"
+      },
+      {
+        "id": "elem_d12_q3",
+        "question": "What did the father give to the Prodigal Son when he returned home, before throwing a grand feast?",
+        "urduQuestion": "فضول خرچ بیٹے کے توبہ کر کے واپس آنے پر، جشن منانے سے پہلے باپ نے اسے کون سی تین چیزیں دی تھیں؟",
+        "options": ["A bag of gold and a sword", "The best robe, a ring, and sandals on his feet", "A whip and a warning", "A new field to cultivate"],
+        "urduOptions": ["سونے کا تھیلا اور تلوار", "سب سے اچھا چغہ، ہاتھ میں انگوٹھی اور پاؤں میں جوتی", "ایک کوڑا اور تنبیہ", "کاشت کے لیے ایک نیا کھیت"],
+        "answerIndex": 1,
+        "explanation": "Luke 15:22 records the father telling his servants: 'Quick! Bring the best robe and put it on him. Put a ring on his finger and sandals on his feet.'",
+        "urduExplanation": "لوقا 15:22 کے مطابق، باپ نے نوکروں سے کہا: 'جلدی کرو، سب سے اچھا چغہ نکال کر اسے پہناؤ اور ہاتھ میں انگوٹھی اور پاؤں میں جوتی۔'"
+      },
+      {
+        "id": "elem_d12_q4",
+        "question": "According to Jesus in the Beatitudes, who will inherit the earth?",
+        "urduQuestion": "پہاڑی وعظ کی مبارکبادیوں میں یسوع کے مطابق، زمین کے وارث کون ہوں گے؟",
+        "options": ["The strong", "The rich", "The meek", "The pure in heart"],
+        "urduOptions": ["طاقتور", "امیر", "حلیم (The meek)", "پاک دل لوگ"],
+        "answerIndex": 2,
+        "explanation": "Matthew 5:5 states: 'Blessed are the meek, for they will inherit the earth.'",
+        "urduExplanation": "متی 5:5 فرماتا ہے: 'مبارک ہیں وہ جو حلیم ہیں، کیونکہ وہ زمین کے وارث ہوں گے۔'"
+      },
+      {
+        "id": "elem_d12_q5",
+        "question": "What are the two greatest commandments emphasized by Jesus?",
+        "urduQuestion": "یسوع کے نزدیک توریت اور انبیاء کی شریعت کے دو سب سے بڑے احکام کون سے ہیں؟",
+        "options": ["To fast regularly and offer sacrifices", "To love God with all your heart and love your neighbor as yourself", "To build temples and read scriptures", "To obey Roman rulers and respect elders"],
+        "urduOptions": ["باقاعدگی سے روزہ رکھنا اور قربانی پیش کرنا", "خداوند اپنے خدا سے اپنے سارے دل سے محبت رکھنا اور اپنے پڑوسی سے اپنے برابر محبت رکھنا", "ہیکلیں بنانا اور صحیفے پڑھنا", "رومی حاکموں کی اطاعت اور بزرگوں کا احترام"],
+        "answerIndex": 1,
+        "explanation": "In Matthew 22:37-39, Jesus declares that loving God with all your heart, soul, and mind is the first, and loving your neighbor is the second.",
+        "urduExplanation": "متی 22:37-39 کے مطابق، یسوع نے فرمایا کہ خدا سے اپنے سارے دل اور جان سے محبت رکھ پہلا ہے، اور پڑوسی سے اپنے برابر محبت رکھ دوسرا ہے۔"
+      }
+    ]
+  },
+  {
+    "dayNumber": 13,
+    "questions": [
+      {
+        "id": "elem_d13_q1",
+        "question": "What did the crowds wave and lay on the road during Jesus' Triumphal Entry into Jerusalem?",
+        "urduQuestion": "یروشلم میں یسوع کے فاتحانہ داخلے کے دوران بھیڑ نے سڑک پر کیا بچھایا اور ہاتھ میں ہلا کر ان کا استقبال کیا؟",
+        "options": ["Olive oil and wheat", "Palm branches and cloaks", "Golden banners and flowers", "Spices and incense"],
+        "urduOptions": ["زیتون کا تیل اور گندم", "کھجور کی ڈالیاں اور اپنے کپڑے (Palm branches)", "سنہرے جھنڈے اور پھول", "خوشبوئیں اور بخور"],
+        "answerIndex": 1,
+        "explanation": "Matthew 21:8 and John 12:13 record the crowd cutting branches from palm trees and spreading them and their cloaks on the road.",
+        "urduExplanation": "متی 21:8 کے مطابق، بہت سے لوگوں نے اپنے کپڑے اور درختوں کی ڈالیاں کاٹ کر راہ میں بچھائیں اور مبارک باد کے نعرے مارے۔"
+      },
+      {
+        "id": "elem_d13_q2",
+        "question": "Which of the twelve apostles agreed to betray Jesus to the chief priests for thirty pieces of silver?",
+        "urduQuestion": "بارہ رسولوں میں سے کس نے یسوع کو سردار کاہنوں کے حوالے کرنے کا چاندی کے تیس سکوں کا سودا کیا تھا؟",
+        "options": ["Simon Peter", "Thomas", "Judas Iscariot", "Philip"],
+        "urduOptions": ["شمعون پطرس", "توما", "یہوداہ اسکریوتی (Judas)", "فلپس"],
+        "answerIndex": 2,
+        "explanation": "Matthew 26:14-15 records Judas Iscariot going to the chief priests to negotiate the betrayal of Jesus.",
+        "urduExplanation": "متی 26:14-15 کے مطابق، یہوداہ اسکریوتی نے سردار کاہنوں کے پاس جا کر کہا کہ اگر میں اسے تمہارے حوالے کر دوں تو مجھے کیا دو گے؟"
+      },
+      {
+        "id": "elem_d13_q3",
+        "question": "What did Jesus do to His disciples before the Last Supper to teach them humility and service?",
+        "urduQuestion": "شاگردوں کو فروتنی اور خدمت کا درس دینے کے لیے، آخری فصح کے کھانے سے پہلے یسوع نے کیا کیا تھا؟",
+        "options": ["He anointed their heads with oil", "He washed their feet", "He gave them golden rings", "He prayed for their families"],
+        "urduOptions": ["ان کے سروں پر تیل لگایا", "ان کے پاؤں دھوئے (Washed their feet)", "انہیں سونے کی انگوٹھیاں دیں", "ان کے خاندانوں کے لیے دعا کی"],
+        "answerIndex": 1,
+        "explanation": "In John 13:1-17, Jesus poured water into a basin and began to wash His disciples' feet, leaving them an example.",
+        "urduExplanation": "یوحنا 13:1-17 کے مطابق، یسوع نے باسن میں پانی بھرا اور شاگردوں کے پاؤں دھونے اور اس رومال سے پونچھنے لگے جو ان کے کمر سے بندھا تھا۔"
+      },
+      {
+        "id": "elem_d13_q4",
+        "question": "During the Last Supper, what did Jesus say the cup of wine represented?",
+        "urduQuestion": "آخری فصح کے کھانے کے دوران، یسوع نے مے (شراب) کے پیالے کو کس چیز کا نشان بتایا تھا؟",
+        "options": ["His teachings", "His blood of the new covenant, poured out for many for forgiveness", "The water of Jordan", "The vine of Israel"],
+        "urduOptions": ["اپنی تعلیمات کا", "عہدِ جدید کے میرے اس خون کا جو بہتوں کے گناہوں کی معافی کے لیے بہایا جاتا ہے", "دریائے یردن کے پانی کا", "اسرائیل کے انگور کا"],
+        "answerIndex": 1,
+        "explanation": "In Matthew 26:27-28, Jesus gave thanks and passed the cup, saying: 'This is my blood of the covenant, which is poured out for many for the forgiveness of sins.'",
+        "urduExplanation": "متی 26:27-28 کے مطابق، یسوع نے پیالہ لے کر شکر کیا اور انہیں دے کر کہا: 'یہ میرا وہ خون ہے جو نئے عہد کا ہے اور بہتوں کے لیے بہایا جاتا ہے۔'"
+      },
+      {
+        "id": "elem_d13_q5",
+        "question": "What did Jesus predict Simon Peter would do three times before the rooster crowed?",
+        "urduQuestion": "یسوع نے شمعون پطرس کے بارے میں کیا پیشین گوئی کی تھی کہ وہ مرغ کے بانگ دینے سے پہلے تین بار کیا کرے گا؟",
+        "options": ["Leave the city", "Fall asleep while praying", "Deny knowing Jesus", "Betray Him for silver"],
+        "urduOptions": ["شہر چھوڑ کر چلا جائے گا", "دعا کے دوران سو جائے گا", "یسوع کو پہچاننے سے انکار کرے گا (Deny Jesus)", "چاندی کے عوض سودا کرے گا"],
+        "answerIndex": 2,
+        "explanation": "In Matthew 26:34, Jesus told Peter: 'This very night, before the rooster crows, you will disown me three times.'",
+        "urduExplanation": "متی 26:34 کے مطابق، یسوع نے پطرس سے فرمایا: 'میں تجھ سے سچ کہتا ہوں کہ آج ہی رات مرغ کے بانگ دینے سے پہلے تو تین بار میرا انکار کرے گا۔'"
+      }
+    ]
+  },
+  {
+    "dayNumber": 14,
+    "questions": [
+      {
+        "id": "elem_d14_q1",
+        "question": "In what garden did Jesus pray in deep agony before His arrest, saying, 'Not my will, but Yours be done'?",
+        "urduQuestion": "گرفتاری سے پہلے یسوع نے کس باغ میں انتہائی اضطراب میں دعا کی تھی کہ 'میری مرضی نہیں بلکہ تیری مرضی پوری ہو'؟",
+        "options": ["Garden of Eden", "Garden of Gethsemane", "Garden of Bethany", "Garden of Samaria"],
+        "urduOptions": ["عدن کا باغ", "گتسمنی کا باغ (Garden of Gethsemane)", "بیت عنیاہ کا باغ", "سامریہ کا باغ"],
+        "answerIndex": 1,
+        "explanation": "Luke 22:39-44 records Jesus praying on the Mount of Olives in Gethsemane, sweating like drops of blood.",
+        "urduExplanation": "لوقا 22:39-44 کے مطابق، یسوع کوہِ زیتون پر گتسمنی کے باغ میں گئے اور گھٹنوں کے بل گر کر نہایت سوز و گداز سے دعا کی۔"
+      },
+      {
+        "id": "elem_d14_q2",
+        "question": "What sign did Judas use to betray Jesus to the arresting soldiers in Gethsemane?",
+        "urduQuestion": "یہوداہ نے گتسمنی میں گرفتار کرنے والے سپاہیوں کے سامنے یسوع کو پکڑوانے کے لیے کون سا اشارہ استعمال کیا تھا؟",
+        "options": ["Pointing with a spear", "A warm handshake", "A kiss", "Calling Him 'Lord' loudly"],
+        "urduOptions": ["بھالے سے اشارہ کرنا", "ہاتھ ملانا", "ایک بوسہ (A kiss)", "بلند آواز سے 'خداوند' پکارنا"],
+        "answerIndex": 2,
+        "explanation": "Matthew 26:48-49 records that Judas approached Jesus and said, 'Greetings, Rabbi!' and kissed Him as the prearranged signal.",
+        "urduExplanation": "متی 26:48-49 کے مطابق، دغا باز یہوداہ نے سپاہیوں کو نشان دیا تھا کہ 'جس کا میں بوسہ لوں وہی ہے؛ اسے پکڑ لینا۔'"
+      },
+      {
+        "id": "elem_d14_q3",
+        "question": "How did Jesus heal Malchus, the servant of the high priest, whose ear Peter cut off during the arrest?",
+        "urduQuestion": "گرفتاری کے وقت پطرس نے سردار کاہن کے نوکر ملخس کا جو کان تلوار سے کاٹ دیا تھا، یسوع نے اسے کس طرح شفا دی؟",
+        "options": ["By praying for him", "By touching his ear and healing it", "By telling him to wash in the river", "By sending an angel to restore it"],
+        "urduOptions": ["اس کے لیے دعا کر کے", "اس کے کان کو چھو کر اسے بحال کر دیا (Healed it)", "اسے دریا میں دھونے کا حکم دے کر", "کان بحال کرنے کے لیے فرشتہ بھیج کر"],
+        "answerIndex": 1,
+        "explanation": "Luke 22:50-51 records Peter cutting off the ear, and Jesus replying, 'No more of this!' and touching his ear and healing him.",
+        "urduExplanation": "لوقا 22:50-51 کے مطابق، جب پطرس نے ملخس کا دایاں کان کاٹ دیا تو یسوع نے فرمایا: 'بس کرو!' اور اس کے کان کو چھو کر اسے شفا دی۔"
+      },
+      {
+        "id": "elem_d14_q4",
+        "question": "Who was the Roman governor who trial-examined Jesus and washed his hands of His blood?",
+        "urduQuestion": "اس رومی حاکم کا نام کیا تھا جس نے یسوع کا مقدمہ سنا اور ان کے خون سے بری ہونے کے لیے اپنے ہاتھ دھوئے؟",
+        "options": ["King Herod", "Pontius Pilate", "Caesar Augustus", "Felix"],
+        "urduOptions": ["بادشاہ ہیرودیس", "پنطیوس پیلاطوس (Pontius Pilate)", "قیصر اوگوستس", "فلکس"],
+        "answerIndex": 1,
+        "explanation": "Matthew 27:24 records Pilate taking water, washing his hands before the crowd, and saying, 'I am innocent of this man's blood.'",
+        "urduExplanation": "متی 27:24 کے مطابق، پیلاطوس نے ہجوم کے سامنے پانی لے کر ہاتھ دھوئے اور کہا کہ میں اس راستباز کے خون سے بری ہوں، تم جانو۔"
+      },
+      {
+        "id": "elem_d14_q5",
+        "question": "What did the Roman soldiers weave and place on Jesus' head to mock His claim to be King?",
+        "urduQuestion": "یسوع کے 'یہودیوں کا بادشاہ' ہونے کے دعوے کا مذاق اڑانے کے لیے رومی سپاہیوں نے کیا بنا کر ان کے سر پر رکھا تھا؟",
+        "options": ["A crown of gold", "A crown of thorns", "A silver laurel wreath", "A wool headwrap"],
+        "urduOptions": ["ایک سونے کا تاج", "کانٹوں کا تاج (Crown of thorns)", "چاندی کا سہرا", "اون کا عمامہ"],
+        "answerIndex": 1,
+        "explanation": "Matthew 27:29 states they twisted together a crown of thorns and set it on His head, mocking Him.",
+        "urduExplanation": "متی 27:29 کے مطابق، سپاہیوں نے کانٹوں کا ایک تاج بنا کر ان کے سر پر رکھا اور ان کے آگے گھٹنے ٹیک کر ان کا مذاق اڑایا۔"
+      }
+    ]
+  },
+  {
+    "dayNumber": 15,
+    "questions": [
+      {
+        "id": "elem_d15_q1",
+        "question": "Who was the man from Cyrene forced by the soldiers to carry Jesus' heavy wooden cross?",
+        "urduQuestion": "کرینی کے اس شخص کا نام کیا تھا جسے رومی سپاہیوں نے مجبور کیا تھا کہ وہ یسوع کی بھاری لکڑی کی صلیب اٹھائے؟",
+        "options": ["Simon Peter", "Simon of Cyrene", "Joseph of Arimathea", "Nicodemus"],
+        "urduOptions": ["شمعون پطرس", "شمعون کرینی (Simon of Cyrene)", "یوسف ارمتی", "نیکودیمس"],
+        "answerIndex": 1,
+        "explanation": "Luke 23:26 states they seized Simon, a Cyrenian, who was on his way in from the country, and put the cross on him.",
+        "urduExplanation": "لوقا 23:26 کے مطابق، جب وہ یسوع کو مصلوب کرنے لے جا رہے تھے تو انہوں نے شمعون کرینی کو بیگار میں پکڑا اور صلیب اس پر رکھ دی۔"
+      },
+      {
+        "id": "elem_d15_q2",
+        "question": "What is the meaning of the name 'Golgotha', where Jesus was crucified?",
+        "urduQuestion": "اس جگہ کا نام 'گلگتا' (Golgotha) کا کیا عبرانی مطلب ہے جہاں یسوع کو صلیب دی گئی تھی؟",
+        "options": ["Place of the Cross", "Place of the Skull", "Valley of Salvation", "Hill of Olive trees"],
+        "urduOptions": ["صلیب کی جگہ", "کھوپڑی کی جگہ (Place of the Skull)", "نجات کی وادی", "زیتون کے درختوں کی پہاڑی"],
+        "answerIndex": 1,
+        "explanation": "Matthew 27:33 and John 19:17 state Golgotha translates to 'the Place of the Skull'.",
+        "urduExplanation": "متی 27:33 کے مطابق، وہ اس جگہ پہنچے جسے گلگتا کہتے ہیں، جس کا مطلب 'کھوپڑی کی جگہ' ہے۔"
+      },
+      {
+        "id": "elem_d15_q3",
+        "question": "What did the sign say that Pilate fastened above Jesus' head on the cross?",
+        "urduQuestion": "پیلاطوس نے صلیب پر یسوع کے سر کے اوپر جو جرم نامہ (تختی) لگوایا تھا اس پر کیا تحریر تھا؟",
+        "options": ["'This is a deceiver'", "'Jesus of Nazareth, the King of the Jews'", "'Blasphemer of God'", "'The Prophet from Galilee'"],
+        "urduOptions": ["'یہ ایک فریب کار ہے'", "'یسوع ناصری یہودیوں کا بادشاہ' (King of the Jews)", "'خدا کی شان میں گستاخی کرنے والا'", "'گلیل کا نبی'"],
+        "answerIndex": 1,
+        "explanation": "John 19:19 records Pilate wrote a notice in Aramaic, Latin, and Greek: 'Jesus of Nazareth, the King of the Jews.'",
+        "urduExplanation": "یوحنا 19:19 کے مطابق، پیلاطوس نے عبرانی، لاطینی اور یونانی زبان میں یہ تختی لکھوائی: 'یسوع ناصری یہودیوں کا بادشاہ۔'"
+      },
+      {
+        "id": "elem_d15_q4",
+        "question": "Who was the wealthy Jewish leader and disciple who requested Jesus' body from Pilate and buried Him in his own new tomb?",
+        "urduQuestion": "کونسل کا وہ کون سا امیر رکن اور یسوع کا شاگرد تھا جس نے پیلاطوس سے ان کی لاش مانگی اور اپنے نئے مقبرے میں دفن کیا؟",
+        "options": ["Nicodemus", "Joseph of Arimathea", "Barnabas", "Lazarus"],
+        "urduOptions": ["نیکودیمس", "یوسف ارمتی (Joseph of Arimathea)", "برنباس", "لازر"],
+        "answerIndex": 1,
+        "explanation": "Matthew 27:57-60 confirms Joseph of Arimathea wrapped Jesus' body in a clean linen shroud and laid it in his own new tomb.",
+        "urduExplanation": "متی 27:57-60 کے مطابق، شام کو ارمتیہ کا یوسف نامی ایک امیر آیا، اس نے لاش مانگی، صاف سوتی کپڑے میں لپیٹا اور اپنی چٹان میں کھدی ہوئی نئی قبر میں رکھا۔"
+      },
+      {
+        "id": "elem_d15_q5",
+        "question": "Who was the first person to discover the empty tomb on Sunday morning and see the risen Jesus?",
+        "urduQuestion": "اتوار کی صبح قبر کے خالی ہونے کا سب سے پہلے کس نے پتہ لگایا اور جی اٹھے ہوئے یسوع کو دیکھ کر ان کے قدم چھوئے؟",
+        "options": ["Simon Peter", "John", "Mary Magdalene", "Mother Mary"],
+        "urduOptions": ["شمعون پطرس", "یوحنا", "مریم مگدلینی (Mary Magdalene)", "ماں مریم"],
+        "answerIndex": 2,
+        "explanation": "John 20:1-18 records Mary Magdalene finding the stone rolled away and being the first to speak with the risen Lord.",
+        "urduExplanation": "یوحنا 20:1-18 کے مطابق، ہفتے کے پہلے دن مریم مگدلینی صبح سویرے آئی، قبر خالی پائی اور جی اٹھے ہوئے خداوند کو دیکھ کر 'ربونی' پکارا۔"
+      }
+    ]
+  },
+  {
+    "dayNumber": 16,
+    "questions": [
+      {
+        "id": "elem_d16_q1",
+        "question": "Which apostle doubted Jesus' resurrection until he saw the nail marks in His hands and put his hand into His side?",
+        "urduQuestion": "کس رسول نے یسوع کے جی اٹھنے پر تب تک یقین کرنے سے انکار کیا جب تک کہ خود ان کے زخموں کو چھو نہ لیا؟",
+        "options": ["Simon Peter", "Thomas", "Philip", "John"],
+        "urduOptions": ["شمعون پطرس", "توما (Thomas)", "فلپس", "یوحنا"],
+        "answerIndex": 1,
+        "explanation": "John 20:24-29 records Thomas, also called Didymus, declaring he would not believe without touching the wounds, which Jesus later allowed him to do.",
+        "urduExplanation": "یوحنا 20:24-29 کے مطابق، توما نے کہا کہ جب تک میں میخوں کے نشان دیکھ نہ لوں اور اپنی انگلی میخوں کی جگہ میں نہ ڈال دوں، ہرگز یقین نہ کروں گا۔"
+      },
+      {
+        "id": "elem_d16_q2",
+        "question": "From which location did Jesus ascend to heaven in the sight of His disciples?",
+        "urduQuestion": "اپنے شاگردوں کے سامنے یسوع زمین پر اپنی خدمت کے اختتام پر کس جگہ سے آسمان پر اٹھائے گئے؟",
+        "options": ["The temple roof", "The Mount of Olives near Bethany", "Mount Sinai", "The shores of Galilee"],
+        "urduOptions": ["ہیکل کی چھت سے", "بیت عنیاہ کے قریب زیتون کے پہاڑ سے (Mount of Olives)", "کوہِ سینا سے", "گلیل کے ساحل سے"],
+        "answerIndex": 1,
+        "explanation": "Acts 1:9-12 confirms Jesus ascended into heaven from the Mount of Olives, located near Bethany.",
+        "urduExplanation": "اعمال 1:9-12 کے مطابق، یسوع بادل پر سوار ہو کر فرشتوں کی موجودگی میں زیتون کے پہاڑ سے آسمان پر اٹھائے گئے۔"
+      },
+      {
+        "id": "elem_d16_q3",
+        "question": "What did Jesus command His disciples to do, known as the Great Commission?",
+        "urduQuestion": "آسمان پر تشریف لے جانے سے پہلے یسوع نے اپنے شاگردوں کو کون سا عظیم ترین حکم دیا تھا؟",
+        "options": ["Build a physical temple in Jerusalem", "Go and make disciples of all nations, baptizing them", "Fast until He returns", "Retreat to the wilderness"],
+        "urduOptions": ["یروشلم میں ایک مادی ہیکل تعمیر کرو", "جاؤ اور تمام قوموں کو شاگرد بناؤ اور بپتسمہ دو (Great Commission)", "میری واپسی تک روزہ رکھو", "بیابان میں جا کر پناہ لو"],
+        "answerIndex": 1,
+        "explanation": "In Matthew 28:19, Jesus commands: 'Go and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit.'",
+        "urduExplanation": "متی 28:19 میں، یسوع فرماتے ہیں: 'پس تم جا کر سب قوموں کو شاگرد بناؤ اور ان کو باپ اور بیٹے اور روح القدس کے نام سے بپتسمہ دو۔'"
+      },
+      {
+        "id": "elem_d16_q4",
+        "question": "Who was chosen by lot to replace Judas Iscariot as the twelfth apostle?",
+        "urduQuestion": "یہوداہ اسکریوتی کی وفات کے بعد، رسولوں نے قرعہ ڈال کر کسے بارہواں رسول چنا تھا؟",
+        "options": ["Barnabas", "Matthias", "Paul", "Stephen"],
+        "urduOptions": ["برنباس", "متیاہ (Matthias)", "پولس", "ستفنیس"],
+        "answerIndex": 1,
+        "explanation": "Acts 1:23-26 records that they nominated two men, prayed, cast lots, and the lot fell on Matthias.",
+        "urduExplanation": "اعمال 1:23-26 کے مطابق، انہوں نے دو شخص پیش کیے، دعا مانگی اور قرعہ ڈالا اور قرعہ متیاہ کے نام نکلا، اور وہ رسولوں میں شامل ہوا۔"
+      },
+      {
+        "id": "elem_d16_q5",
+        "question": "What signs accompanied the outpouring of the Holy Spirit on the Day of Pentecost?",
+        "urduQuestion": "عیدِ پینتکاست کے دن جب شاگرد جمع تھے تو روح القدس کے نازل ہونے کے ساتھ کون سے نشانات رونما ہوئے؟",
+        "options": ["A solar eclipse", "A violent wind and tongues of fire resting on the disciples", "The temple collapse", "A heavy rain"],
+        "urduOptions": ["سورج گرہن", "بڑی زور کی آندھی کی سی آواز اور شعلہ نما زبانیں پھٹتی ہوئی نظر آئیں", "ہیکل کا گرنا", "تیز بارش کا ہونا"],
+        "answerIndex": 1,
+        "explanation": "Acts 2:2-3 records a sound like a rushing violent wind from heaven, and divided tongues as of fire resting on each of them.",
+        "urduExplanation": "اعمال 2:2-3 کے مطابق، آسمان سے یکایک گونجتی ہوئی آندھی کی سی آواز آئی اور آگ کے شعلے پھٹتے ہوئے دکھائی دیے اور ان میں سے ہر ایک پر آ ٹھہرے۔"
+      }
+    ]
+  },
+  {
+    "dayNumber": 17,
+    "questions": [
+      {
+        "id": "elem_d17_q1",
+        "question": "What ability did the disciples immediately display when filled with the Holy Spirit on Pentecost?",
+        "urduQuestion": "روح القدس پانے کے فوراً بعد، شاگردوں نے حیرت انگیز طور پر کس الٰہی قابلیت کا مظاہرہ کیا تھا؟",
+        "options": ["To walk through walls", "To speak in other languages (tongues) as the Spirit enabled them", "To become invisible", "To predict the exact date of the end times"],
+        "urduOptions": ["دیواروں کے پار نکل جانا", "دوسری زبانیں بولنے کی طاقت جس طرح روح نے انہیں طاقت بخشی (Speak in tongues)", "غائب ہو جانا", "آخری ایام کی درست تاریخ بتانا"],
+        "answerIndex": 1,
+        "explanation": "Acts 2:4 states: 'All of them were filled with the Holy Spirit and began to speak in other tongues as the Spirit enabled them.'",
+        "urduExplanation": "اعمال 2:4 کے مطابق: 'وہ سب روح القدس سے بھر گئے اور غیر زبانیں بولنے لگے جس طرح روح نے انہیں طاقت بخشی۔'"
+      },
+      {
+        "id": "elem_d17_q2",
+        "question": "Who was the first Christian martyr, stoned by the Sanhedrin while testifying to seeing Jesus at God's right hand?",
+        "urduQuestion": "پہلا مسیحی شہید کون تھا جسے کونسل کے سامنے یسوع کو خدا کے دائیں ہاتھ پر کھڑے دیکھنے کی گواہی دینے پر سنگسار کیا گیا؟",
+        "options": ["James", "Stephen", "Philip", "Paul"],
+        "urduOptions": ["یعقوب", "ستفنیس (Stephen)", "فلپس", "پولس"],
+        "answerIndex": 1,
+        "explanation": "Acts 7 records Stephen, full of the Holy Spirit, being stoned to death by the Jewish council after his powerful speech.",
+        "urduExplanation": "اعمال 7 کے مطابق، ستفنیس نے روح القدس سے بھر کر آسمان کی طرف دیکھا اور یسوع کو خدا کی دائیں طرف کھڑے دیکھ کر گواہی دی اور سنگسار ہوا۔"
+      },
+      {
+        "id": "elem_d17_q3",
+        "question": "Who was the evangelist who preached the Gospel to Samaria and later baptized an Ethiopian eunuch on the road to Gaza?",
+        "urduQuestion": "اس خوشخبری دینے والے (مبلغ) کا نام کیا تھا جنہوں نے سامریہ میں منادی کی اور بعد میں غزہ کی راہ پر حبشی خصی (ایتھوپین) کو بپتسمہ دیا؟",
+        "options": ["Stephen", "Philip", "Barnabas", "Silas"],
+        "urduOptions": ["ستفنیس", "فلپس (Philip)", "برنباس", "سیلاس"],
+        "answerIndex": 1,
+        "explanation": "Acts 8 details Philip's ministry in Samaria and his divine appointment to explain scripture and baptize the Ethiopian official.",
+        "urduExplanation": "اعمال 8 کے مطابق، فلپس نے سامریہ میں منادی کی اور پھر روح کے کہنے پر حبشی وزیر کو یسعیاہ کی پیشین گوئی سمجھائی اور بپتسمہ دیا۔"
+      },
+      {
+        "id": "elem_d17_q4",
+        "question": "Where was Saul of Tarsus heading to arrest Christians when he was blinded by a light from heaven?",
+        "urduQuestion": "مسیحیوں کو گرفتار کرنے اور ستانے کے لیے طرسوس کا ساؤل کس شہر جا رہا تھا جب وہ آسمانی نور کی وجہ سے نابینا ہوا؟",
+        "options": ["Rome", "Damascus", "Antioch", "Ephesus"],
+        "urduOptions": ["روم", "دمشق (Damascus)", "انطاکیہ", "افسس"],
+        "answerIndex": 1,
+        "explanation": "Acts 9:1-3 states Saul went to the high priest for letters to the synagogues in Damascus to bring believers bound to Jerusalem.",
+        "urduExplanation": "اعمال 9:1-3 کے مطابق، ساؤل سردار کاہن سے دمشق کے عبادت خانوں کے نام رقعے لایا تاکہ جو مسیحی ملیں انہیں باندھ کر یروشلم لائے۔"
+      },
+      {
+        "id": "elem_d17_q5",
+        "question": "What did Jesus say to Saul from the blinding light on the road to Damascus?",
+        "urduQuestion": "دمشق کی راہ پر چمکنے والے نور کے درمیان سے یسوع نے ساؤل سے کیا فرمایا تھا؟",
+        "options": ["'Go back to Tarsus'", "'Saul, Saul, why do you persecute me?'", "'You are chosen to be a king'", "'Deliver this scroll to Rome'"],
+        "urduOptions": ["'طرسوس واپس چلے جاؤ'", "'اے ساؤل، اے ساؤل، تو مجھے کیوں ستاتا ہے؟' (Why do you persecute me?)", "'تو بادشاہ بننے کے لیے چنا گیا ہے'", "'یہ طومار روم پہنچا دو'"],
+        "answerIndex": 1,
+        "explanation": "In Acts 9:4, Saul fell to the ground and heard a voice say to him, 'Saul, Saul, why do you persecute me?'",
+        "urduExplanation": "اعمال 9:4 کے مطابق، ساؤل زمین پر گر پڑا اور اس نے ایک آواز سنی جو اس سے کہتی تھی: 'اے ساؤل، اے ساؤل، تو مجھے کیوں ستاتا ہے؟'"
+      }
+    ]
+  },
+  {
+    "dayNumber": 18,
+    "questions": [
+      {
+        "id": "elem_d18_q1",
+        "question": "Who was the disciple in Damascus sent by God to lay hands on Saul to restore his sight and baptize him?",
+        "urduQuestion": "دمشق کا وہ کون سا شاگرد تھا جسے خدا نے ساؤل پر ہاتھ رکھنے، اس کی بینائی بحال کرنے اور اسے بپتسمہ دینے کے لیے بھیجا تھا؟",
+        "options": ["Ananias", "Simon Peter", "Barnabas", "Philip"],
+        "urduOptions": ["حنانیاہ (Ananias)", "شمعون پطرس", "برنباس", "فلپس"],
+        "answerIndex": 0,
+        "explanation": "Acts 9:10-17 records Ananias of Damascus obeying God's call to find Saul and lay hands on him.",
+        "urduExplanation": "اعمال 9:10-17 کے مطابق، خداوند نے دمشق میں حنانیاہ نامی شاگرد کو بھیجا جس نے ساؤل پر ہاتھ رکھ کر اس کی بینائی بحال کی۔"
+      },
+      {
+        "id": "elem_d18_q2",
+        "question": "Who was the Roman centurion in Caesarea, a devout Gentile, who was directed by an angel to send for Peter?",
+        "urduQuestion": "قیصریہ کا وہ رومی صوبہ دار کون تھا، جو غیر قوم سے تعلق رکھنے والا خدا ترس شخص تھا، اور فرشتے نے اسے پطرس کو بلانے کی ہدایت کی تھی؟",
+        "options": ["Julius", "Cornelius", "Longinus", "Felix"],
+        "urduOptions": ["جولیس", "کرنیلیوس (Cornelius)", "لونگینوس", "فلکس"],
+        "answerIndex": 1,
+        "explanation": "Acts 10:1-8 details Cornelius, a centurion of the Italian Regiment, receiving a vision from an angel to summon Peter.",
+        "urduExplanation": "اعمال 10:1-8 کے مطابق، اطالیانی پلٹن کے صوبہ دار کرنیلیوس کو رویا ملی جس میں فرشتے نے اسے پطرس کو بلانے کا حکم دیا۔"
+      },
+      {
+        "id": "elem_d18_q3",
+        "question": "What vision did Peter see in Joppa that showed him God has made the Gentiles clean and acceptable?",
+        "urduQuestion": "یافا (Joppa) میں پطرس نے کون سی رویا دیکھی تھی جس سے ظاہر ہوا کہ خدا نے غیر قوموں کو پاک اور مقبول ٹھہرایا ہے؟",
+        "options": ["A chariot of fire in the sky", "A sheet let down from heaven containing unclean animals, and a voice saying 'Do not call impure what God has made clean'", "A great wind splitting the sea", "An angel holding a sword"],
+        "urduOptions": ["آسمان پر آگ کا رتھ", "آسمان سے ایک بڑی چادر اتری جس میں حرام چوپائے تھے، اور آواز سنی 'جسے خدا نے پاک کیا اسے تو ناپاک نہ کہہ'", "سمندر کو چیر دینے والی تیز ہوا", "ہاتھ میں تلوار لیے فرشتہ"],
+        "answerIndex": 1,
+        "explanation": "Acts 10:9-16 records Peter seeing a sheet of animals and God teaching him not to call any person common or unclean.",
+        "urduExplanation": "اعمال 10:9-16 کے مطابق، پطرس نے چادر کی رویا دیکھی جس کے ذریعے خدا نے سکھایا کہ کسی انسان کو ناپاک یا نجس نہیں سمجھنا چاہیے۔"
+      },
+      {
+        "id": "elem_d18_q4",
+        "question": "Who partnered with Paul on his first missionary journey and was called 'Son of Encouragement'?",
+        "urduQuestion": "پہلے مشنری سفر میں پولس کے شریک کار کون تھے جنہیں 'تسلی کا بیٹا' (Son of Encouragement) بھی کہا جاتا ہے؟",
+        "options": ["Barnabas", "Silas", "Timothy", "Luke"],
+        "urduOptions": ["برنباس (Barnabas)", "سیلاس", "تیمتھیس", "لوقا"],
+        "answerIndex": 0,
+        "explanation": "Acts 13:2-4 shows the Holy Spirit setting apart Barnabas (whose name means Son of Encouragement) and Paul for the work.",
+        "urduExplanation": "اعمال 13:2-4 کے مطابق، روح القدس نے برنباس (تسلی کا بیٹا) اور ساؤل کو ان کے پہلے تبلیغی سفر کے لیے مخصوص کیا۔"
+      },
+      {
+        "id": "elem_d18_q5",
+        "question": "Who was the young companion and co-worker of Paul, to whom he wrote two pastoral epistles?",
+        "urduQuestion": "پولس کے اس نوجوان شاگرد اور ہم خدمت کا نام کیا تھا، جنہیں انہوں نے رہنمائی کے دو خطوط لکھے تھے؟",
+        "options": ["Titus", "Timothy", "Silas", "Philemon"],
+        "urduOptions": ["ططس", "تیمتھیس (Timothy)", "سیلاس", "فلیمون"],
+        "answerIndex": 1,
+        "explanation": "Timothy was Paul's beloved spiritual son and co-worker who served with him in Ephesus (Acts 16:1-3, 1 Timothy).",
+        "urduExplanation": "اعمال 16:1-3 کے مطابق، تیمتھیس ایک ایماندار عبرانی عورت اور یونانی باپ کا بیٹا تھا جو پولس کا عزیز روحانی بیٹا اور ہم خدمت بنا۔"
+      }
+    ]
+  },
+  {
+    "dayNumber": 19,
+    "questions": [
+      {
+        "id": "elem_d19_q1",
+        "question": "Who was the generous seller of purple fabric from Thyatira, who became Paul's first convert in Europe?",
+        "urduQuestion": "تھواتیرہ کی ارغوانی کپڑے بیچنے والی اس رحم دل خاتون کا نام کیا تھا، جو یورپ میں پولس کی پہلی ایماندار بنی تھیں؟",
+        "options": ["Priscilla", "Lydia", "Tabitha", "Chloe"],
+        "urduOptions": ["پرسکلہ", "لدیہ (Lydia)", "طبیتا", "خلوئے"],
+        "answerIndex": 1,
+        "explanation": "Acts 16:14-15 records Lydia of Thyatira listening to Paul in Philippi, the Lord opening her heart, and her household being baptized.",
+        "urduExplanation": "اعمال 16:14-15 کے مطابق، لدیہ ارغوانی کپڑا بیچنے والی نے خدا کے کلام پر دھیان دیا، خدا نے اس کا دل کھولا اور اس کے خاندان نے بپتسمہ لیا۔"
+      },
+      {
+        "id": "elem_d19_q2",
+        "question": "Who was Paul's companion on his second missionary journey, with whom he sang hymns in a jail in Philippi?",
+        "urduQuestion": "دوسرے مشنری سفر میں پولس کے سفری ساتھی کون تھے، جن کے ساتھ انہوں نے فلپی کے قید خانے میں رات کو حمد کے گیت گائے تھے؟",
+        "options": ["Barnabas", "Luke", "Silas", "Mark"],
+        "urduOptions": ["برنباس", "لوقا", "سیلاس (Silas)", "مرقس"],
+        "answerIndex": 2,
+        "explanation": "Acts 16:25 records Paul and Silas praying and singing hymns to God at midnight, with other prisoners listening.",
+        "urduExplanation": "اعمال 16:25 کے مطابق، آدھی رات کے قریب پولس اور سیلاس دعا کر رہے تھے اور خدا کی حمد کے گیت گاتے تھے اور قیدی سن رہے تھے۔"
+      },
+      {
+        "id": "elem_d19_q3",
+        "question": "What miracle freed Paul and Silas from the Philippian prison?",
+        "urduQuestion": "فلپی کے قید خانے سے پولس اور سیلاس کو رہا کرانے کے لیے کون سا معجزہ ہوا تھا؟",
+        "options": ["An angel blinded the guards", "A violent earthquake shook the prison and opened all the doors", "The chains turned into dust", "The governor ordered their release in a dream"],
+        "urduOptions": ["فرشتے نے محافظوں کو اندھا کر دیا", "ایک بڑا زلزلہ آیا جس نے قید خانے کو ہلا دیا اور سب دروازے کھل گئے", "زنجیریں مٹی بن گئیں", "حاکم نے خواب کی وجہ سے ان کی رہائی کا حکم دیا"],
+        "answerIndex": 1,
+        "explanation": "Acts 16:26 states that suddenly there was such a violent earthquake that the foundations of the prison were shaken, and the doors opened.",
+        "urduExplanation": "اعمال 16:26 کے مطابق، یکایک ایک بڑا زلزلہ آیا یہاں تک کہ قید خانے کی بنیادیں ہل گئیں اور دروازے کھل گئے اور سب کے بندھن ٹوٹ گئے۔"
+      },
+      {
+        "id": "elem_d19_q4",
+        "question": "What did the jailer at Philippi ask Paul and Silas after witnessing the earthquake?",
+        "urduQuestion": "زلزلہ اور معجزہ دیکھنے کے بعد فلپی کے داروغہ (قید خانے کے انچارج) نے پولس اور سیلاس سے کیا سوال کیا تھا؟",
+        "options": ["'How can I escape this prison?'", "'Sirs, what must I do to be saved?'", "'Who is your emperor?'", "'Will you teach me magic?'"],
+        "urduOptions": ["'میں اس قید سے کیسے نکل سکتا ہوں؟'", "'اے صاحبو، میں کیا کروں کہ نجات پاؤں؟' (What must I do to be saved?)", "'تمہارا بادشاہ کون ہے؟'", "'کیا تم مجھے جادو سکھاؤ گے؟'"],
+        "answerIndex": 1,
+        "explanation": "Acts 16:30 records the trembling jailer bringing them out and asking: 'Sirs, what must I do to be saved?'",
+        "urduExplanation": "اعمال 16:30 کے مطابق، داروغہ انہیں باہر لایا اور کانپتے ہوئے بولا: 'اے صاحبو، میں کیا کروں کہ نجات پاؤں؟' انہوں نے جواب دیا: 'خداوند یسوع پر ایمان لا۔'"
+      },
+      {
+        "id": "elem_d19_q5",
+        "question": "What is the sword of the Spirit, according to the Christian armor in Ephesians 6?",
+        "urduQuestion": "افسیوں 6 میں بیان کردہ خدا کے ہتھیاروں میں، 'روح کی تلوار' کیا ہے؟",
+        "options": ["Faith", "The Word of God", "Truth", "Righteousness"],
+        "urduOptions": ["ایمان", "خدا کا کلام (The Word of God)", "سچائی", "راستبازی"],
+        "answerIndex": 1,
+        "explanation": "Ephesians 6:17 instructs believers to 'take the helmet of salvation and the sword of the Spirit, which is the word of God.'",
+        "urduExplanation": "افسیوں 6:17 میں تحریر ہے: 'اور نجات کا خود اور روح کی تلوار لو جو خدا کا کلام ہے۔'"
+      }
+    ]
+  },
+  {
+    "dayNumber": 20,
+    "questions": [
+      {
+        "id": "elem_d20_q1",
+        "question": "Who was the High Priest of Salem who blessed Abraham after Lot's rescue, serving as a prototype for Christ's priesthood?",
+        "urduQuestion": "سالم کا وہ پراسرار بادشاہ اور سردار کاہن کون تھا جس نے ابراہام کو برکت دی، اور وہ یسوع کی ابدی کہانت کا نمونہ ہے؟",
+        "options": ["Aaron", "Melchizedek", "Eli", "Zadok"],
+        "urduOptions": ["ہارون", "ملکی صدق (Melchizedek)", "عالی", "صادوق"],
+        "answerIndex": 1,
+        "explanation": "Melchizedek blessed Abram in Genesis 14 and is discussed in Hebrews 5-7 as a type of Jesus' eternal priesthood.",
+        "urduExplanation": "پیدائش 14 کے مطابق، ملکی صدق نے ابرام کو روٹی اور مے لا کر برکت دی، اس کا ذکر عبرانیوں 7 میں تفصیل سے کیا گیا ہے۔"
+      },
+      {
+        "id": "elem_d20_q2",
+        "question": "In what city did Paul preach on the Areopagus (Mars Hill) about the 'Unknown God'?",
+        "urduQuestion": "پولس نے کس مشہور شہر میں اریوپگس (مرس ہل) پر 'نامعلوم خدا' کے حوالے سے الٰہیاتی وعظ دیا تھا؟",
+        "options": ["Rome", "Athens", "Ephesus", "Corinth"],
+        "urduOptions": ["روم", "ایتھنز (Athens)", "افسس", "کرنتھ"],
+        "answerIndex": 1,
+        "explanation": "Acts 17 records Paul noticing an altar dedicated 'To an Unknown God' in Athens, and using it to preach the true Creator.",
+        "urduExplanation": "اعمال 17 کے مطابق، پولس نے ایتھنز میں ایک قربان گاہ دیکھی جس پر لکھا تھا 'نامعلوم خدا کے لیے' اور اس نے سچے خدا کی منادی کی۔"
+      },
+      {
+        "id": "elem_d20_q3",
+        "question": "Who was the young Christian woman in Joppa, also named Dorcas, famous for her charity, whom Peter raised from the dead?",
+        "urduQuestion": "یافا کی اس پیاری مسیحی خاتون کا نام کیا تھا، جو غریبوں کی مدد اور سلائی کڑھائی کے لیے مشہور تھیں اور پطرس نے انہیں زندہ کیا تھا؟",
+        "options": ["Tabitha", "Priscilla", "Lydia", "Rhoda"],
+        "urduOptions": ["طبیتا (Tabitha)", "پرسکلہ", "لدیہ", "رودا"],
+        "answerIndex": 0,
+        "explanation": "Acts 9:36-42 details Peter raising Tabitha (Greek name Dorcas), which led many in Joppa to believe in the Lord.",
+        "urduExplanation": "اعمال 9:36-42 کے مطابق، طبیتا (غزالہ) بیمار ہو کر مر گئی تھی، پطرس نے گھٹنے ٹیک کر دعا کی اور کہا: 'اے طبیتا، اٹھ!' اور وہ زندہ ہو گئی۔"
+      },
+      {
+        "id": "elem_d20_q4",
+        "question": "According to Galatians 5, which of the following is NOT part of the Fruit of the Spirit?",
+        "urduQuestion": "گلتیوں 5 کے مطابق، درج ذیل میں سے کون سا روح کے پھل (Fruit of the Spirit) کا حصہ نہیں ہے؟",
+        "options": ["Love", "Joy", "Anger", "Patience"],
+        "urduOptions": ["محبت", "خوشی", "غصہ (Anger)", "صبر"],
+        "answerIndex": 2,
+        "explanation": "Galatians 5:22-23 lists the fruit of the Spirit as love, joy, peace, patience, kindness, goodness, faithfulness, gentleness, and self-control. Anger is of the flesh.",
+        "urduExplanation": "گلتیوں 5:22-23 کے مطابق روح کا پھل محبت، خوشی، اطمینان، تحمل، مہربانی، نیکی، وفاداری، حلم اور پرہیزگاری ہے، غصہ اس میں شامل نہیں ہے۔"
+      },
+      {
+        "id": "elem_d20_q5",
+        "question": "What is the love of money declared to be in 1 Timothy 6:10?",
+        "urduQuestion": "1 تیمتھیس 6:10 میں روپے پیسے کے لالچ (محبت) کو کس چیز کے مترادف ٹھہرایا گیا ہے؟",
+        "options": ["A necessary tool", "The root of all kinds of evil", "A sign of success", "A spiritual blessing"],
+        "urduOptions": ["ایک ضروری اوزار", "ہر قسم کی برائی کی جڑ (Root of all evil)", "کامیابی کا نشان", "روحانی برکت"],
+        "answerIndex": 1,
+        "explanation": "1 Timothy 6:10 warns: 'For the love of money is a root of all kinds of evil. Some people, eager for money, have wandered from the faith.'",
+        "urduExplanation": "1 تیمتھیس 6:10 فرماتا ہے: 'کیونکہ روپے کی محبت ہر قسم کی برائی کی جڑ ہے، جس کے لالچ میں بعض نے ایمان سے گمراہی اختیار کی۔'"
+      }
+    ]
+  },
+  {
+    "dayNumber": 21,
+    "questions": [
+      {
+        "id": "elem_d21_q1",
+        "question": "Who was Abraham's nephew who chose to live in the fertile plain of Sodom?",
+        "urduQuestion": "ابراہام کے اس بھتیجے کا نام کیا تھا جنہوں نے سدوم کے زرخیز میدان میں رہنے کا فیصلہ کیا تھا؟",
+        "options": ["Isaac", "Jacob", "Lot", "Esau"],
+        "urduOptions": ["اسحاق", "یعقوب", "لوط (Lot)", "عیسو"],
+        "answerIndex": 2,
+        "explanation": "Genesis 13:10-12 records Lot choosing the well-watered plain of the Jordan and pitching his tents near Sodom.",
+        "urduExplanation": "پیدائش 13:10-12 کے مطابق، جب ابراہام اور لوط کے چرواہوں میں جھگڑا ہوا تو لوط نے یردن کی تराई چنی اور سدوم کے قریب ڈیرے ڈالے۔"
+      },
+      {
+        "id": "elem_d21_q2",
+        "question": "What happened to Lot's wife when she looked back at Sodom during its destruction?",
+        "urduQuestion": "سدوم کی تباہی کے وقت جب لوط کی بیوی نے پیچھے مڑ کر دیکھا تو اس کے ساتھ کیا واقعہ پیش آیا؟",
+        "options": ["She was blinded", "She became a pillar of salt", "She was struck by lightning", "She fell into a pit"],
+        "urduOptions": ["وہ اندھی ہو گئی", "وہ نمک کا ستون بن گئی (Pillar of salt)", "اس پر بجلی گری", "وہ ایک گڑھے میں گر گئی"],
+        "answerIndex": 1,
+        "explanation": "Genesis 19:26 states that Lot's wife looked back from behind him, and she became a pillar of salt.",
+        "urduExplanation": "پیدائش 19:26 میں درج ہے کہ لوط کی بیوی نے پیچھے سے مڑ کر دیکھا اور وہ نمک کا ستون بن گئی۔"
+      },
+      {
+        "id": "elem_d21_q3",
+        "question": "Who did Abraham's servant find at the well in Nahor to be Isaac's wife?",
+        "urduQuestion": "ابراہام کے خادم کو نحور کے کنویں پر اسحاق کی بیوی بنانے کے لیے کون سی نیک لڑکی ملی تھی؟",
+        "options": ["Sarah", "Rebekah", "Rachel", "Leah"],
+        "urduOptions": ["سارہ", "ربقہ (Rebekah)", "راخل", "لیاہ"],
+        "answerIndex": 1,
+        "explanation": "Genesis 24 details Eliezer's journey and prayer, which led him to Rebekah, who offered water to him and his camels.",
+        "urduExplanation": "پیدائش 24 کے مطابق، جب ابراہام کے خادم نے دعا کی تو ربقہ گھڑا کندھے پر لیے نکل آئی اور اسے اور اس کے اونٹوں کو پانی پلایا۔"
+      },
+      {
+        "id": "elem_d21_q4",
+        "question": "What were the names of Isaac and Rebekah's twin sons?",
+        "urduQuestion": "اسحاق اور ربقہ کے جڑواں بیٹوں کے نام کیا تھے؟",
+        "options": ["Cain and Abel", "Jacob and Esau", "Joseph and Benjamin", "Manasseh and Ephraim"],
+        "urduOptions": ["قابیل اور ہابیل", "یعقوب اور عیسو (Jacob & Esau)", "یوسف اور بنیمین", "منسی اور افراہیم"],
+        "answerIndex": 1,
+        "explanation": "Genesis 25:24-26 records the birth of twin boys, Esau (born first, hairy) and Jacob (holding Esau's heel).",
+        "urduExplanation": "پیدائش 25:24-26 کے مطابق، ربقہ کے ہاں جڑواں بچے پیدا ہوئے، پہلے کا نام عیسو اور دوسرے کا نام یعقوب رکھا گیا۔"
+      },
+      {
+        "id": "elem_d21_q5",
+        "question": "How many sons did Jacob have, who became the ancestors of the Twelve Tribes of Israel?",
+        "urduQuestion": "یعقوب کے کل کتنے بیٹے تھے، جو اسرائیل کے بارہ قبیلوں کے آباؤ اجداد بنے؟",
+        "options": ["7 sons", "10 sons", "12 sons", "15 sons"],
+        "urduOptions": ["7 بیٹے", "10 بیٹے", "12 بیٹے (12 sons)", "15 بیٹے"],
+        "answerIndex": 2,
+        "explanation": "Jacob had twelve sons born to him through Leah, Rachel, Bilhah, and Zilpah (Genesis 35:22).",
+        "urduExplanation": "پیدائش 35:22 کے مطابق، یعقوب کے بارہ بیٹے تھے جن سے اسرائیل کے بارہ قبیلے وجود میں آئے۔"
+      }
+    ]
+  },
+  {
+    "dayNumber": 22,
+    "questions": [
+      {
+        "id": "elem_d22_q1",
+        "question": "Which of Joseph's brothers was left behind in prison in Egypt as a guarantee while the others returned to Canaan with grain?",
+        "urduQuestion": "اناج کے ساتھ کنعان واپس لوٹتے وقت، یوسف نے اپنے بھائیوں میں سے کسے ضمانت کے طور پر مصر کے قید خانے میں روک لیا تھا؟",
+        "options": ["Reuben", "Simeon", "Benjamin", "Dan"],
+        "urduOptions": ["روبن", "شمعون (Simeon)", "بنیمین", "دان"],
+        "answerIndex": 1,
+        "explanation": "Genesis 42:24 states that Joseph took Simeon from them and had him bound before their eyes.",
+        "urduExplanation": "پیدائش 42:24 کے مطابق، یوسف نے اپنے بھائیوں میں سے شمعون کو الگ کر کے ان کے سامنے قید کر لیا۔"
+      },
+      {
+        "id": "elem_d22_q2",
+        "question": "What silver object did Joseph order to be hidden in Benjamin's grain sack to test his brothers?",
+        "urduQuestion": "اپنے بھائیوں کے پیار اور خلوص کو آزمانے کے لیے، یوسف نے بنیمین کے غلے کے تھیلے میں چاندی کی کون سی چیز چھپانے کا حکم دیا تھا؟",
+        "options": ["A silver dagger", "A silver cup", "A silver ring", "A silver coin"],
+        "urduOptions": ["چاندی کا خنجر", "چاندی کا پیالہ (Silver cup)", "چاندی کی انگوٹھی", "چاندی کا سکہ"],
+        "answerIndex": 1,
+        "explanation": "Genesis 44:1-2 records Joseph commanding his steward to put his silver cup in the mouth of the youngest brother's sack.",
+        "urduExplanation": "پیدائش 44:1-2 کے مطابق، یوسف نے اپنے دیوان کو حکم دیا کہ میرا چاندی کا پیالہ سب سے چھوٹے بھائی کے بورے میں رکھ دے۔"
+      },
+      {
+        "id": "elem_d22_q3",
+        "question": "Who was Moses' father-in-law, the priest of Midian, who gave him wise advice on delegating judgment?",
+        "urduQuestion": "موسیٰ کے خسر (سسر) کا نام کیا تھا، جو مدیان کے کاہن تھے اور انہوں نے موسیٰ کو مقدمات کے فیصلے کے اختیارات تقسیم کرنے کا مشورہ دیا تھا؟",
+        "options": ["Aaron", "Jethro", "Balaam", "Melchizedek"],
+        "urduOptions": ["ہارون", "یترو (Jethro)", "بلعام", "ملکی صدق"],
+        "answerIndex": 1,
+        "explanation": "Exodus 18 details Jethro, priest of Midian, advising Moses to appoint capable men as judges over thousands, hundreds, fifties, and tens.",
+        "urduExplanation": "خروج 18 کے مطابق، مدیان کے کاہن یترو نے موسیٰ کو مشورہ دیا کہ وہ لائق آدمیوں کو ہزا ر دار اور صد دار مقرر کرے تا کہ وہ چھوٹے مقدمات خود سنیں۔"
+      },
+      {
+        "id": "elem_d22_q4",
+        "question": "What miracle occurred when Moses struck the rock at Meribah, even though God had commanded him to speak to it?",
+        "urduQuestion": "مریبہ کے کنویں پر جب موسیٰ نے چٹان پر لاٹھی ماری (جبکہ خدا نے اسے صرف کلام کرنے کو کہا تھا) تو کیا معجزہ رونما ہوا؟",
+        "options": ["The rock split and swallowed the rebels", "Water gushed out, but Moses was punished for disobedience", "The rod broke in two", "A cloud of smoke covered the place"],
+        "urduOptions": ["چٹان پھٹ گئی اور باغیوں کو نگل لیا", "پانی کثرت سے نکلا، لیکن موسیٰ کو نافرمانی کی وجہ سے سزا ملی", "لاٹھی دو ٹکڑے ہو گئی", "دھویں کے بادل نے اس جگہ کو ڈھانپ لیا"],
+        "answerIndex": 1,
+        "explanation": "In Numbers 20:11-12, water came out abundantly, but because Moses failed to trust God and speak to the rock, he was barred from entering Canaan.",
+        "urduExplanation": "گنتی 20:11-12 کے مطابق، موسیٰ نے غصے میں دو بار لاٹھی ماری، پانی تو نکلا پر خدا نے موسیٰ اور ہارون سے فرمایا کہ تم کنعان میں داخل نہ ہونے پاؤ گے۔"
+      },
+      {
+        "id": "elem_d22_q5",
+        "question": "Who was the giant King of Bashan whose iron bed was thirteen feet long?",
+        "urduQuestion": "بشن کے اس دیو ہیکل بادشاہ کا نام کیا تھا جس کی لوہے کی چارپائی تیرہ فٹ لمبی تھی؟",
+        "options": ["Sihon", "Og", "Goliath", "Eglon"],
+        "urduOptions": ["سیحون", "عوج (Og)", "جالوت", "عجلون"],
+        "answerIndex": 1,
+        "explanation": "Deuteronomy 3:11 notes that only Og, king of Bashan, was left of the remnant of the Rephaim, and his iron bed was over nine cubits long.",
+        "urduExplanation": "استثنا 3:11 کے مطابق، رفائیم کی نسل میں سے صرف بشن کا بادشاہ عوج باقی رہ گیا تھا جس کی چارپائی تیرہ فٹ لمبی تھی۔"
+      }
+    ]
+  },
+  {
+    "dayNumber": 23,
+    "questions": [
+      {
+        "id": "elem_d23_q1",
+        "question": "How did God stop the sun and the moon from moving during Israel's battle with the Amorites?",
+        "urduQuestion": "اموریوں کے ساتھ جنگ کے دوران اسرائیل کی فتح کے لیے خدا نے سورج اور چاند کو کس طرح تھام دیا تھا؟",
+        "options": ["By a solar eclipse", "In response to Joshua's prayer, the sun stood still in the sky for a full day", "By bringing a sudden thick darkness", "By an earthquake"],
+        "urduOptions": ["سورج گرہن کے ذریعے", "یشوع کی دعا کے جواب میں، سورج تقریباً پورے دن تک آسمان پر ٹھہرا رہا", "اچانک گہری تاریکی لا کر", "زلزلے کے ذریعے"],
+        "answerIndex": 1,
+        "explanation": "In Joshua 10:12-14, Joshua prayed, and the sun stood still and the moon stopped until the nation avenged itself.",
+        "urduExplanation": "یشوع 10:12-14 کے مطابق، یشوع نے گبعون کے میدان پر سورج اور وادی ایالون پر چاند کو ٹھہرنے کا حکم دیا اور ایسا ہی ہوا۔"
+      },
+      {
+        "id": "elem_d23_q2",
+        "question": "What did Joshua and Caleb do when the other ten spies brought a fearful report about Canaan?",
+        "urduQuestion": "جب باقی دس جاسوسوں نے کنعان کے بارے میں ڈرانے والی رپورٹ پیش کی، تو یشوع اور کالیب نے کیا ردِ عمل ظاہر کیا؟",
+        "options": ["They suggested returning to Egypt", "They encouraged the people, saying 'We should go up and take possession... for we can certainly do it'", "They fled to the wilderness", "They joined the rebels"],
+        "urduOptions": ["انہوں نے مصر واپس جانے کا مشورہ دیا", "انہوں نے لوگوں کو تسلی دی اور کہا 'ہمیں جا کر اس پر قبضہ کرنا چاہیے کیونکہ ہم اس پر ضرور غالب آئیں گے'", "وہ بیابان کی طرف فرار ہو گئے", "وہ باغیوں کے ساتھ مل گئے"],
+        "answerIndex": 1,
+        "explanation": "Numbers 13:30 and 14:6-9 record Caleb and Joshua tearing their clothes and urging the people to trust God and conquer the land.",
+        "urduExplanation": "گنتی 14:6-9 کے مطابق، یشوع اور کالیب نے اپنے کپڑے پھاڑے اور لوگوں سے کہا کہ وہ زمین نہایت ہی اچھی ہے، اگر خدا ہم سے راضی رہے تو ہمیں وہ زمین دے گا۔"
+      },
+      {
+        "id": "elem_d23_q3",
+        "question": "Who was the Moabite king, incredibly fat, whom the judge Ehud killed with a hidden double-edged dagger?",
+        "urduQuestion": "موآب کے اس موٹے اور تنومند بادشاہ کا نام کیا تھا جسے بائیں ہاتھ سے کام کرنے والے منصف اہود نے چوری چھپے خنجر سے قتل کیا تھا؟",
+        "options": ["Sihon", "Eglon", "Balak", "Og"],
+        "urduOptions": ["سیحون", "عجلون (Eglon)", "بالاق", "عوج"],
+        "answerIndex": 1,
+        "explanation": "Judges 3:15-26 records Ehud making a double-edged dagger, strapping it to his right thigh, and stabbing Eglon, King of Moab.",
+        "urduExplanation": "قضاۃ 3:15-26 کے مطابق، اہود نے ایک دو دھاری خنجر بنایا اور اسے اپنے دائیں ران پر چھپایا اور موآب کے بادشاہ عجلون کو اکیلے پا کر قتل کیا۔"
+      },
+      {
+        "id": "elem_d23_q4",
+        "question": "What did Samson find inside the carcass of a lion he had killed with his bare hands?",
+        "urduQuestion": "جس شیر ببر کو شمسون نے اپنے خالی ہاتھوں سے پھاڑ ڈالا تھا، کچھ دن بعد اس کی لاش کے اندر اسے کیا ملا؟",
+        "options": ["A pouch of silver", "A swarm of bees and honey", "A serpent", "A golden key"],
+        "urduOptions": ["چاندی کی ایک تھیلی", "شہد کی مکھیاں اور شہد (Bees & honey)", "ایک سانپ", "ایک سنہری چابی"],
+        "answerIndex": 1,
+        "explanation": "Judges 14:8 records that when Samson returned to look at the lion's carcass, he saw a swarm of bees and some honey inside.",
+        "urduExplanation": "قضاۃ 14:8 کے مطابق، جب وہ اس مِردہ شیر کو دیکھنے کے لیے مڑا تو اس نے شیر کے قالب میں شہد کی مکھیوں کا ایک غول اور شہد پایا۔"
+      },
+      {
+        "id": "elem_d23_q5",
+        "question": "Who was Ruth's mother-in-law, who urged her and Orpah to return to their Moabite families?",
+        "urduQuestion": "روت کی ساس کا نام کیا تھا، جنہوں نے روت اور عرفہ کو اپنے موآبی خاندانوں میں واپس جانے کی تاکید کی تھی؟",
+        "options": ["Hannah", "Naomi", "Sarah", "Rebekah"],
+        "urduOptions": ["حنا", "نعومی (Naomi)", "سارہ", "ربقہ"],
+        "answerIndex": 1,
+        "explanation": "Ruth 1 records Naomi urging her widowed daughters-in-law to stay in Moab, but Ruth faithfully clung to her.",
+        "urduExplanation": "روت 1 کے مطابق، نعومی نے اپنے بیٹوں کی وفات کے بعد اپنی بہوؤں سے کہا کہ وہ اپنی مائیکے واپس چلی جائیں کیونکہ اسرائیل میں ان کا کوئی متبادل نہیں۔"
+      }
+    ]
+  },
+  {
+    "dayNumber": 24,
+    "questions": [
+      {
+        "id": "elem_d24_q1",
+        "question": "Who was the High Priest of Shiloh who trained young Samuel, and whose sons Eliph and Phinehas were wicked?",
+        "urduQuestion": "سیلو (Shiloh) کے اس سردار کاہن کا نام کیا تھا جنہوں نے ننھے سموئیل کی تربیت کی، لیکن ان کے اپنے بیٹے حفنی اور فنحاس بدکار تھے؟",
+        "options": ["Samuel", "Eli", "Phinehas", "Zadok"],
+        "urduOptions": ["سموئیل", "عالی (Eli)", "فنحاس", "صادوق"],
+        "answerIndex": 1,
+        "explanation": "1 Samuel 1-3 details Eli, the High Priest, mentoring Samuel, and receiving God's judgment regarding his sons' sins.",
+        "urduExplanation": "1 سموئیل کے مطابق، کاہن عالی نے حنا کے منت مانے ہوئے بیٹے سموئیل کو ہیکل کی خدمت سکھائی، لیکن اپنے بیٹوں کے گناہوں کی وجہ سے عتاب میں آئے۔"
+      },
+      {
+        "id": "elem_d24_q2",
+        "question": "How did the Philistines mock Saul after he and his sons died on Mount Gilboa?",
+        "urduQuestion": "جب ساؤل اور اس کے بیٹے کوہِ جلبوعہ پر جنگ میں ہلاک ہوئے، تو فلستیوں نے اس کی لاش کے ساتھ کیا کیا؟",
+        "options": ["They buried them in Hebron", "They cut off his head, stripped his armor, and fastened his body to the wall of Beth Shan", "They threw them into the sea", "They sent them back to Samuel"],
+        "urduOptions": ["انہوں نے انہیں حبرون میں دفن کیا", "انہوں نے اس کا سر کاٹا، اس کا ہتھیار اتارا اور اس کی لاش کو بیت شان کی فصیل پر لٹکا دیا", "انہوں نے انہیں سمندر میں پھینک دیا", "انہوں نے انہیں سموئیل کے پاس واپس بھیج دیا"],
+        "answerIndex": 1,
+        "explanation": "1 Samuel 31 records the tragic end of Saul, with his body fastened to the wall of Beth Shan until valiant men of Jabesh Gilead rescued it.",
+        "urduExplanation": "1 سموئیل 31 کے مطابق، فلستیوں نے ساؤل کا سر کاٹ کر اس کی لاش کو بیت شان کی دیوار پر لٹکا دیا تھا جسے جابیش جلعاد کے مردوں نے چھڑایا۔"
+      },
+      {
+        "id": "elem_d24_q3",
+        "question": "Who was Saul's military commander, David's rival, who was later killed by Joab?",
+        "urduQuestion": "ساؤل کے سپہ سالار کا نام کیا تھا جو داؤد کا حریف تھا اور بعد میں یوآب کے ہاتھوں مارا گیا؟",
+        "options": ["Abner", "Amasa", "Uriah", "Jonathan"],
+        "urduOptions": ["اب نیر (Abner)", "عماسا", "اوریاہ", "یونتن"],
+        "answerIndex": 0,
+        "explanation": "2 Samuel 2 and 3 detail Abner, son of Ner, Saul's army commander, who made Ish-Bosheth king before defecting to David, and was killed by Joab.",
+        "urduExplanation": "2 سموئیل کے مطابق، ساؤل کی فوج کا سردار اب نیر تھا جس نے ساؤل کی وفات کے بعد اس کے بیٹے کو تخت پر بٹھایا لیکن بعد میں وہ مارا گیا۔"
+      },
+      {
+        "id": "elem_d24_q4",
+        "question": "How did Elisha make a heavy iron axe head float in the water for a prophet?",
+        "urduQuestion": "الیسع نے ایک شاگرد نبی کے لیے پانی میں ڈوبے ہوئے لوہے کے بھاری کلہاڑے کو کس طرح سطح پر تیرا دیا تھا؟",
+        "options": ["By praying over the water", "By throwing a stick/wood into the water, making the iron float", "By drying up the river", "By diving into the water"],
+        "urduOptions": ["پانی پر دعا مانگ کر", "لکڑی کا ایک ٹکڑا پانی میں ڈال کر، جس سے لوہا تیرنے لگا", "دریا کو خشک کر کے", "پانی میں غوطہ مار کر"],
+        "answerIndex": 1,
+        "explanation": "In 2 Kings 6:6, Elisha cut a stick, threw it into the water, and made the iron axe head float.",
+        "urduExplanation": "دوسرا سلاطین 6:6 کے مطابق، الیسع نے ایک لکڑی کاٹ کر اس جگہ ڈالی جہاں لوہا گرا تھا، اور لوہا پانی پر تیرنے لگا۔"
+      },
+      {
+        "id": "elem_d24_q5",
+        "question": "In what city was Jesus born, fulfilling Micah's ancient prophecy?",
+        "urduQuestion": "میکاہ نبی کی قدیم پیشین گوئی کو پورا کرتے ہوئے، یسوع کس شہر میں پیدا ہوئے تھے؟",
+        "options": ["Nazareth", "Jerusalem", "Bethlehem", "Hebron"],
+        "urduOptions": ["نااصرت", "یروشلم", "بیت اللحم (Bethlehem)", "حبرون"],
+        "answerIndex": 2,
+        "explanation": "Matthew 2:5-6 and Micah 5:2 confirm Bethlehem of Judea as the prophesied birth town of the Messiah.",
+        "urduExplanation": "متی 2:5-6 کے مطابق، یسوع یہودیہ کے بیت اللحم میں پیدا ہوئے جو داؤد کا شہر ہے، جیسا کہ میکاہ نبی نے لکھا تھا۔"
+      }
+    ]
+  },
+  {
+    "dayNumber": 25,
+    "questions": [
+      {
+        "id": "elem_d25_q1",
+        "question": "Who was the High Priest Caiaphas' father-in-law, a former high priest, who first examined Jesus during His arrest?",
+        "urduQuestion": "سردار کاہن کیا فا کے خسر (سسر) کا نام کیا تھا، جو خود بھی سردار کاہن رہ چکے تھے اور گرفتاری کے بعد سب سے پہلے یسوع کو ان کے پاس لے جایا گیا؟",
+        "options": ["Annas", "Gamaliel", "Pilate", "Herod"],
+        "urduOptions": ["حنان (Annas)", "غمالییل", "پیلاطوس", "ہیرودیس"],
+        "answerIndex": 0,
+        "explanation": "John 18:13 records that they led Jesus first to Annas, who was the father-in-law of Caiaphas, the high priest that year.",
+        "urduExplanation": "یوحنا 18:13 کے مطابق، وہ پہلے یسوع کو حنان کے پاس لے گئے کیونکہ وہ اس سال کے سردار کاہن کیا فا کا خسر تھا۔"
+      },
+      {
+        "id": "elem_d25_q2",
+        "question": "What was the physical reaction of Jesus' body during His intense prayer in the Garden of Gethsemane?",
+        "urduQuestion": "گتسمنی کے باغ میں شدید دعا کے دوران، یسوع کے جسمانی حالت پر کیا اثر ظاہر ہوا تھا؟",
+        "options": ["He was transfigured in white", "His sweat became like great drops of blood falling to the ground", "He fell into a deep sleep", "A bright light blinded him"],
+        "urduOptions": ["ان کا لباس چمکدار سفید ہو گیا", "ان کا پسینہ گویا خون کی بڑی بڑی بوندیں بن کر زمین پر گر رہا تھا (Drops of blood)", "وہ گہری نیند میں سو گئے", "ایک تیز روشنی نے انہیں اندھا کر دیا"],
+        "answerIndex": 1,
+        "explanation": "Luke 22:44 states: 'And being in anguish, he prayed more earnestly, and his sweat was like drops of blood falling to the ground.'",
+        "urduExplanation": "لوقا 22:44 کے مطابق: 'اور وہ سخت اضطراب میں نہایت دل سوزی سے دعا کرنے لگے اور ان کا پسینہ گویا خون کی بڑی بڑی بوندیں ہو کر زمین پر گرتا تھا۔'"
+      },
+      {
+        "id": "elem_d25_q3",
+        "question": "Which of the following was NOT present during Jesus' Transfiguration on the mountain?",
+        "urduQuestion": "پہاڑ پر یسوع کی تبدیلیِ جلال (Transfiguration) کے وقت درج ذیل میں سے کون موجود نہیں تھا؟",
+        "options": ["Moses", "Elijah", "David", "Peter"],
+        "urduOptions": ["موسیٰ", "ایلیاہ", "داؤد (David)", "پطرس"],
+        "answerIndex": 2,
+        "explanation": "Luke 9:28-36 records Peter, John, and James witnessing Jesus speaking with Moses and Elijah. David was not present.",
+        "urduExplanation": "لوقا 9:28-36 کے مطابق، یسوع پطرس، یوحنا اور یعقوب کو ساتھ لے کر دعا کرنے پہاڑ پر گئے جہاں موسیٰ اور ایلیاہ ان کے ساتھ جلال میں دکھائی دیے۔"
+      },
+      {
+        "id": "elem_d25_q4",
+        "question": "How did Jesus heal a man who was paralyzed and lying on a mat by the Pool of Bethesda?",
+        "urduQuestion": "بیت حسدا کے حوض پر بستر پر پڑے ہوئے مفلوج شخص کو یسوع نے کس طرح شفا دی تھی؟",
+        "options": ["By throwing him into the water", "By saying, 'Get up! Pick up your mat and walk.'", "By anointing him with oil", "By praying over him inside the temple"],
+        "urduOptions": ["اسے پانی میں پھینک کر", "یہ فرما کر: 'اٹھ، اپنا بستر اٹھا اور چل۔' (Pick up your mat and walk)", "اس پر تیل کا مسح کر کے", "ہیکل کے اندر لے جا کر اس پر دعا کر کے"],
+        "answerIndex": 1,
+        "explanation": "In John 5:1-9, Jesus heals the man who had been invalid for 38 years, bypassing his need to wait for the waters to stir.",
+        "urduExplanation": "یوحنا 5:1-9 کے مطابق، یسوع نے اس بیمار سے جو اڑتیس سال سے لاچار پڑا تھا، فرمایا: 'اٹھ، اپنا بستر اٹھا اور چل۔' اور وہ اسی دم شفا پا گیا۔"
+      },
+      {
+        "id": "elem_d25_q5",
+        "question": "What is the main spiritual lesson of the Parable of the Sower?",
+        "urduQuestion": "بونے والے کی تمثیل (Parable of Sower) کا اصل روحانی سبق کیا ہے؟",
+        "options": ["Farming is a blessed profession", "Our hearts must be receptive to God's Word to bear spiritual fruit", "We should protect fields from birds", "Thorny plants should be pulled out"],
+        "urduOptions": ["کاشتکاری ایک مبارک پیشہ ہے", "روحانی پھل لانے کے لیے ہمارے دلوں کو خدا کے کلام کو قبول کرنا چاہیے", "ہمیں پرندوں سے کھیتوں کی حفاظت کرنی چاہیے", "کانٹے دار پودوں کو اکھاڑ دینا چاہیے"],
+        "answerIndex": 1,
+        "explanation": "The parable focuses on the condition of the human heart (soil) and how it receives the seed of the Gospel (the Word) (Matthew 13).",
+        "urduExplanation": "یہ تمثیل ظاہر کرتی ہے کہ کلام کی تاثیر انسان کے دل پر منحصر ہے؛ اگر دل نرم اور کلام کے لیے تیار ہوگا تو وہ پھل لائے گا۔"
+      }
+    ]
+  },
+  {
+    "dayNumber": 26,
+    "questions": [
+      {
+        "id": "elem_d26_q1",
+        "question": "Which disciple was accused three times of being with Jesus but denied Him, even with curses?",
+        "urduQuestion": "کس شاگرد پر تین بار الزام لگا کہ وہ یسوع کے ساتھ تھا لیکن اس نے لعنت بھیج کر ان کا انکار کیا؟",
+        "options": ["Judas Iscariot", "Simon Peter", "John", "Thomas"],
+        "urduOptions": ["یہوداہ اسکریوتی", "شمعون پطرس (Simon Peter)", "یوحنا", "توما"],
+        "answerIndex": 1,
+        "explanation": "Matthew 26:69-75 records Peter denying Jesus three times in the courtyard, subsequently weeping bitterly when the rooster crowed.",
+        "urduExplanation": "متی 26:69-75 کے مطابق، پطرس نے سردار کاہن کے صحن میں تین بار یسوع کا انکار کیا اور مرغ کی بانگ سن کر زار زار رویا۔"
+      },
+      {
+        "id": "elem_d26_q2",
+        "question": "What did Judas do with the 30 pieces of silver after seeing Jesus condemned?",
+        "urduQuestion": "جب یہوداہ نے دیکھا کہ یسوع مجرم ٹھہرائے گئے ہیں، تو اس نے چاندی کے تیس سکوں کا کیا کیا؟",
+        "options": ["He hid them in Goshen", "He threw them into the temple and hanged himself", "He gave them to the Roman soldiers", "He bought a field"],
+        "urduOptions": ["اس نے انہیں جوشن میں چھپایا", "اس نے انہیں ہیکل میں پھینک دیا اور جا کر پھانسی لگا لی (Hanged himself)", "اس نے وہ سکے رومی سپاہیوں کو دے دیے", "اس نے ایک کھیت خریدا"],
+        "answerIndex": 1,
+        "explanation": "Matthew 27:3-5 confirms Judas returned the silver to the chief priests, threw it into the temple sanctuary, and hanged himself.",
+        "urduExplanation": "متی 27:3-5 کے مطابق، یہوداہ اسکریوتی پچھتایا اور چاندی کے تیس سکے ہیکل میں پھینک کر چلا گیا اور جا کر اپنے آپ کو پھانسی دی۔"
+      },
+      {
+        "id": "elem_d26_q3",
+        "question": "Who was the Roman governor Pilate's prisoner whom the crowd chose to release instead of Jesus?",
+        "urduQuestion": "پیلاطوس کی حراست میں وہ کون سا باغی اور خونی قیدی تھا جسے بھیڑ نے یسوع کی جگہ رہا کرنے کا مطالبہ کیا تھا؟",
+        "options": ["Barabbas", "Barnabas", "Silas", "Matthias"],
+        "urduOptions": ["برابا (Barabbas)", "برنباس", "سیلاس", "متیاہ"],
+        "answerIndex": 0,
+        "explanation": "Matthew 27:15-21 records the custom of releasing a prisoner, with the crowd choosing the notorious rebel Barabbas over Jesus.",
+        "urduExplanation": "متی 27:15-21 کے مطابق، پیلاطوس کے پوچھنے پر لوگوں نے چلایا کہ ہمارے لیے برابا کو چھوڑ دے اور یسوع کو صلیب دے۔"
+      },
+      {
+        "id": "elem_d26_q4",
+        "question": "What was the name of the man from Cyrene forced by Roman soldiers to carry Jesus' cross?",
+        "urduQuestion": "کرینی کے اس شخص کا نام کیا تھا جسے رومی سپاہیوں نے بیگار میں پکڑ کر یسوع کی صلیب اٹھانے پر مجبور کیا تھا؟",
+        "options": ["Simon", "Joseph", "Nicodemus", "Alexander"],
+        "urduOptions": ["شمعون (Simon)", "یوسف", "نیکودیمس", "سکندر"],
+        "answerIndex": 0,
+        "explanation": "Matthew 27:32 states that as they led Jesus out, they found a Cyrenian man named Simon and forced him to carry the cross.",
+        "urduExplanation": "متی 27:32 کے مطابق، باہر جاتے وقت انہیں ایک کرینی آدمی شمعون نامی ملا، انہوں نے اسے مجبور کیا کہ وہ صلیب اٹھائے۔"
+      },
+      {
+        "id": "elem_d26_q5",
+        "question": "What is the meaning of the Aramaic name 'Golgotha', where Jesus was crucified?",
+        "urduQuestion": "عبرانی / ارامی نام 'گلگتا' (Golgotha) کا کیا مطلب ہے جہاں یسوع کو صلیب دی گئی تھی؟",
+        "options": ["Hill of Crosses", "Place of the Skull", "Valley of Redemption", "Garden of Tears"],
+        "urduOptions": ["صلیبوں کی پہاڑی", "کھوپڑی کی جگہ (Place of the Skull)", "نجات کی وادی", "آنسوؤں کا باغ"],
+        "answerIndex": 1,
+        "explanation": "Matthew 27:33 and John 19:17 state that Golgotha translates as 'the Place of the Skull'.",
+        "urduExplanation": "متی 27:33 کے مطابق، وہ اس جگہ پہنچے جسے گلگتا کہتے ہیں، جس کا مطلب 'کھوپڑی کی جگہ' ہے۔"
+      }
+    ]
+  },
+  {
+    "dayNumber": 27,
+    "questions": [
+      {
+        "id": "elem_d27_q1",
+        "question": "Who was the High Priest Caiaphas' father-in-law, to whom Jesus was first led during His arrest?",
+        "urduQuestion": "سردار کاہن کیا فا کے سسر کا نام کیا تھا، گرفتاری کے بعد یسوع کو سب سے پہلے ان کے پاس کیوں لے جایا گیا؟",
+        "options": ["Annas", "Gamaliel", "Pilate", "Herod"],
+        "urduOptions": ["حنان (Annas)", "غمالییل", "پیلاطوس", "ہیرودیس"],
+        "answerIndex": 0,
+        "explanation": "John 18:13 states they bound Jesus and led Him first to Annas, who was the father-in-law of Caiaphas, the high priest that year.",
+        "urduExplanation": "یوحنا 18:13 کے مطابق، وہ یسوع کو باندھ کر پہلے حنان کے پاس لے گئے کیونکہ وہ اس سال کے سردار کاہن کیا فا کا خسر تھا۔"
+      },
+      {
+        "id": "elem_d27_q2",
+        "question": "What happened to the curtain in the Temple when Jesus died on the cross?",
+        "urduQuestion": "جب یسوع نے صلیب پر دم توڑا (جان دی) تو ہیکل کے مقدس ترین مقام کے پردے کے ساتھ کیا واقعہ پیش آیا؟",
+        "options": ["It caught fire", "It was torn in two from top to bottom", "It turned gold", "It vanished"],
+        "urduOptions": ["اسے آگ لگ گئی", "وہ اوپر سے نیچے تک پھٹ کر دو ٹکڑے ہو گیا (Torn in two)", "وہ سونے میں تبدیل ہو گیا", "وہ غائب ہو گیا"],
+        "answerIndex": 1,
+        "explanation": "Matthew 27:51 records that at the moment of Jesus' death, the curtain of the temple was torn in two from top to bottom.",
+        "urduExplanation": "متی 27:51 کے مطابق، یسوع کے دم توڑتے ہی ہیکل کا پردہ اوپر سے نیچے تک پھٹ کر دو ٹکڑے ہو گیا، جو خدا تک بلا روک ٹوک رسائی کا نشان ہے۔"
+      },
+      {
+        "id": "elem_d27_q3",
+        "question": "Who requested Pilate for Jesus' body and laid Him in his own new, rock-hewn tomb?",
+        "urduQuestion": "کس معزز یہودی بزرگ نے پیلاطوس سے یسوع کی لاش مانگی اور اپنے نئے چٹان میں کھدے مقبرے میں دفن کیا؟",
+        "options": ["Nicodemus", "Joseph of Arimathea", "Barnabas", "Peter"],
+        "urduOptions": ["نیکودیمس", "یوسف ارمتی (Joseph of Arimathea)", "برنباس", "پطرس"],
+        "answerIndex": 1,
+        "explanation": "Matthew 27:57-60 confirms Joseph of Arimathea, a disciple of Jesus, took the body, wrapped it in clean linen, and laid it in his tomb.",
+        "urduExplanation": "متی 27:57-60 کے مطابق، ارمتیہ کے یوسف نامی ایک امیر نے لاش مانگی، اسے صاف باریک سوتی کپڑے میں لپیٹا اور اپنی چٹان میں کھدی قبر میں رکھا۔"
+      },
+      {
+        "id": "elem_d27_q4",
+        "question": "What is the great command Jesus gave His disciples before His ascension, known as the Great Commission?",
+        "urduQuestion": "آسمان پر تشریف لے جانے سے پہلے یسوع نے اپنے شاگردوں کو کون سا عظیم الشان حکم دیا تھا؟",
+        "options": ["Go and make disciples of all nations, baptizing them", "Build magnificent churches in Rome", "Retreat to the wilderness and fast", "Wait for the temple's destruction"],
+        "urduOptions": ["جاؤ اور سب قوموں کو شاگرد بناؤ اور بپتسمہ دو (Great Commission)", "روم میں شاندار کلیسیائیں تعمیر کرو", "بیابان میں جا کر روزے رکھو", "ہیکل کی تباہی کا انتظار کرو"],
+        "answerIndex": 0,
+        "explanation": "In Matthew 28:19, Jesus commands: 'Go and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit.'",
+        "urduExplanation": "متی 28:19 میں، یسوع فرماتے ہیں: 'پس تم جا کر سب قوموں کو شاگرد بناؤ اور ان کو باپ اور بیٹے اور روح القدس کے نام سے بپتسمہ دو۔'"
+      },
+      {
+        "id": "elem_d27_q5",
+        "question": "Who was the High Priest of Salem who blessed Abraham and is a type of Christ's eternal priesthood?",
+        "urduQuestion": "سالم کا وہ بادشاہ اور کاہن کون تھا جس نے ابراہام کو برکت دی تھی اور وہ مسیح کی ابدی کہانت کا سایہ ہے؟",
+        "options": ["Aaron", "Melchizedek", "Eli", "Zadok"],
+        "urduOptions": ["ہارون", "ملکی صدق (Melchizedek)", "عالی", "صادوق"],
+        "answerIndex": 1,
+        "explanation": "Melchizedek, King of Salem and Priest of God Most High, appears in Genesis 14 and is discussed in Hebrews 7 as a type of Jesus.",
+        "urduExplanation": "ملکی صدق سالم کا بادشاہ اور خدا تعالیٰ کا کاہن تھا، جس کا موازنہ عبرانیوں 7 میں یسوع کی ابدی کہانت سے کیا گیا ہے۔"
+      }
+    ]
+  },
+  {
+    "dayNumber": 28,
+    "questions": [
+      {
+        "id": "elem_d28_q1",
+        "question": "According to Ephesians 6, who is our struggle ultimately against?",
+        "urduQuestion": "افسیوں 6 کے مطابق، ہماری اصل جنگ یا کشتی کس کے خلاف ہے؟",
+        "options": ["Flesh and blood", "Rulers, authorities, and spiritual forces of evil", "Roman governors", "Unbelievers"],
+        "urduOptions": ["خون اور گوشت سے", "حاکموں، اختیاروں اور شرارت کی روحانی فوجوں سے", "رومی حاکموں سے", "غیر ایمان والوں سے"],
+        "answerIndex": 1,
+        "explanation": "Ephesians 6:12 states: 'For our struggle is not against flesh and blood, but against the rulers, against the authorities... against the spiritual forces of evil...'",
+        "urduExplanation": "افسیوں 6:12 فرماتا ہے: 'کیونکہ ہمیں خون اور گوشت سے کشتی نہیں کرنا ہے بلکہ حکومتوں اور اختیاروں اور دنیا کی تاریکی کے حاکموں اور شرارت کی روحانی فوجوں سے۔'"
+      },
+      {
+        "id": "elem_d28_q2",
+        "question": "What is the very last book of the New Testament and the entire Bible?",
+        "urduQuestion": "نیا عہد نامہ اور پوری بائبل مقدس کی سب سے آخری کتاب کون سی ہے؟",
+        "options": ["Epistle of Jude", "Book of Revelation", "Gospel of John", "Epistle to the Hebrews"],
+        "urduOptions": ["یہوداہ کا خط", "مکاشفہ کی کتاب (Revelation)", "یوحنا کی انجیل", "عبرانیوں کا خط"],
+        "answerIndex": 1,
+        "explanation": "The Bible concludes with the Book of Revelation (Apocalypse), written by John.",
+        "urduExplanation": "بائبل مقدس کی سب سے آخری کتاب یوحنا عارف کا مکاشفہ ہے، جس میں نئے آسمان اور نئی زمین کا ذکر ہے۔"
+      },
+      {
+        "id": "elem_d28_q3",
+        "question": "Where was the apostle John exiled when he received the visions recorded in Revelation?",
+        "urduQuestion": "یوحنا رسول کو کس جزیرے پر جلاوطن کیا گیا تھا جہاں انہیں مکاشفہ کی کتاب کی رویا ملی تھی؟",
+        "options": ["Cyprus", "Patmos", "Malta", "Crete"],
+        "urduOptions": ["قبرص", "پتموس (Patmos)", "مالٹا", "کریتے"],
+        "answerIndex": 1,
+        "explanation": "Revelation 1:9 states that John was on the island of Patmos because of the word of God and the testimony of Jesus.",
+        "urduExplanation": "مکاشفہ 1:9 کے مطابق، یوحنا خدا کے کلام اور یسوع کی گواہی کے سبب پتموس نامی جزیرے میں قید تھا۔"
+      },
+      {
+        "id": "elem_d28_q4",
+        "question": "According to Revelation, what is the description of the final resting city of the saints?",
+        "urduQuestion": "مکاشفہ کی کتاب کے مطابق، ایمان داروں کے آخری ابدی شہر کی کیا تعریف بیان کی گئی ہے؟",
+        "options": ["The New Jerusalem, descending from heaven", "A great garden on Mount Sinai", "A rebuilt temple in Rome", "The golden palace of Zion"],
+        "urduOptions": ["نیا یروشلم جو آسمان سے اترا", "کوہِ سینا پر ایک عظیم باغ", "روم میں دوبارہ تعمیر شدہ ہیکل", "صیہون کا سنہرا محل"],
+        "answerIndex": 0,
+        "explanation": "Revelation 21 describes the Holy City, the New Jerusalem, coming down out of heaven from God, beautifully adorned.",
+        "urduExplanation": "مکاشفہ 21 مقدس شہر، نئے یروشلم کو خدا کے پاس سے آسمان سے اترتے ہوئے بیان کرتا ہے، جس میں کوئی آنسو، موت یا غم نہیں ہوگا۔"
+      },
+      {
+        "id": "elem_d28_q5",
+        "question": "In what ancient city were the disciples of Jesus first referred to as 'Christians'?",
+        "urduQuestion": "کس قدیم شہر میں یسوع کے شاگردوں کو سب سے پہلے 'مسیحی' (Christians) کہا گیا؟",
+        "options": ["Jerusalem", "Damascus", "Antioch", "Rome"],
+        "urduOptions": ["یروشلم", "دمشق", "انطاکیہ (Antioch)", "روم"],
+        "answerIndex": 2,
+        "explanation": "Acts 11:26 records that 'the disciples were called Christians first at Antioch.'",
+        "urduExplanation": "اعمال 11:26 میں درج ہے کہ انطاکیہ میں سب سے پہلے شاگرد 'مسیحی' کہلائے۔"
+      }
+    ]
+  }
+]
